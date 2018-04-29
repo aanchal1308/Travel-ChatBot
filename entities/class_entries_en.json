@@ -1,0 +1,30 @@
+[
+  {
+    "value": "first",
+    "synonyms": [
+      "first",
+      "first class"
+    ]
+  },
+  {
+    "value": "economy",
+    "synonyms": [
+      "economy",
+      "economy class",
+      "eco"
+    ]
+  },
+  {
+    "value": "business",
+    "synonyms": [
+      "business",
+      "business class"
+    ]
+  },
+  {
+    "value": "coach",
+    "synonyms": [
+      "coach"
+    ]
+  }
+]

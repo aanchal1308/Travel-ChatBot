@@ -1,0 +1,28 @@
+[
+  {
+    "value": "Hello",
+    "synonyms": [
+      "Hello",
+      "Hi",
+      "Hola"
+    ]
+  },
+  {
+    "value": "tourismmm",
+    "synonyms": [
+      "tourismmm"
+    ]
+  },
+  {
+    "value": "Hey",
+    "synonyms": [
+      "Hey"
+    ]
+  },
+  {
+    "value": "tourism",
+    "synonyms": [
+      "tourism"
+    ]
+  }
+]

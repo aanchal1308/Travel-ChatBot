@@ -1,0 +1,55 @@
+[
+  {
+    "value": "art gallery",
+    "synonyms": [
+      "art gallery",
+      "art galleries",
+      "gallery",
+      "galleries"
+    ]
+  },
+  {
+    "value": "movie theater",
+    "synonyms": [
+      "movie theater",
+      "cinema",
+      "movie theaters",
+      "cinemas",
+      "take me to the movies",
+      "movies"
+    ]
+  },
+  {
+    "value": "music venue",
+    "synonyms": [
+      "music venue"
+    ]
+  },
+  {
+    "value": "theater",
+    "synonyms": [
+      "theater",
+      "theaters"
+    ]
+  },
+  {
+    "value": "museum",
+    "synonyms": [
+      "museum",
+      "museums"
+    ]
+  },
+  {
+    "value": "cultural center",
+    "synonyms": [
+      "cultural center",
+      "cultural centers"
+    ]
+  },
+  {
+    "value": "opera",
+    "synonyms": [
+      "opera"
+    ]
+  }
+]

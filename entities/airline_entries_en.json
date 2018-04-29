@@ -1,0 +1,7341 @@
+[
+  {
+    "value": "Aurigny Air Services",
+    "synonyms": [
+      "Aurigny Air Services"
+    ]
+  },
+  {
+    "value": "East African Safari Air",
+    "synonyms": [
+      "East African Safari Air"
+    ]
+  },
+  {
+    "value": "Afriqiyah Airways",
+    "synonyms": [
+      "Afriqiyah Airways"
+    ]
+  },
+  {
+    "value": "Africa Airways",
+    "synonyms": [
+      "Africa Airways"
+    ]
+  },
+  {
+    "value": "Astral Aviation",
+    "synonyms": [
+      "Astral Aviation"
+    ]
+  },
+  {
+    "value": "Gol Transportes Aereos",
+    "synonyms": [
+      "Gol Transportes Aereos"
+    ]
+  },
+  {
+    "value": "Hellas Jet",
+    "synonyms": [
+      "Hellas Jet"
+    ]
+  },
+  {
+    "value": "AeroRepublica",
+    "synonyms": [
+      "AeroRepublica"
+    ]
+  },
+  {
+    "value": "Etihad Airways",
+    "synonyms": [
+      "Etihad Airways"
+    ]
+  },
+  {
+    "value": "Hope Air",
+    "synonyms": [
+      "Hope Air"
+    ]
+  },
+  {
+    "value": "Krasnojarsky Airlines",
+    "synonyms": [
+      "Krasnojarsky Airlines"
+    ]
+  },
+  {
+    "value": "KLM",
+    "synonyms": [
+      "KLM"
+    ]
+  },
+  {
+    "value": "Air Macau",
+    "synonyms": [
+      "Air Macau"
+    ]
+  },
+  {
+    "value": "Laoag International Airlines",
+    "synonyms": [
+      "Laoag International Airlines"
+    ]
+  },
+  {
+    "value": "LAN Express",
+    "synonyms": [
+      "LAN Express"
+    ]
+  },
+  {
+    "value": "1Time Airline",
+    "synonyms": [
+      "1Time Airline"
+    ]
+  },
+  {
+    "value": "Aeroperu",
+    "synonyms": [
+      "Aeroperu"
+    ]
+  },
+  {
+    "value": "Air Nostrum",
+    "synonyms": [
+      "Air Nostrum"
+    ]
+  },
+  {
+    "value": "Air Niugini",
+    "synonyms": [
+      "Air Niugini"
+    ]
+  },
+  {
+    "value": "Amadeus Global Travel Distribution",
+    "synonyms": [
+      "Amadeus Global Travel Distribution"
+    ]
+  },
+  {
+    "value": "Blue Panorama Airlines",
+    "synonyms": [
+      "Blue Panorama Airlines"
+    ]
+  },
+  {
+    "value": "Conviasa",
+    "synonyms": [
+      "Conviasa"
+    ]
+  },
+  {
+    "value": "Galaxy Air",
+    "synonyms": [
+      "Galaxy Air"
+    ]
+  },
+  {
+    "value": "Maya Island Air",
+    "synonyms": [
+      "Maya Island Air"
+    ]
+  },
+  {
+    "value": "Luxair",
+    "synonyms": [
+      "Luxair"
+    ]
+  },
+  {
+    "value": "Flydubai",
+    "synonyms": [
+      "Flydubai"
+    ]
+  },
+  {
+    "value": "Djibouti Airlines",
+    "synonyms": [
+      "Djibouti Airlines"
+    ]
+  },
+  {
+    "value": "Hewa Bora Airways",
+    "synonyms": [
+      "Hewa Bora Airways"
+    ]
+  },
+  {
+    "value": "Novair",
+    "synonyms": [
+      "Novair"
+    ]
+  },
+  {
+    "value": "Capital Cargo International Airlines",
+    "synonyms": [
+      "Capital Cargo International Airlines"
+    ]
+  },
+  {
+    "value": "Air BC",
+    "synonyms": [
+      "Air BC"
+    ]
+  },
+  {
+    "value": "Aserca Airlines",
+    "synonyms": [
+      "Aserca Airlines"
+    ]
+  },
+  {
+    "value": "Hong Kong Express Airways",
+    "synonyms": [
+      "Hong Kong Express Airways"
+    ]
+  },
+  {
+    "value": "KD Avia",
+    "synonyms": [
+      "KD Avia"
+    ]
+  },
+  {
+    "value": "Jet2.com",
+    "synonyms": [
+      "Jet2.com"
+    ]
+  },
+  {
+    "value": "NetJets",
+    "synonyms": [
+      "NetJets"
+    ]
+  },
+  {
+    "value": "Blue Wings",
+    "synonyms": [
+      "Blue Wings"
+    ]
+  },
+  {
+    "value": "Lion Mentari Airlines",
+    "synonyms": [
+      "Lion Mentari Airlines"
+    ]
+  },
+  {
+    "value": "China United Airlines",
+    "synonyms": [
+      "China United Airlines"
+    ]
+  },
+  {
+    "value": "Lviv Airlines",
+    "synonyms": [
+      "Lviv Airlines"
+    ]
+  },
+  {
+    "value": "ADC Airlines",
+    "synonyms": [
+      "ADC Airlines"
+    ]
+  },
+  {
+    "value": "Air Senegal International",
+    "synonyms": [
+      "Air Senegal International"
+    ]
+  },
+  {
+    "value": "Atlantis European Airways",
+    "synonyms": [
+      "Atlantis European Airways"
+    ]
+  },
+  {
+    "value": "Albanian Airlines",
+    "synonyms": [
+      "Albanian Airlines"
+    ]
+  },
+  {
+    "value": "Reem Air",
+    "synonyms": [
+      "Reem Air"
+    ]
+  },
+  {
+    "value": "Air Zimbabwe",
+    "synonyms": [
+      "Air Zimbabwe"
+    ]
+  },
+  {
+    "value": "Ethiopian Airlines",
+    "synonyms": [
+      "Ethiopian Airlines"
+    ]
+  },
+  {
+    "value": "Hapagfly",
+    "synonyms": [
+      "Hapagfly"
+    ]
+  },
+  {
+    "value": "Iceland Express",
+    "synonyms": [
+      "Iceland Express"
+    ]
+  },
+  {
+    "value": "Irtysh Air",
+    "synonyms": [
+      "Irtysh Air"
+    ]
+  },
+  {
+    "value": "Kish Air",
+    "synonyms": [
+      "Kish Air"
+    ]
+  },
+  {
+    "value": "Bearskin Lake Air Service",
+    "synonyms": [
+      "Bearskin Lake Air Service"
+    ]
+  },
+  {
+    "value": "Fly Jamaica Airways",
+    "synonyms": [
+      "Fly Jamaica Airways"
+    ]
+  },
+  {
+    "value": "North-Wright Airways",
+    "synonyms": [
+      "North-Wright Airways"
+    ]
+  },
+  {
+    "value": "Intersky",
+    "synonyms": [
+      "Intersky"
+    ]
+  },
+  {
+    "value": "Bristow US LLC",
+    "synonyms": [
+      "Bristow US LLC"
+    ]
+  },
+  {
+    "value": "Holidays Czech Airlines",
+    "synonyms": [
+      "Holidays Czech Airlines"
+    ]
+  },
+  {
+    "value": "Kampuchea Airlines",
+    "synonyms": [
+      "Kampuchea Airlines"
+    ]
+  },
+  {
+    "value": "LTU Austria",
+    "synonyms": [
+      "LTU Austria"
+    ]
+  },
+  {
+    "value": "Mesa Airlines",
+    "synonyms": [
+      "Mesa Airlines"
+    ]
+  },
+  {
+    "value": "Aero 2000",
+    "synonyms": [
+      "Aero 2000"
+    ]
+  },
+  {
+    "value": "Phuket Air",
+    "synonyms": [
+      "Phuket Air"
+    ]
+  },
+  {
+    "value": "Kalitta Charters II",
+    "synonyms": [
+      "Kalitta Charters II"
+    ]
+  },
+  {
+    "value": "Kyrgyzstan Airlines",
+    "synonyms": [
+      "Kyrgyzstan Airlines"
+    ]
+  },
+  {
+    "value": "Aero Condor Peru",
+    "synonyms": [
+      "Aero Condor Peru"
+    ]
+  },
+  {
+    "value": "B\u0026H Airlines",
+    "synonyms": [
+      "B\u0026H Airlines"
+    ]
+  },
+  {
+    "value": "Air Mekong",
+    "synonyms": [
+      "Air Mekong"
+    ]
+  },
+  {
+    "value": "Air Gabon",
+    "synonyms": [
+      "Air Gabon"
+    ]
+  },
+  {
+    "value": "Blue Dart Aviation",
+    "synonyms": [
+      "Blue Dart Aviation"
+    ]
+  },
+  {
+    "value": "Belavia Belarusian Airlines",
+    "synonyms": [
+      "Belavia Belarusian Airlines"
+    ]
+  },
+  {
+    "value": "Hainan Airlines",
+    "synonyms": [
+      "Hainan Airlines"
+    ]
+  },
+  {
+    "value": "MAT Macedonian Airlines",
+    "synonyms": [
+      "MAT Macedonian Airlines"
+    ]
+  },
+  {
+    "value": "Royal Khmer Airlines",
+    "synonyms": [
+      "Royal Khmer Airlines"
+    ]
+  },
+  {
+    "value": "Aero Asia International",
+    "synonyms": [
+      "Aero Asia International"
+    ]
+  },
+  {
+    "value": "Electronic Data Systems",
+    "synonyms": [
+      "Electronic Data Systems"
+    ]
+  },
+  {
+    "value": "Eurolot",
+    "synonyms": [
+      "Eurolot"
+    ]
+  },
+  {
+    "value": "International Business Air",
+    "synonyms": [
+      "International Business Air"
+    ]
+  },
+  {
+    "value": "Nasair",
+    "synonyms": [
+      "Nasair"
+    ]
+  },
+  {
+    "value": "Air North Charter - Canada",
+    "synonyms": [
+      "Air North Charter - Canada"
+    ]
+  },
+  {
+    "value": "Hapag-Lloyd Express",
+    "synonyms": [
+      "Hapag-Lloyd Express"
+    ]
+  },
+  {
+    "value": "Lufthansa Systems",
+    "synonyms": [
+      "Lufthansa Systems"
+    ]
+  },
+  {
+    "value": "MIAT Mongolian Airlines",
+    "synonyms": [
+      "MIAT Mongolian Airlines"
+    ]
+  },
+  {
+    "value": "Air Service",
+    "synonyms": [
+      "Air Service"
+    ]
+  },
+  {
+    "value": "Arrow Air",
+    "synonyms": [
+      "Arrow Air"
+    ]
+  },
+  {
+    "value": "Kingfisher Airlines",
+    "synonyms": [
+      "Kingfisher Airlines"
+    ]
+  },
+  {
+    "value": "Piedmont Airlines",
+    "synonyms": [
+      "Piedmont Airlines"
+    ]
+  },
+  {
+    "value": "Air Jamaica",
+    "synonyms": [
+      "Air Jamaica"
+    ]
+  },
+  {
+    "value": "Cubana de Aviacion",
+    "synonyms": [
+      "Cubana de Aviacion"
+    ]
+  },
+  {
+    "value": "Czech Airlines",
+    "synonyms": [
+      "Czech Airlines"
+    ]
+  },
+  {
+    "value": "First Choice Airways",
+    "synonyms": [
+      "First Choice Airways"
+    ]
+  },
+  {
+    "value": "Mastertop Linhas Aereas",
+    "synonyms": [
+      "Mastertop Linhas Aereas"
+    ]
+  },
+  {
+    "value": "North American Airlines",
+    "synonyms": [
+      "North American Airlines"
+    ]
+  },
+  {
+    "value": "Aerologic",
+    "synonyms": [
+      "Aerologic"
+    ]
+  },
+  {
+    "value": "Aeromar",
+    "synonyms": [
+      "Aeromar"
+    ]
+  },
+  {
+    "value": "Hello",
+    "synonyms": [
+      "Hello"
+    ]
+  },
+  {
+    "value": "Cosmic Air",
+    "synonyms": [
+      "Cosmic Air"
+    ]
+  },
+  {
+    "value": "Regional Express",
+    "synonyms": [
+      "Regional Express"
+    ]
+  },
+  {
+    "value": "Aeromexico",
+    "synonyms": [
+      "Aeromexico"
+    ]
+  },
+  {
+    "value": "Kenya Airways",
+    "synonyms": [
+      "Kenya Airways"
+    ]
+  },
+  {
+    "value": "Iraqi Airways",
+    "synonyms": [
+      "Iraqi Airways"
+    ]
+  },
+  {
+    "value": "Air Malawi",
+    "synonyms": [
+      "Air Malawi"
+    ]
+  },
+  {
+    "value": "Air São Tome and Principe",
+    "synonyms": [
+      "Air São Tome and Principe"
+    ]
+  },
+  {
+    "value": "Cambodia Angkor Air",
+    "synonyms": [
+      "Cambodia Angkor Air"
+    ]
+  },
+  {
+    "value": "Darwin Airline",
+    "synonyms": [
+      "Darwin Airline"
+    ]
+  },
+  {
+    "value": "Eastwind Airlines",
+    "synonyms": [
+      "Eastwind Airlines"
+    ]
+  },
+  {
+    "value": "GoAir",
+    "synonyms": [
+      "GoAir"
+    ]
+  },
+  {
+    "value": "Israir",
+    "synonyms": [
+      "Israir"
+    ]
+  },
+  {
+    "value": "Radixx Solutions International",
+    "synonyms": [
+      "Radixx Solutions International"
+    ]
+  },
+  {
+    "value": "Ansett Australia",
+    "synonyms": [
+      "Ansett Australia"
+    ]
+  },
+  {
+    "value": "Ryanair",
+    "synonyms": [
+      "Ryanair"
+    ]
+  },
+  {
+    "value": "Aerolitoral",
+    "synonyms": [
+      "Aerolitoral"
+    ]
+  },
+  {
+    "value": "Eastland Air",
+    "synonyms": [
+      "Eastland Air"
+    ]
+  },
+  {
+    "value": "LTE International Airways",
+    "synonyms": [
+      "LTE International Airways"
+    ]
+  },
+  {
+    "value": "Abu Dhabi Amiri Flight",
+    "synonyms": [
+      "Abu Dhabi Amiri Flight"
+    ]
+  },
+  {
+    "value": "Oman Air",
+    "synonyms": [
+      "Oman Air"
+    ]
+  },
+  {
+    "value": "Air Luxor GB",
+    "synonyms": [
+      "Air Luxor GB"
+    ]
+  },
+  {
+    "value": "Asian Spirit",
+    "synonyms": [
+      "Asian Spirit"
+    ]
+  },
+  {
+    "value": "Croatia Airlines",
+    "synonyms": [
+      "Croatia Airlines"
+    ]
+  },
+  {
+    "value": "Friendship Airways",
+    "synonyms": [
+      "Friendship Airways"
+    ]
+  },
+  {
+    "value": "FlyNordic",
+    "synonyms": [
+      "FlyNordic"
+    ]
+  },
+  {
+    "value": "Kuban Airlines",
+    "synonyms": [
+      "Kuban Airlines"
+    ]
+  },
+  {
+    "value": "DHL de Guatemala",
+    "synonyms": [
+      "DHL de Guatemala"
+    ]
+  },
+  {
+    "value": "Gujarat Airways",
+    "synonyms": [
+      "Gujarat Airways"
+    ]
+  },
+  {
+    "value": "Ghana Airways",
+    "synonyms": [
+      "Ghana Airways"
+    ]
+  },
+  {
+    "value": "Interstate Airlines",
+    "synonyms": [
+      "Interstate Airlines"
+    ]
+  },
+  {
+    "value": "Polar Air Cargo",
+    "synonyms": [
+      "Polar Air Cargo"
+    ]
+  },
+  {
+    "value": "Royal Air Force",
+    "synonyms": [
+      "Royal Air Force"
+    ]
+  },
+  {
+    "value": "Qantas",
+    "synonyms": [
+      "Qantas",
+      "QF"
+    ]
+  },
+  {
+    "value": "Air Dolomiti",
+    "synonyms": [
+      "Air Dolomiti"
+    ]
+  },
+  {
+    "value": "Air Burkina",
+    "synonyms": [
+      "Air Burkina"
+    ]
+  },
+  {
+    "value": "Potomac Air",
+    "synonyms": [
+      "Potomac Air"
+    ]
+  },
+  {
+    "value": "Shuttle America",
+    "synonyms": [
+      "Shuttle America"
+    ]
+  },
+  {
+    "value": "First Air",
+    "synonyms": [
+      "First Air"
+    ]
+  },
+  {
+    "value": "Linea Aerea de Servicio Ejecutivo Regional",
+    "synonyms": [
+      "Linea Aerea de Servicio Ejecutivo Regional"
+    ]
+  },
+  {
+    "value": "Origin Pacific Airways",
+    "synonyms": [
+      "Origin Pacific Airways"
+    ]
+  },
+  {
+    "value": "Avia Express",
+    "synonyms": [
+      "Avia Express"
+    ]
+  },
+  {
+    "value": "Fly Me Sweden",
+    "synonyms": [
+      "Fly Me Sweden"
+    ]
+  },
+  {
+    "value": "Jet 2 dot com",
+    "synonyms": [
+      "Jet 2 dot com"
+    ]
+  },
+  {
+    "value": "Midway Airlines",
+    "synonyms": [
+      "Midway Airlines"
+    ]
+  },
+  {
+    "value": "Alpi Eagles",
+    "synonyms": [
+      "Alpi Eagles"
+    ]
+  },
+  {
+    "value": "Gorkha Airlines",
+    "synonyms": [
+      "Gorkha Airlines"
+    ]
+  },
+  {
+    "value": "Mars RK",
+    "synonyms": [
+      "Mars RK"
+    ]
+  },
+  {
+    "value": "Ryan International Airlines",
+    "synonyms": [
+      "Ryan International Airlines"
+    ]
+  },
+  {
+    "value": "Air Japan",
+    "synonyms": [
+      "Air Japan"
+    ]
+  },
+  {
+    "value": "Austrian Airtransport",
+    "synonyms": [
+      "Austrian Airtransport"
+    ]
+  },
+  {
+    "value": "Air Canada Jazz",
+    "synonyms": [
+      "Air Canada Jazz"
+    ]
+  },
+  {
+    "value": "AeroSur",
+    "synonyms": [
+      "AeroSur"
+    ]
+  },
+  {
+    "value": "Air Austral",
+    "synonyms": [
+      "Air Austral"
+    ]
+  },
+  {
+    "value": "Air Central",
+    "synonyms": [
+      "Air Central"
+    ]
+  },
+  {
+    "value": "America West Airlines",
+    "synonyms": [
+      "America West Airlines"
+    ]
+  },
+  {
+    "value": "Indian Airlines",
+    "synonyms": [
+      "Indian Airlines"
+    ]
+  },
+  {
+    "value": "Linea Turistica Aereotuy",
+    "synonyms": [
+      "Linea Turistica Aereotuy"
+    ]
+  },
+  {
+    "value": "Myway Airlines",
+    "synonyms": [
+      "Myway Airlines"
+    ]
+  },
+  {
+    "value": "Russian Sky Airlines",
+    "synonyms": [
+      "Russian Sky Airlines"
+    ]
+  },
+  {
+    "value": "Aero Services Executive",
+    "synonyms": [
+      "Aero Services Executive"
+    ]
+  },
+  {
+    "value": "Albarka Air",
+    "synonyms": [
+      "Albarka Air"
+    ]
+  },
+  {
+    "value": "Air Guyane",
+    "synonyms": [
+      "Air Guyane"
+    ]
+  },
+  {
+    "value": "Aerocondor",
+    "synonyms": [
+      "Aerocondor"
+    ]
+  },
+  {
+    "value": "Phoenix Airways",
+    "synonyms": [
+      "Phoenix Airways"
+    ]
+  },
+  {
+    "value": "Air Ivoire",
+    "synonyms": [
+      "Air Ivoire"
+    ]
+  },
+  {
+    "value": "Bouraq Indonesia Airlines",
+    "synonyms": [
+      "Bouraq Indonesia Airlines"
+    ]
+  },
+  {
+    "value": "Eurofly",
+    "synonyms": [
+      "Eurofly"
+    ]
+  },
+  {
+    "value": "Flyglobespan",
+    "synonyms": [
+      "Flyglobespan"
+    ]
+  },
+  {
+    "value": "Mongolian Airlines",
+    "synonyms": [
+      "Mongolian Airlines"
+    ]
+  },
+  {
+    "value": "Pace Airlines",
+    "synonyms": [
+      "Pace Airlines"
+    ]
+  },
+  {
+    "value": "Air Mali",
+    "synonyms": [
+      "Air Mali"
+    ]
+  },
+  {
+    "value": "Askari Aviation",
+    "synonyms": [
+      "Askari Aviation"
+    ]
+  },
+  {
+    "value": "Helijet",
+    "synonyms": [
+      "Helijet"
+    ]
+  },
+  {
+    "value": "Golden Myanmar Airlines",
+    "synonyms": [
+      "Golden Myanmar Airlines"
+    ]
+  },
+  {
+    "value": "Kam Air",
+    "synonyms": [
+      "Kam Air"
+    ]
+  },
+  {
+    "value": "Islas Airways",
+    "synonyms": [
+      "Islas Airways"
+    ]
+  },
+  {
+    "value": "Nok Air",
+    "synonyms": [
+      "Nok Air"
+    ]
+  },
+  {
+    "value": "Servicios de Transportes Aereos Fueguinos",
+    "synonyms": [
+      "Servicios de Transportes Aereos Fueguinos"
+    ]
+  },
+  {
+    "value": "Cargojet Airways",
+    "synonyms": [
+      "Cargojet Airways"
+    ]
+  },
+  {
+    "value": "Hamburg International",
+    "synonyms": [
+      "Hamburg International"
+    ]
+  },
+  {
+    "value": "Air Bridge Carriers",
+    "synonyms": [
+      "Air Bridge Carriers"
+    ]
+  },
+  {
+    "value": "Air Finland",
+    "synonyms": [
+      "Air Finland"
+    ]
+  },
+  {
+    "value": "Japan Airlines Domestic",
+    "synonyms": [
+      "Japan Airlines Domestic"
+    ]
+  },
+  {
+    "value": "Krylo Airlines",
+    "synonyms": [
+      "Krylo Airlines"
+    ]
+  },
+  {
+    "value": "Shenzhen Airlines",
+    "synonyms": [
+      "Shenzhen Airlines"
+    ]
+  },
+  {
+    "value": "Air Alpha Greenland",
+    "synonyms": [
+      "Air Alpha Greenland"
+    ]
+  },
+  {
+    "value": "Air Atlanta Icelandic",
+    "synonyms": [
+      "Air Atlanta Icelandic"
+    ]
+  },
+  {
+    "value": "Brussels Airlines",
+    "synonyms": [
+      "Brussels Airlines"
+    ]
+  },
+  {
+    "value": "European Air Transport",
+    "synonyms": [
+      "European Air Transport"
+    ]
+  },
+  {
+    "value": "Guyana Airways 2000",
+    "synonyms": [
+      "Guyana Airways 2000"
+    ]
+  },
+  {
+    "value": "Air Transport International",
+    "synonyms": [
+      "Air Transport International"
+    ]
+  },
+  {
+    "value": "Aviacsa",
+    "synonyms": [
+      "Aviacsa"
+    ]
+  },
+  {
+    "value": "Iran Aseman Airlines",
+    "synonyms": [
+      "Iran Aseman Airlines"
+    ]
+  },
+  {
+    "value": "Montserrat Airways",
+    "synonyms": [
+      "Montserrat Airways"
+    ]
+  },
+  {
+    "value": "Air Botswana",
+    "synonyms": [
+      "Air Botswana"
+    ]
+  },
+  {
+    "value": "Myanma Airways",
+    "synonyms": [
+      "Myanma Airways"
+    ]
+  },
+  {
+    "value": "Maersk",
+    "synonyms": [
+      "Maersk"
+    ]
+  },
+  {
+    "value": "Air Atlantique",
+    "synonyms": [
+      "Air Atlantique"
+    ]
+  },
+  {
+    "value": "Air India Limited",
+    "synonyms": [
+      "Air India Limited"
+    ]
+  },
+  {
+    "value": "IBC Airways",
+    "synonyms": [
+      "IBC Airways"
+    ]
+  },
+  {
+    "value": "Mekong Airlines",
+    "synonyms": [
+      "Mekong Airlines"
+    ]
+  },
+  {
+    "value": "Open Skies Consultative Commission",
+    "synonyms": [
+      "Open Skies Consultative Commission"
+    ]
+  },
+  {
+    "value": "All Nippon Airways",
+    "synonyms": [
+      "All Nippon Airways"
+    ]
+  },
+  {
+    "value": "air-taxi europe",
+    "synonyms": [
+      "air-taxi europe"
+    ]
+  },
+  {
+    "value": "JetsGo",
+    "synonyms": [
+      "JetsGo"
+    ]
+  },
+  {
+    "value": "Mount Cook Airlines",
+    "synonyms": [
+      "Mount Cook Airlines"
+    ]
+  },
+  {
+    "value": "Rossiya",
+    "synonyms": [
+      "Rossiya"
+    ]
+  },
+  {
+    "value": "American Falcon",
+    "synonyms": [
+      "American Falcon"
+    ]
+  },
+  {
+    "value": "RACSA",
+    "synonyms": [
+      "RACSA"
+    ]
+  },
+  {
+    "value": "Air Europe Italy",
+    "synonyms": [
+      "Air Europe Italy"
+    ]
+  },
+  {
+    "value": "Continental Micronesia",
+    "synonyms": [
+      "Continental Micronesia"
+    ]
+  },
+  {
+    "value": "Centurion Air Cargo",
+    "synonyms": [
+      "Centurion Air Cargo"
+    ]
+  },
+  {
+    "value": "Daallo Airlines",
+    "synonyms": [
+      "Daallo Airlines"
+    ]
+  },
+  {
+    "value": "Fischer Air",
+    "synonyms": [
+      "Fischer Air"
+    ]
+  },
+  {
+    "value": "Ikar",
+    "synonyms": [
+      "Ikar"
+    ]
+  },
+  {
+    "value": "North Flying",
+    "synonyms": [
+      "North Flying"
+    ]
+  },
+  {
+    "value": "African Safari Airways",
+    "synonyms": [
+      "African Safari Airways"
+    ]
+  },
+  {
+    "value": "ACES Colombia",
+    "synonyms": [
+      "ACES Colombia"
+    ]
+  },
+  {
+    "value": "Air Fiji",
+    "synonyms": [
+      "Air Fiji"
+    ]
+  },
+  {
+    "value": "Deutsche Rettungsflugwacht",
+    "synonyms": [
+      "Deutsche Rettungsflugwacht"
+    ]
+  },
+  {
+    "value": "Iran Air",
+    "synonyms": [
+      "Iran Air"
+    ]
+  },
+  {
+    "value": "Linea Aerea",
+    "synonyms": [
+      "Linea Aerea"
+    ]
+  },
+  {
+    "value": "Swiss International Air Lines",
+    "synonyms": [
+      "Swiss International Air Lines"
+    ]
+  },
+  {
+    "value": "African Transport Trading and Investment Company",
+    "synonyms": [
+      "African Transport Trading and Investment Company"
+    ]
+  },
+  {
+    "value": "Air Tahiti",
+    "synonyms": [
+      "Air Tahiti"
+    ]
+  },
+  {
+    "value": "Garuda Indonesia",
+    "synonyms": [
+      "Garuda Indonesia"
+    ]
+  },
+  {
+    "value": "Air Algerie",
+    "synonyms": [
+      "Air Algerie"
+    ]
+  },
+  {
+    "value": "Arkia Israel Airlines",
+    "synonyms": [
+      "Arkia Israel Airlines"
+    ]
+  },
+  {
+    "value": "CommutAir",
+    "synonyms": [
+      "CommutAir"
+    ]
+  },
+  {
+    "value": "Malaysia Airlines",
+    "synonyms": [
+      "Malaysia Airlines",
+      "MH"
+    ]
+  },
+  {
+    "value": "OLT Express Germany",
+    "synonyms": [
+      "OLT Express Germany"
+    ]
+  },
+  {
+    "value": "Air Guinee Express",
+    "synonyms": [
+      "Air Guinee Express"
+    ]
+  },
+  {
+    "value": "Libyan Arab Airlines",
+    "synonyms": [
+      "Libyan Arab Airlines"
+    ]
+  },
+  {
+    "value": "Mahan Air",
+    "synonyms": [
+      "Mahan Air"
+    ]
+  },
+  {
+    "value": "Precision Air",
+    "synonyms": [
+      "Precision Air"
+    ]
+  },
+  {
+    "value": "Germania",
+    "synonyms": [
+      "Germania"
+    ]
+  },
+  {
+    "value": "Jordan Aviation",
+    "synonyms": [
+      "Jordan Aviation"
+    ]
+  },
+  {
+    "value": "LANICA",
+    "synonyms": [
+      "LANICA"
+    ]
+  },
+  {
+    "value": "ABX Air",
+    "synonyms": [
+      "ABX Air"
+    ]
+  },
+  {
+    "value": "Air Transat",
+    "synonyms": [
+      "Air Transat"
+    ]
+  },
+  {
+    "value": "Air Greenland",
+    "synonyms": [
+      "Air Greenland"
+    ]
+  },
+  {
+    "value": "Boston-Maine Airways",
+    "synonyms": [
+      "Boston-Maine Airways"
+    ]
+  },
+  {
+    "value": "Great Lakes Airlines",
+    "synonyms": [
+      "Great Lakes Airlines"
+    ]
+  },
+  {
+    "value": "O Connor Airlines",
+    "synonyms": [
+      "O Connor Airlines"
+    ]
+  },
+  {
+    "value": "Alidaunia",
+    "synonyms": [
+      "Alidaunia"
+    ]
+  },
+  {
+    "value": "Kuwait Airways",
+    "synonyms": [
+      "Kuwait Airways"
+    ]
+  },
+  {
+    "value": "Aero Leasing",
+    "synonyms": [
+      "Aero Leasing"
+    ]
+  },
+  {
+    "value": "Atyrau Air Ways",
+    "synonyms": [
+      "Atyrau Air Ways"
+    ]
+  },
+  {
+    "value": "Eurocypria Airlines",
+    "synonyms": [
+      "Eurocypria Airlines"
+    ]
+  },
+  {
+    "value": "JSC Transport Automated Information Systems",
+    "synonyms": [
+      "JSC Transport Automated Information Systems"
+    ]
+  },
+  {
+    "value": "Transwest Air",
+    "synonyms": [
+      "Transwest Air"
+    ]
+  },
+  {
+    "value": "Peoples Viennaline",
+    "synonyms": [
+      "Peoples Viennaline"
+    ]
+  },
+  {
+    "value": "Pan American Airways",
+    "synonyms": [
+      "Pan American Airways"
+    ]
+  },
+  {
+    "value": "Atlantic Airlines",
+    "synonyms": [
+      "Atlantic Airlines"
+    ]
+  },
+  {
+    "value": "Edelweiss Air",
+    "synonyms": [
+      "Edelweiss Air"
+    ]
+  },
+  {
+    "value": "Independent Carrier",
+    "synonyms": [
+      "Independent Carrier"
+    ]
+  },
+  {
+    "value": "Air Cargo Germany",
+    "synonyms": [
+      "Air Cargo Germany"
+    ]
+  },
+  {
+    "value": "Eastar Jet",
+    "synonyms": [
+      "Eastar Jet"
+    ]
+  },
+  {
+    "value": "DonbassAero",
+    "synonyms": [
+      "DonbassAero"
+    ]
+  },
+  {
+    "value": "Euromanx Airways",
+    "synonyms": [
+      "Euromanx Airways"
+    ]
+  },
+  {
+    "value": "Express Germany",
+    "synonyms": [
+      "Express Germany"
+    ]
+  },
+  {
+    "value": "Federal Express",
+    "synonyms": [
+      "Federal Express"
+    ]
+  },
+  {
+    "value": "Jett 8 Airlines Cargo",
+    "synonyms": [
+      "Jett 8 Airlines Cargo"
+    ]
+  },
+  {
+    "value": "MAP-Management and Planung",
+    "synonyms": [
+      "MAP-Management and Planung"
+    ]
+  },
+  {
+    "value": "Air Santo Domingo",
+    "synonyms": [
+      "Air Santo Domingo"
+    ]
+  },
+  {
+    "value": "AirTran Airways",
+    "synonyms": [
+      "AirTran Airways"
+    ]
+  },
+  {
+    "value": "Atlantic Southeast Airlines",
+    "synonyms": [
+      "Atlantic Southeast Airlines"
+    ]
+  },
+  {
+    "value": "Caribbean Airlines",
+    "synonyms": [
+      "Caribbean Airlines"
+    ]
+  },
+  {
+    "value": "Air China",
+    "synonyms": [
+      "Air China"
+    ]
+  },
+  {
+    "value": "El-Buraq Air Transport",
+    "synonyms": [
+      "El-Buraq Air Transport"
+    ]
+  },
+  {
+    "value": "Marsland Aviation",
+    "synonyms": [
+      "Marsland Aviation"
+    ]
+  },
+  {
+    "value": "Mandala Airlines",
+    "synonyms": [
+      "Mandala Airlines"
+    ]
+  },
+  {
+    "value": "AirAsia",
+    "synonyms": [
+      "AirAsia"
+    ]
+  },
+  {
+    "value": "Atlas Air",
+    "synonyms": [
+      "Atlas Air"
+    ]
+  },
+  {
+    "value": "DAT Danish Air Transport",
+    "synonyms": [
+      "DAT Danish Air Transport"
+    ]
+  },
+  {
+    "value": "Ryan Air Service",
+    "synonyms": [
+      "Ryan Air Service"
+    ]
+  },
+  {
+    "value": "Sierra Nevada Airlines",
+    "synonyms": [
+      "Sierra Nevada Airlines"
+    ]
+  },
+  {
+    "value": "Blue1",
+    "synonyms": [
+      "Blue1"
+    ]
+  },
+  {
+    "value": "Comair",
+    "synonyms": [
+      "Comair"
+    ]
+  },
+  {
+    "value": "Air Sinai",
+    "synonyms": [
+      "Air Sinai"
+    ]
+  },
+  {
+    "value": "Atlas Blue",
+    "synonyms": [
+      "Atlas Blue"
+    ]
+  },
+  {
+    "value": "EUjet",
+    "synonyms": [
+      "EUjet"
+    ]
+  },
+  {
+    "value": "North Coast Aviation",
+    "synonyms": [
+      "North Coast Aviation"
+    ]
+  },
+  {
+    "value": "Deutsche Bahn",
+    "synonyms": [
+      "Deutsche Bahn"
+    ]
+  },
+  {
+    "value": "Cielos Airlines",
+    "synonyms": [
+      "Cielos Airlines"
+    ]
+  },
+  {
+    "value": "Hola Airlines",
+    "synonyms": [
+      "Hola Airlines"
+    ]
+  },
+  {
+    "value": "KLM Cityhopper",
+    "synonyms": [
+      "KLM Cityhopper"
+    ]
+  },
+  {
+    "value": "Norwegian Air Shuttle",
+    "synonyms": [
+      "Norwegian Air Shuttle"
+    ]
+  },
+  {
+    "value": "Evergreen International Airlines",
+    "synonyms": [
+      "Evergreen International Airlines"
+    ]
+  },
+  {
+    "value": "Islena De Inversiones",
+    "synonyms": [
+      "Islena De Inversiones"
+    ]
+  },
+  {
+    "value": "Astair",
+    "synonyms": [
+      "Astair"
+    ]
+  },
+  {
+    "value": "Pearl Airways",
+    "synonyms": [
+      "Pearl Airways"
+    ]
+  },
+  {
+    "value": "Africaone",
+    "synonyms": [
+      "Africaone"
+    ]
+  },
+  {
+    "value": "Bankair",
+    "synonyms": [
+      "Bankair"
+    ]
+  },
+  {
+    "value": "Jetstar Asia Airways",
+    "synonyms": [
+      "Jetstar Asia Airways"
+    ]
+  },
+  {
+    "value": "Nantucket Airlines",
+    "synonyms": [
+      "Nantucket Airlines"
+    ]
+  },
+  {
+    "value": "Rwandair Express",
+    "synonyms": [
+      "Rwandair Express"
+    ]
+  },
+  {
+    "value": "Skymark Airlines",
+    "synonyms": [
+      "Skymark Airlines"
+    ]
+  },
+  {
+    "value": "Aeropelican Air Services",
+    "synonyms": [
+      "Aeropelican Air Services"
+    ]
+  },
+  {
+    "value": "Freebird Airlines",
+    "synonyms": [
+      "Freebird Airlines"
+    ]
+  },
+  {
+    "value": "Airlines of Tasmania",
+    "synonyms": [
+      "Airlines of Tasmania"
+    ]
+  },
+  {
+    "value": "Dirgantara Air Service",
+    "synonyms": [
+      "Dirgantara Air Service"
+    ]
+  },
+  {
+    "value": "Fly Air",
+    "synonyms": [
+      "Fly Air"
+    ]
+  },
+  {
+    "value": "Astraeus",
+    "synonyms": [
+      "Astraeus"
+    ]
+  },
+  {
+    "value": "Great Wall Airlines",
+    "synonyms": [
+      "Great Wall Airlines"
+    ]
+  },
+  {
+    "value": "Kenmore Air",
+    "synonyms": [
+      "Kenmore Air"
+    ]
+  },
+  {
+    "value": "New England Airlines",
+    "synonyms": [
+      "New England Airlines"
+    ]
+  },
+  {
+    "value": "Dauair",
+    "synonyms": [
+      "Dauair"
+    ]
+  },
+  {
+    "value": "easyJet",
+    "synonyms": [
+      "easyJet"
+    ]
+  },
+  {
+    "value": "INFINI Travel Information",
+    "synonyms": [
+      "INFINI Travel Information"
+    ]
+  },
+  {
+    "value": "Linea Aerea SAPSA",
+    "synonyms": [
+      "Linea Aerea SAPSA"
+    ]
+  },
+  {
+    "value": "40 Mile Air",
+    "synonyms": [
+      "40 Mile Air"
+    ]
+  },
+  {
+    "value": "Aeropostal Alas de Venezuela",
+    "synonyms": [
+      "Aeropostal Alas de Venezuela"
+    ]
+  },
+  {
+    "value": "Air Georgia",
+    "synonyms": [
+      "Air Georgia"
+    ]
+  },
+  {
+    "value": "Asiana Airlines",
+    "synonyms": [
+      "Asiana Airlines"
+    ]
+  },
+  {
+    "value": "Airlink Zambia",
+    "synonyms": [
+      "Airlink Zambia"
+    ]
+  },
+  {
+    "value": "Arcus-Air Logistic",
+    "synonyms": [
+      "Arcus-Air Logistic"
+    ]
+  },
+  {
+    "value": "Corse-Mediterranee",
+    "synonyms": [
+      "Corse-Mediterranee"
+    ]
+  },
+  {
+    "value": "Hong Kong Dragon Airlines",
+    "synonyms": [
+      "Hong Kong Dragon Airlines"
+    ]
+  },
+  {
+    "value": "Hageland Aviation Services",
+    "synonyms": [
+      "Hageland Aviation Services"
+    ]
+  },
+  {
+    "value": "Hex\u0027Air",
+    "synonyms": [
+      "Hex\u0027Air"
+    ]
+  },
+  {
+    "value": "Malindo Airways",
+    "synonyms": [
+      "Malindo Airways"
+    ]
+  },
+  {
+    "value": "Air Baltic",
+    "synonyms": [
+      "Air Baltic"
+    ]
+  },
+  {
+    "value": "Bering Air",
+    "synonyms": [
+      "Bering Air"
+    ]
+  },
+  {
+    "value": "Everbread",
+    "synonyms": [
+      "Everbread"
+    ]
+  },
+  {
+    "value": "Firefly",
+    "synonyms": [
+      "Firefly"
+    ]
+  },
+  {
+    "value": "Leeward Islands Air Transport",
+    "synonyms": [
+      "Leeward Islands Air Transport"
+    ]
+  },
+  {
+    "value": "Rico Linhas Aereas",
+    "synonyms": [
+      "Rico Linhas Aereas"
+    ]
+  },
+  {
+    "value": "Antrak Air",
+    "synonyms": [
+      "Antrak Air"
+    ]
+  },
+  {
+    "value": "Centavia",
+    "synonyms": [
+      "Centavia"
+    ]
+  },
+  {
+    "value": "Egyptair",
+    "synonyms": [
+      "Egyptair"
+    ]
+  },
+  {
+    "value": "Finnair",
+    "synonyms": [
+      "Finnair"
+    ]
+  },
+  {
+    "value": "Portugalia",
+    "synonyms": [
+      "Portugalia"
+    ]
+  },
+  {
+    "value": "Adria Airways",
+    "synonyms": [
+      "Adria Airways"
+    ]
+  },
+  {
+    "value": "Air Southwest",
+    "synonyms": [
+      "Air Southwest"
+    ]
+  },
+  {
+    "value": "Air Canada Rouge",
+    "synonyms": [
+      "Air Canada Rouge"
+    ]
+  },
+  {
+    "value": "Balkan Bulgarian Airlines",
+    "synonyms": [
+      "Balkan Bulgarian Airlines"
+    ]
+  },
+  {
+    "value": "Cameroon Airlines",
+    "synonyms": [
+      "Cameroon Airlines"
+    ]
+  },
+  {
+    "value": "Enkor JSC",
+    "synonyms": [
+      "Enkor JSC"
+    ]
+  },
+  {
+    "value": "Chicago Express Airlines",
+    "synonyms": [
+      "Chicago Express Airlines"
+    ]
+  },
+  {
+    "value": "ICAR",
+    "synonyms": [
+      "ICAR"
+    ]
+  },
+  {
+    "value": "Olympic Air",
+    "synonyms": [
+      "Olympic Air"
+    ]
+  },
+  {
+    "value": "Air One",
+    "synonyms": [
+      "Air One"
+    ]
+  },
+  {
+    "value": "BA Connect",
+    "synonyms": [
+      "BA Connect"
+    ]
+  },
+  {
+    "value": "Comores Airlines",
+    "synonyms": [
+      "Comores Airlines"
+    ]
+  },
+  {
+    "value": "Philippine Airlines",
+    "synonyms": [
+      "Philippine Airlines"
+    ]
+  },
+  {
+    "value": "Bayu Indonesia Air",
+    "synonyms": [
+      "Bayu Indonesia Air"
+    ]
+  },
+  {
+    "value": "Central Connect Airlines",
+    "synonyms": [
+      "Central Connect Airlines"
+    ]
+  },
+  {
+    "value": "Air Europa",
+    "synonyms": [
+      "Air Europa"
+    ]
+  },
+  {
+    "value": "BACH Flugbetriebsges",
+    "synonyms": [
+      "BACH Flugbetriebsges"
+    ]
+  },
+  {
+    "value": "British Mediterranean Airways",
+    "synonyms": [
+      "British Mediterranean Airways"
+    ]
+  },
+  {
+    "value": "Nas Air",
+    "synonyms": [
+      "Nas Air"
+    ]
+  },
+  {
+    "value": "Brit Air",
+    "synonyms": [
+      "Brit Air"
+    ]
+  },
+  {
+    "value": "Linea Aerea Cuencana",
+    "synonyms": [
+      "Linea Aerea Cuencana"
+    ]
+  },
+  {
+    "value": "Nepal Airlines",
+    "synonyms": [
+      "Nepal Airlines"
+    ]
+  },
+  {
+    "value": "Private Wings Flugcharter",
+    "synonyms": [
+      "Private Wings Flugcharter"
+    ]
+  },
+  {
+    "value": "Regional Compagnie Aerienne Europeenne",
+    "synonyms": [
+      "Regional Compagnie Aerienne Europeenne"
+    ]
+  },
+  {
+    "value": "Africa West",
+    "synonyms": [
+      "Africa West"
+    ]
+  },
+  {
+    "value": "ATA Airlines",
+    "synonyms": [
+      "ATA Airlines"
+    ]
+  },
+  {
+    "value": "China Airlines",
+    "synonyms": [
+      "China Airlines"
+    ]
+  },
+  {
+    "value": "Neos",
+    "synonyms": [
+      "Neos"
+    ]
+  },
+  {
+    "value": "Orient Thai Airlines",
+    "synonyms": [
+      "Orient Thai Airlines"
+    ]
+  },
+  {
+    "value": "Cologne Air Transport GmbH",
+    "synonyms": [
+      "Cologne Air Transport GmbH"
+    ]
+  },
+  {
+    "value": "Eritrean Airlines",
+    "synonyms": [
+      "Eritrean Airlines"
+    ]
+  },
+  {
+    "value": "Aero Contractors",
+    "synonyms": [
+      "Aero Contractors"
+    ]
+  },
+  {
+    "value": "Ozjet Airlines",
+    "synonyms": [
+      "Ozjet Airlines"
+    ]
+  },
+  {
+    "value": "Air Comores International",
+    "synonyms": [
+      "Air Comores International"
+    ]
+  },
+  {
+    "value": "Air Ceylon",
+    "synonyms": [
+      "Air Ceylon"
+    ]
+  },
+  {
+    "value": "Air Marshall Islands",
+    "synonyms": [
+      "Air Marshall Islands"
+    ]
+  },
+  {
+    "value": "Alliance Airlines",
+    "synonyms": [
+      "Alliance Airlines"
+    ]
+  },
+  {
+    "value": "Heli Securite Helicopter Airlines",
+    "synonyms": [
+      "Heli Securite Helicopter Airlines"
+    ]
+  },
+  {
+    "value": "Midwest Airlines",
+    "synonyms": [
+      "Midwest Airlines"
+    ]
+  },
+  {
+    "value": "Navitaire",
+    "synonyms": [
+      "Navitaire"
+    ]
+  },
+  {
+    "value": "Royal Airlines",
+    "synonyms": [
+      "Royal Airlines"
+    ]
+  },
+  {
+    "value": "Armenian International Airways",
+    "synonyms": [
+      "Armenian International Airways"
+    ]
+  },
+  {
+    "value": "Chalk\u0027s International Airlines",
+    "synonyms": [
+      "Chalk\u0027s International Airlines"
+    ]
+  },
+  {
+    "value": "Iberia Express",
+    "synonyms": [
+      "Iberia Express"
+    ]
+  },
+  {
+    "value": "Nationwide Airlines",
+    "synonyms": [
+      "Nationwide Airlines"
+    ]
+  },
+  {
+    "value": "Aeroenlaces Nacionales",
+    "synonyms": [
+      "Aeroenlaces Nacionales"
+    ]
+  },
+  {
+    "value": "Air Enterprise",
+    "synonyms": [
+      "Air Enterprise"
+    ]
+  },
+  {
+    "value": "Faroejet",
+    "synonyms": [
+      "Faroejet"
+    ]
+  },
+  {
+    "value": "JAL Express",
+    "synonyms": [
+      "JAL Express"
+    ]
+  },
+  {
+    "value": "Pamir Airways",
+    "synonyms": [
+      "Pamir Airways"
+    ]
+  },
+  {
+    "value": "Royal Tongan Airlines",
+    "synonyms": [
+      "Royal Tongan Airlines"
+    ]
+  },
+  {
+    "value": "Helios Airways",
+    "synonyms": [
+      "Helios Airways"
+    ]
+  },
+  {
+    "value": "Air Madrid",
+    "synonyms": [
+      "Air Madrid"
+    ]
+  },
+  {
+    "value": "Cimber Sterling",
+    "synonyms": [
+      "Cimber Sterling"
+    ]
+  },
+  {
+    "value": "Spanair",
+    "synonyms": [
+      "Spanair"
+    ]
+  },
+  {
+    "value": "Air Tahiti Nui",
+    "synonyms": [
+      "Air Tahiti Nui"
+    ]
+  },
+  {
+    "value": "Afrinat International Airlines",
+    "synonyms": [
+      "Afrinat International Airlines"
+    ]
+  },
+  {
+    "value": "China Cargo Airlines",
+    "synonyms": [
+      "China Cargo Airlines"
+    ]
+  },
+  {
+    "value": "IndiGo Airlines",
+    "synonyms": [
+      "IndiGo Airlines"
+    ]
+  },
+  {
+    "value": "Itali Airlines",
+    "synonyms": [
+      "Itali Airlines"
+    ]
+  },
+  {
+    "value": "Kogalymavia Air Company",
+    "synonyms": [
+      "Kogalymavia Air Company"
+    ]
+  },
+  {
+    "value": "Air Nippon",
+    "synonyms": [
+      "Air Nippon"
+    ]
+  },
+  {
+    "value": "Avion Express",
+    "synonyms": [
+      "Avion Express"
+    ]
+  },
+  {
+    "value": "Jetstar Airways",
+    "synonyms": [
+      "Jetstar Airways"
+    ]
+  },
+  {
+    "value": "Faso Airways",
+    "synonyms": [
+      "Faso Airways"
+    ]
+  },
+  {
+    "value": "Ocean Airlines",
+    "synonyms": [
+      "Ocean Airlines"
+    ]
+  },
+  {
+    "value": "Skyservice Airlines",
+    "synonyms": [
+      "Skyservice Airlines"
+    ]
+  },
+  {
+    "value": "Aerovias de Integracion Regional",
+    "synonyms": [
+      "Aerovias de Integracion Regional"
+    ]
+  },
+  {
+    "value": "Alaska Airlines",
+    "synonyms": [
+      "Alaska Airlines"
+    ]
+  },
+  {
+    "value": "Grant Aviation",
+    "synonyms": [
+      "Grant Aviation"
+    ]
+  },
+  {
+    "value": "Kabo Air",
+    "synonyms": [
+      "Kabo Air"
+    ]
+  },
+  {
+    "value": "Aeromar Lineas Aereas Dominicanas",
+    "synonyms": [
+      "Aeromar Lineas Aereas Dominicanas"
+    ]
+  },
+  {
+    "value": "Air Rarotonga",
+    "synonyms": [
+      "Air Rarotonga"
+    ]
+  },
+  {
+    "value": "Biman Bangladesh Airlines",
+    "synonyms": [
+      "Biman Bangladesh Airlines"
+    ]
+  },
+  {
+    "value": "Cargo 360",
+    "synonyms": [
+      "Cargo 360"
+    ]
+  },
+  {
+    "value": "Enter Air",
+    "synonyms": [
+      "Enter Air"
+    ]
+  },
+  {
+    "value": "Air Astana",
+    "synonyms": [
+      "Air Astana"
+    ]
+  },
+  {
+    "value": "Asia Overnight Express",
+    "synonyms": [
+      "Asia Overnight Express"
+    ]
+  },
+  {
+    "value": "Air New Zealand",
+    "synonyms": [
+      "Air New Zealand"
+    ]
+  },
+  {
+    "value": "Denim Air",
+    "synonyms": [
+      "Denim Air"
+    ]
+  },
+  {
+    "value": "Cargolux Italia",
+    "synonyms": [
+      "Cargolux Italia"
+    ]
+  },
+  {
+    "value": "Bellview Airlines",
+    "synonyms": [
+      "Bellview Airlines"
+    ]
+  },
+  {
+    "value": "Swe Fly",
+    "synonyms": [
+      "Swe Fly"
+    ]
+  },
+  {
+    "value": "Allegiant Air",
+    "synonyms": [
+      "Allegiant Air"
+    ]
+  },
+  {
+    "value": "Airborne Express",
+    "synonyms": [
+      "Airborne Express"
+    ]
+  },
+  {
+    "value": "European Aviation Air Charter",
+    "synonyms": [
+      "European Aviation Air Charter"
+    ]
+  },
+  {
+    "value": "China Northern Airlines",
+    "synonyms": [
+      "China Northern Airlines"
+    ]
+  },
+  {
+    "value": "Japan Asia Airways",
+    "synonyms": [
+      "Japan Asia Airways"
+    ]
+  },
+  {
+    "value": "Mavial Magadan Airlines",
+    "synonyms": [
+      "Mavial Magadan Airlines"
+    ]
+  },
+  {
+    "value": "Peninsula Airways",
+    "synonyms": [
+      "Peninsula Airways"
+    ]
+  },
+  {
+    "value": "Aero California",
+    "synonyms": [
+      "Aero California"
+    ]
+  },
+  {
+    "value": "Air Tanzania",
+    "synonyms": [
+      "Air Tanzania"
+    ]
+  },
+  {
+    "value": "Chang\u0027an Airlines",
+    "synonyms": [
+      "Chang\u0027an Airlines"
+    ]
+  },
+  {
+    "value": "China Eastern Airlines",
+    "synonyms": [
+      "China Eastern Airlines"
+    ]
+  },
+  {
+    "value": "Bmibaby",
+    "synonyms": [
+      "Bmibaby"
+    ]
+  },
+  {
+    "value": "Chari Aviation Services",
+    "synonyms": [
+      "Chari Aviation Services"
+    ]
+  },
+  {
+    "value": "Paramount Airways",
+    "synonyms": [
+      "Paramount Airways"
+    ]
+  },
+  {
+    "value": "San Juan Airlines",
+    "synonyms": [
+      "San Juan Airlines"
+    ]
+  },
+  {
+    "value": "Air Berlin",
+    "synonyms": [
+      "Air Berlin"
+    ]
+  },
+  {
+    "value": "AirAsia Philippines",
+    "synonyms": [
+      "AirAsia Philippines"
+    ]
+  },
+  {
+    "value": "Club Air",
+    "synonyms": [
+      "Club Air"
+    ]
+  },
+  {
+    "value": "FitsAir",
+    "synonyms": [
+      "FitsAir"
+    ]
+  },
+  {
+    "value": "Executive Airlines",
+    "synonyms": [
+      "Executive Airlines"
+    ]
+  },
+  {
+    "value": "Mandarin Airlines",
+    "synonyms": [
+      "Mandarin Airlines"
+    ]
+  },
+  {
+    "value": "Santa Barbara Airlines",
+    "synonyms": [
+      "Santa Barbara Airlines"
+    ]
+  },
+  {
+    "value": "Aer Arann",
+    "synonyms": [
+      "Aer Arann"
+    ]
+  },
+  {
+    "value": "Air Ukraine",
+    "synonyms": [
+      "Air Ukraine"
+    ]
+  },
+  {
+    "value": "Dominair",
+    "synonyms": [
+      "Dominair"
+    ]
+  },
+  {
+    "value": "Motor Sich",
+    "synonyms": [
+      "Motor Sich"
+    ]
+  },
+  {
+    "value": "Swissair",
+    "synonyms": [
+      "Swissair"
+    ]
+  },
+  {
+    "value": "Titan Airways",
+    "synonyms": [
+      "Titan Airways"
+    ]
+  },
+  {
+    "value": "Shaheen Air International",
+    "synonyms": [
+      "Shaheen Air International"
+    ]
+  },
+  {
+    "value": "Georgian National Airlines",
+    "synonyms": [
+      "Georgian National Airlines"
+    ]
+  },
+  {
+    "value": "Calima Aviacion",
+    "synonyms": [
+      "Calima Aviacion"
+    ]
+  },
+  {
+    "value": "Jett8 Airlines Cargo",
+    "synonyms": [
+      "Jett8 Airlines Cargo"
+    ]
+  },
+  {
+    "value": "Air Glaciers",
+    "synonyms": [
+      "Air Glaciers"
+    ]
+  },
+  {
+    "value": "Air Busan",
+    "synonyms": [
+      "Air Busan"
+    ]
+  },
+  {
+    "value": "CAL Cargo Air Lines",
+    "synonyms": [
+      "CAL Cargo Air Lines"
+    ]
+  },
+  {
+    "value": "Continental Airways",
+    "synonyms": [
+      "Continental Airways"
+    ]
+  },
+  {
+    "value": "Pacific Blue",
+    "synonyms": [
+      "Pacific Blue"
+    ]
+  },
+  {
+    "value": "Air Sahara",
+    "synonyms": [
+      "Air Sahara"
+    ]
+  },
+  {
+    "value": "Air Togo",
+    "synonyms": [
+      "Air Togo"
+    ]
+  },
+  {
+    "value": "Aus-Air",
+    "synonyms": [
+      "Aus-Air"
+    ]
+  },
+  {
+    "value": "Caspian Airlines",
+    "synonyms": [
+      "Caspian Airlines"
+    ]
+  },
+  {
+    "value": "Skyways Express",
+    "synonyms": [
+      "Skyways Express"
+    ]
+  },
+  {
+    "value": "China Xinhua Airlines",
+    "synonyms": [
+      "China Xinhua Airlines"
+    ]
+  },
+  {
+    "value": "Hong Kong Airlines",
+    "synonyms": [
+      "Hong Kong Airlines"
+    ]
+  },
+  {
+    "value": "FlyLal",
+    "synonyms": [
+      "FlyLal"
+    ]
+  },
+  {
+    "value": "Palestinian Airlines",
+    "synonyms": [
+      "Palestinian Airlines"
+    ]
+  },
+  {
+    "value": "Sama Airlines",
+    "synonyms": [
+      "Sama Airlines"
+    ]
+  },
+  {
+    "value": "Air Caledonie",
+    "synonyms": [
+      "Air Caledonie"
+    ]
+  },
+  {
+    "value": "Domodedovo Airlines",
+    "synonyms": [
+      "Domodedovo Airlines"
+    ]
+  },
+  {
+    "value": "Central Charter",
+    "synonyms": [
+      "Central Charter"
+    ]
+  },
+  {
+    "value": "Express One International",
+    "synonyms": [
+      "Express One International"
+    ]
+  },
+  {
+    "value": "Formosa Airlines",
+    "synonyms": [
+      "Formosa Airlines"
+    ]
+  },
+  {
+    "value": "Kuzu Airlines Cargo",
+    "synonyms": [
+      "Kuzu Airlines Cargo"
+    ]
+  },
+  {
+    "value": "Malmö Aviation",
+    "synonyms": [
+      "Malmö Aviation"
+    ]
+  },
+  {
+    "value": "Lagun Air",
+    "synonyms": [
+      "Lagun Air"
+    ]
+  },
+  {
+    "value": "Onur Air",
+    "synonyms": [
+      "Onur Air"
+    ]
+  },
+  {
+    "value": "Air France",
+    "synonyms": [
+      "Air France"
+    ]
+  },
+  {
+    "value": "AOM French Airlines",
+    "synonyms": [
+      "AOM French Airlines"
+    ]
+  },
+  {
+    "value": "Astar Air Cargo",
+    "synonyms": [
+      "Astar Air Cargo"
+    ]
+  },
+  {
+    "value": "Gestair",
+    "synonyms": [
+      "Gestair"
+    ]
+  },
+  {
+    "value": "Hahn Air",
+    "synonyms": [
+      "Hahn Air"
+    ]
+  },
+  {
+    "value": "Miami Air International",
+    "synonyms": [
+      "Miami Air International"
+    ]
+  },
+  {
+    "value": "Kavminvodyavia",
+    "synonyms": [
+      "Kavminvodyavia"
+    ]
+  },
+  {
+    "value": "Pan American World Airways",
+    "synonyms": [
+      "Pan American World Airways"
+    ]
+  },
+  {
+    "value": "Air Holland",
+    "synonyms": [
+      "Air Holland"
+    ]
+  },
+  {
+    "value": "Helitrans",
+    "synonyms": [
+      "Helitrans"
+    ]
+  },
+  {
+    "value": "Hello Airlines",
+    "synonyms": [
+      "Hello Airlines"
+    ]
+  },
+  {
+    "value": "JetStar Japan",
+    "synonyms": [
+      "JetStar Japan"
+    ]
+  },
+  {
+    "value": "Macair Airlines",
+    "synonyms": [
+      "Macair Airlines"
+    ]
+  },
+  {
+    "value": "LAB Flying Service",
+    "synonyms": [
+      "LAB Flying Service"
+    ]
+  },
+  {
+    "value": "Orenburg Airlines",
+    "synonyms": [
+      "Orenburg Airlines"
+    ]
+  },
+  {
+    "value": "CDI Cargo Airlines",
+    "synonyms": [
+      "CDI Cargo Airlines"
+    ]
+  },
+  {
+    "value": "Dba",
+    "synonyms": [
+      "Dba"
+    ]
+  },
+  {
+    "value": "Florida West International Airways",
+    "synonyms": [
+      "Florida West International Airways"
+    ]
+  },
+  {
+    "value": "Horizon Airlines",
+    "synonyms": [
+      "Horizon Airlines"
+    ]
+  },
+  {
+    "value": "Air City",
+    "synonyms": [
+      "Air City"
+    ]
+  },
+  {
+    "value": "Air Italy",
+    "synonyms": [
+      "Air Italy"
+    ]
+  },
+  {
+    "value": "Arkefly",
+    "synonyms": [
+      "Arkefly"
+    ]
+  },
+  {
+    "value": "Gemini Air Cargo",
+    "synonyms": [
+      "Gemini Air Cargo"
+    ]
+  },
+  {
+    "value": "JetX Airlines",
+    "synonyms": [
+      "JetX Airlines"
+    ]
+  },
+  {
+    "value": "Lankan Cargo",
+    "synonyms": [
+      "Lankan Cargo"
+    ]
+  },
+  {
+    "value": "Nova Airline",
+    "synonyms": [
+      "Nova Airline"
+    ]
+  },
+  {
+    "value": "SilkAir",
+    "synonyms": [
+      "SilkAir"
+    ]
+  },
+  {
+    "value": "Blue 1",
+    "synonyms": [
+      "Blue 1"
+    ]
+  },
+  {
+    "value": "Lufthansa Cargo",
+    "synonyms": [
+      "Lufthansa Cargo"
+    ]
+  },
+  {
+    "value": "Lufthansa",
+    "synonyms": [
+      "Lufthansa"
+    ]
+  },
+  {
+    "value": "Air Bangladesh",
+    "synonyms": [
+      "Air Bangladesh"
+    ]
+  },
+  {
+    "value": "Air Slovakia",
+    "synonyms": [
+      "Air Slovakia"
+    ]
+  },
+  {
+    "value": "Azerbaijan Airlines",
+    "synonyms": [
+      "Azerbaijan Airlines"
+    ]
+  },
+  {
+    "value": "Cebu Pacific",
+    "synonyms": [
+      "Cebu Pacific"
+    ]
+  },
+  {
+    "value": "CHC Airways",
+    "synonyms": [
+      "CHC Airways"
+    ]
+  },
+  {
+    "value": "Chitaavia",
+    "synonyms": [
+      "Chitaavia"
+    ]
+  },
+  {
+    "value": "Forward Air International Airlines",
+    "synonyms": [
+      "Forward Air International Airlines"
+    ]
+  },
+  {
+    "value": "Florida Coastal Airlines",
+    "synonyms": [
+      "Florida Coastal Airlines"
+    ]
+  },
+  {
+    "value": "Pegasus Airlines",
+    "synonyms": [
+      "Pegasus Airlines"
+    ]
+  },
+  {
+    "value": "Oasis International Airlines",
+    "synonyms": [
+      "Oasis International Airlines"
+    ]
+  },
+  {
+    "value": "Aero Flight",
+    "synonyms": [
+      "Aero Flight"
+    ]
+  },
+  {
+    "value": "Allegro",
+    "synonyms": [
+      "Allegro"
+    ]
+  },
+  {
+    "value": "Mountain Air Company",
+    "synonyms": [
+      "Mountain Air Company"
+    ]
+  },
+  {
+    "value": "Linea Aerea IAACA",
+    "synonyms": [
+      "Linea Aerea IAACA"
+    ]
+  },
+  {
+    "value": "Scandinavian Airlines",
+    "synonyms": [
+      "Scandinavian Airlines"
+    ]
+  },
+  {
+    "value": "Donavia",
+    "synonyms": [
+      "Donavia"
+    ]
+  },
+  {
+    "value": "China Express Airlines",
+    "synonyms": [
+      "China Express Airlines"
+    ]
+  },
+  {
+    "value": "Galileo International",
+    "synonyms": [
+      "Galileo International"
+    ]
+  },
+  {
+    "value": "Ibex Airlines",
+    "synonyms": [
+      "Ibex Airlines"
+    ]
+  },
+  {
+    "value": "PLUNA",
+    "synonyms": [
+      "PLUNA"
+    ]
+  },
+  {
+    "value": "Slovak Airlines",
+    "synonyms": [
+      "Slovak Airlines"
+    ]
+  },
+  {
+    "value": "Air Alps Aviation",
+    "synonyms": [
+      "Air Alps Aviation"
+    ]
+  },
+  {
+    "value": "Air Mauritanie",
+    "synonyms": [
+      "Air Mauritanie"
+    ]
+  },
+  {
+    "value": "Hawkair",
+    "synonyms": [
+      "Hawkair"
+    ]
+  },
+  {
+    "value": "Aigle Azur",
+    "synonyms": [
+      "Aigle Azur"
+    ]
+  },
+  {
+    "value": "Air Nippon Network Co Ltd",
+    "synonyms": [
+      "Air Nippon Network Co Ltd"
+    ]
+  },
+  {
+    "value": "Rio Grande Air",
+    "synonyms": [
+      "Rio Grande Air"
+    ]
+  },
+  {
+    "value": "OAG",
+    "synonyms": [
+      "OAG"
+    ]
+  },
+  {
+    "value": "Air Bagan",
+    "synonyms": [
+      "Air Bagan"
+    ]
+  },
+  {
+    "value": "ITA Software",
+    "synonyms": [
+      "ITA Software"
+    ]
+  },
+  {
+    "value": "Bangkok Airways",
+    "synonyms": [
+      "Bangkok Airways"
+    ]
+  },
+  {
+    "value": "Nordeste Linhas Aereas Regionais",
+    "synonyms": [
+      "Nordeste Linhas Aereas Regionais"
+    ]
+  },
+  {
+    "value": "Oasis Hong Kong Airlines",
+    "synonyms": [
+      "Oasis Hong Kong Airlines"
+    ]
+  },
+  {
+    "value": "Emirates Airline",
+    "synonyms": [
+      "Emirates Airline"
+    ]
+  },
+  {
+    "value": "Sabre",
+    "synonyms": [
+      "Sabre"
+    ]
+  },
+  {
+    "value": "Aero Airlines",
+    "synonyms": [
+      "Aero Airlines"
+    ]
+  },
+  {
+    "value": "Aeromist-Kharkiv",
+    "synonyms": [
+      "Aeromist-Kharkiv"
+    ]
+  },
+  {
+    "value": "Aeromexpress",
+    "synonyms": [
+      "Aeromexpress"
+    ]
+  },
+  {
+    "value": "Cyprus Turkish Airlines",
+    "synonyms": [
+      "Cyprus Turkish Airlines"
+    ]
+  },
+  {
+    "value": "CityFlyer Express",
+    "synonyms": [
+      "CityFlyer Express"
+    ]
+  },
+  {
+    "value": "Flybe",
+    "synonyms": [
+      "Flybe"
+    ]
+  },
+  {
+    "value": "Inter Island Airways",
+    "synonyms": [
+      "Inter Island Airways"
+    ]
+  },
+  {
+    "value": "LAN Peru",
+    "synonyms": [
+      "LAN Peru"
+    ]
+  },
+  {
+    "value": "Myanmar Airways International",
+    "synonyms": [
+      "Myanmar Airways International"
+    ]
+  },
+  {
+    "value": "Armavia",
+    "synonyms": [
+      "Armavia"
+    ]
+  },
+  {
+    "value": "Frontier Flying Service",
+    "synonyms": [
+      "Frontier Flying Service"
+    ]
+  },
+  {
+    "value": "MyTravel Airways",
+    "synonyms": [
+      "MyTravel Airways"
+    ]
+  },
+  {
+    "value": "Menajet",
+    "synonyms": [
+      "Menajet"
+    ]
+  },
+  {
+    "value": "Colgan Air",
+    "synonyms": [
+      "Colgan Air"
+    ]
+  },
+  {
+    "value": "Eagle Airways",
+    "synonyms": [
+      "Eagle Airways"
+    ]
+  },
+  {
+    "value": "Hawaiian Pacific Airlines",
+    "synonyms": [
+      "Hawaiian Pacific Airlines"
+    ]
+  },
+  {
+    "value": "Japan Transocean Air",
+    "synonyms": [
+      "Japan Transocean Air"
+    ]
+  },
+  {
+    "value": "Malev Hungarian Airlines",
+    "synonyms": [
+      "Malev Hungarian Airlines"
+    ]
+  },
+  {
+    "value": "Aloha Airlines",
+    "synonyms": [
+      "Aloha Airlines"
+    ]
+  },
+  {
+    "value": "Iberia Airlines",
+    "synonyms": [
+      "Iberia Airlines"
+    ]
+  },
+  {
+    "value": "NextJet",
+    "synonyms": [
+      "NextJet"
+    ]
+  },
+  {
+    "value": "Qatar Airways",
+    "synonyms": [
+      "Qatar Airways"
+    ]
+  },
+  {
+    "value": "Atlantic Airways",
+    "synonyms": [
+      "Atlantic Airways"
+    ]
+  },
+  {
+    "value": "B and H Airlines",
+    "synonyms": [
+      "B and H Airlines"
+    ]
+  },
+  {
+    "value": "Europe Airpost",
+    "synonyms": [
+      "Europe Airpost"
+    ]
+  },
+  {
+    "value": "LAI Linea Aerea IAACA",
+    "synonyms": [
+      "LAI Linea Aerea IAACA"
+    ]
+  },
+  {
+    "value": "MNG Airlines",
+    "synonyms": [
+      "MNG Airlines"
+    ]
+  },
+  {
+    "value": "Aero Republica",
+    "synonyms": [
+      "Aero Republica"
+    ]
+  },
+  {
+    "value": "Eastern Australia Airlines",
+    "synonyms": [
+      "Eastern Australia Airlines"
+    ]
+  },
+  {
+    "value": "Air Iceland",
+    "synonyms": [
+      "Air Iceland"
+    ]
+  },
+  {
+    "value": "Benin Golf Air",
+    "synonyms": [
+      "Benin Golf Air"
+    ]
+  },
+  {
+    "value": "Interavia Airlines",
+    "synonyms": [
+      "Interavia Airlines"
+    ]
+  },
+  {
+    "value": "Maxair",
+    "synonyms": [
+      "Maxair"
+    ]
+  },
+  {
+    "value": "Northern Air Cargo",
+    "synonyms": [
+      "Northern Air Cargo"
+    ]
+  },
+  {
+    "value": "Sterling Airlines",
+    "synonyms": [
+      "Sterling Airlines"
+    ]
+  },
+  {
+    "value": "Surinam Airways",
+    "synonyms": [
+      "Surinam Airways"
+    ]
+  },
+  {
+    "value": "Air Cargo Carriers",
+    "synonyms": [
+      "Air Cargo Carriers"
+    ]
+  },
+  {
+    "value": "ARIZONA",
+    "synonyms": [
+      "ARIZONA"
+    ]
+  },
+  {
+    "value": "Linea Aerea Amaszonas",
+    "synonyms": [
+      "Linea Aerea Amaszonas"
+    ]
+  },
+  {
+    "value": "Armenian Airlines",
+    "synonyms": [
+      "Armenian Airlines"
+    ]
+  },
+  {
+    "value": "Aer Lingus",
+    "synonyms": [
+      "Aer Lingus"
+    ]
+  },
+  {
+    "value": "Air Service Gabon",
+    "synonyms": [
+      "Air Service Gabon"
+    ]
+  },
+  {
+    "value": "MASwings",
+    "synonyms": [
+      "MASwings"
+    ]
+  },
+  {
+    "value": "PAN Air",
+    "synonyms": [
+      "PAN Air"
+    ]
+  },
+  {
+    "value": "Delta Air Lines",
+    "synonyms": [
+      "Delta Air Lines",
+      "Delta",
+      "Delta Airlines",
+      "DL"
+    ]
+  },
+  {
+    "value": "Arctic Circle Air Service",
+    "synonyms": [
+      "Arctic Circle Air Service"
+    ]
+  },
+  {
+    "value": "Flyhy Cargo Airlines",
+    "synonyms": [
+      "Flyhy Cargo Airlines"
+    ]
+  },
+  {
+    "value": "Kalitta Charters",
+    "synonyms": [
+      "Kalitta Charters"
+    ]
+  },
+  {
+    "value": "Northwestern Air",
+    "synonyms": [
+      "Northwestern Air"
+    ]
+  },
+  {
+    "value": "Air Koryo",
+    "synonyms": [
+      "Air Koryo"
+    ]
+  },
+  {
+    "value": "Augsburg Airways",
+    "synonyms": [
+      "Augsburg Airways"
+    ]
+  },
+  {
+    "value": "Astrakhan Airlines",
+    "synonyms": [
+      "Astrakhan Airlines"
+    ]
+  },
+  {
+    "value": "Bulgaria Air",
+    "synonyms": [
+      "Bulgaria Air"
+    ]
+  },
+  {
+    "value": "easyJet Switzerland",
+    "synonyms": [
+      "easyJet Switzerland"
+    ]
+  },
+  {
+    "value": "Airlines PNG",
+    "synonyms": [
+      "Airlines PNG"
+    ]
+  },
+  {
+    "value": "Barents AirLink",
+    "synonyms": [
+      "Barents AirLink"
+    ]
+  },
+  {
+    "value": "GB Airways",
+    "synonyms": [
+      "GB Airways"
+    ]
+  },
+  {
+    "value": "Northern Dene Airways",
+    "synonyms": [
+      "Northern Dene Airways"
+    ]
+  },
+  {
+    "value": "Nordic Regional",
+    "synonyms": [
+      "Nordic Regional"
+    ]
+  },
+  {
+    "value": "Air Canada",
+    "synonyms": [
+      "Air Canada"
+    ]
+  },
+  {
+    "value": "Air Corridor",
+    "synonyms": [
+      "Air Corridor"
+    ]
+  },
+  {
+    "value": "Jeju Air",
+    "synonyms": [
+      "Jeju Air"
+    ]
+  },
+  {
+    "value": "Aero-Tropics Air Services",
+    "synonyms": [
+      "Aero-Tropics Air Services"
+    ]
+  },
+  {
+    "value": "Air D\u0027Ayiti",
+    "synonyms": [
+      "Air D\u0027Ayiti"
+    ]
+  },
+  {
+    "value": "British Airways",
+    "synonyms": [
+      "British Airways",
+      "BA"
+    ]
+  },
+  {
+    "value": "Guine Bissau Airlines",
+    "synonyms": [
+      "Guine Bissau Airlines"
+    ]
+  },
+  {
+    "value": "Jet Asia Airways",
+    "synonyms": [
+      "Jet Asia Airways"
+    ]
+  },
+  {
+    "value": "Korean Air",
+    "synonyms": [
+      "Korean Air"
+    ]
+  },
+  {
+    "value": "Aeroflot",
+    "synonyms": [
+      "Aeroflot Airlines",
+      "Aeroflot",
+      "Aeroflot Russian Airlines"
+    ]
+  },
+  {
+    "value": "Aero-Service",
+    "synonyms": [
+      "Aero-Service"
+    ]
+  },
+  {
+    "value": "Alitalia",
+    "synonyms": [
+      "Alitalia"
+    ]
+  },
+  {
+    "value": "Asian Air",
+    "synonyms": [
+      "Asian Air"
+    ]
+  },
+  {
+    "value": "Bemidji Airlines",
+    "synonyms": [
+      "Bemidji Airlines"
+    ]
+  },
+  {
+    "value": "Belair Airlines",
+    "synonyms": [
+      "Belair Airlines"
+    ]
+  },
+  {
+    "value": "Intercontinental de Aviacion",
+    "synonyms": [
+      "Intercontinental de Aviacion"
+    ]
+  },
+  {
+    "value": "Guinee Airlines",
+    "synonyms": [
+      "Guinee Airlines"
+    ]
+  },
+  {
+    "value": "Gulf Air Bahrain",
+    "synonyms": [
+      "Gulf Air Bahrain"
+    ]
+  },
+  {
+    "value": "Air Paradise International",
+    "synonyms": [
+      "Air Paradise International"
+    ]
+  },
+  {
+    "value": "DanubeWings",
+    "synonyms": [
+      "DanubeWings"
+    ]
+  },
+  {
+    "value": "Flightline",
+    "synonyms": [
+      "Flightline"
+    ]
+  },
+  {
+    "value": "Fika Salaama Airlines",
+    "synonyms": [
+      "Fika Salaama Airlines"
+    ]
+  },
+  {
+    "value": "Gandalf Airlines",
+    "synonyms": [
+      "Gandalf Airlines"
+    ]
+  },
+  {
+    "value": "Polynesian Airlines",
+    "synonyms": [
+      "Polynesian Airlines"
+    ]
+  },
+  {
+    "value": "Royal Aruban Airlines",
+    "synonyms": [
+      "Royal Aruban Airlines"
+    ]
+  },
+  {
+    "value": "Abacus International",
+    "synonyms": [
+      "Abacus International"
+    ]
+  },
+  {
+    "value": "Air Nippon Network Co. Ltd.",
+    "synonyms": [
+      "Air Nippon Network Co. Ltd."
+    ]
+  },
+  {
+    "value": "Crossair Europe",
+    "synonyms": [
+      "Crossair Europe"
+    ]
+  },
+  {
+    "value": "Compania Mexicargo",
+    "synonyms": [
+      "Compania Mexicargo"
+    ]
+  },
+  {
+    "value": "Continental Express",
+    "synonyms": [
+      "Continental Express"
+    ]
+  },
+  {
+    "value": "Jazeera Airways",
+    "synonyms": [
+      "Jazeera Airways"
+    ]
+  },
+  {
+    "value": "Lineas Aereas Privadas Argentinas",
+    "synonyms": [
+      "Lineas Aereas Privadas Argentinas"
+    ]
+  },
+  {
+    "value": "Flybaboo",
+    "synonyms": [
+      "Flybaboo"
+    ]
+  },
+  {
+    "value": "National Air Cargo dba National Airlines",
+    "synonyms": [
+      "National Air Cargo dba National Airlines"
+    ]
+  },
+  {
+    "value": "Avolar Aerolineas",
+    "synonyms": [
+      "Avolar Aerolineas"
+    ]
+  },
+  {
+    "value": "El Al Israel Airlines",
+    "synonyms": [
+      "El Al Israel Airlines"
+    ]
+  },
+  {
+    "value": "Pacific Coastal Airlines",
+    "synonyms": [
+      "Pacific Coastal Airlines"
+    ]
+  },
+  {
+    "value": "Nordavia",
+    "synonyms": [
+      "Nordavia"
+    ]
+  },
+  {
+    "value": "AirAsia X",
+    "synonyms": [
+      "AirAsia X"
+    ]
+  },
+  {
+    "value": "Harbor Airlines",
+    "synonyms": [
+      "Harbor Airlines"
+    ]
+  },
+  {
+    "value": "Lufttransport",
+    "synonyms": [
+      "Lufttransport"
+    ]
+  },
+  {
+    "value": "Air Turks and Caicos",
+    "synonyms": [
+      "Air Turks and Caicos"
+    ]
+  },
+  {
+    "value": "Estonian Air",
+    "synonyms": [
+      "Estonian Air"
+    ]
+  },
+  {
+    "value": "Frontier Airlines",
+    "synonyms": [
+      "Frontier Airlines"
+    ]
+  },
+  {
+    "value": "ABSA Cargo",
+    "synonyms": [
+      "ABSA Cargo"
+    ]
+  },
+  {
+    "value": "Air Alliance",
+    "synonyms": [
+      "Air Alliance"
+    ]
+  },
+  {
+    "value": "Aircompany Yakutia",
+    "synonyms": [
+      "Aircompany Yakutia"
+    ]
+  },
+  {
+    "value": "Go One Airways",
+    "synonyms": [
+      "Go One Airways"
+    ]
+  },
+  {
+    "value": "Kyrgyz Airlines",
+    "synonyms": [
+      "Kyrgyz Airlines"
+    ]
+  },
+  {
+    "value": "Air Lithuania",
+    "synonyms": [
+      "Air Lithuania"
+    ]
+  },
+  {
+    "value": "Air Moldova",
+    "synonyms": [
+      "Air Moldova"
+    ]
+  },
+  {
+    "value": "Batavia Air",
+    "synonyms": [
+      "Batavia Air"
+    ]
+  },
+  {
+    "value": "JALways",
+    "synonyms": [
+      "JALways"
+    ]
+  },
+  {
+    "value": "Lao Airlines",
+    "synonyms": [
+      "Lao Airlines"
+    ]
+  },
+  {
+    "value": "Aberdeen Airways",
+    "synonyms": [
+      "Aberdeen Airways"
+    ]
+  },
+  {
+    "value": "Calm Air",
+    "synonyms": [
+      "Calm Air"
+    ]
+  },
+  {
+    "value": "Germanwings",
+    "synonyms": [
+      "Germanwings"
+    ]
+  },
+  {
+    "value": "Mahfooz Aviation",
+    "synonyms": [
+      "Mahfooz Aviation"
+    ]
+  },
+  {
+    "value": "Martinair",
+    "synonyms": [
+      "Martinair"
+    ]
+  },
+  {
+    "value": "Air Sicilia",
+    "synonyms": [
+      "Air Sicilia"
+    ]
+  },
+  {
+    "value": "Icelandair",
+    "synonyms": [
+      "Icelandair"
+    ]
+  },
+  {
+    "value": "Moldavian Airlines",
+    "synonyms": [
+      "Moldavian Airlines"
+    ]
+  },
+  {
+    "value": "Air Malta",
+    "synonyms": [
+      "Air Malta"
+    ]
+  },
+  {
+    "value": "Air Mauritius",
+    "synonyms": [
+      "Air Mauritius"
+    ]
+  },
+  {
+    "value": "Hainan Phoenix Information Systems",
+    "synonyms": [
+      "Hainan Phoenix Information Systems"
+    ]
+  },
+  {
+    "value": "Princess Air",
+    "synonyms": [
+      "Princess Air"
+    ]
+  },
+  {
+    "value": "Coastal Air",
+    "synonyms": [
+      "Coastal Air"
+    ]
+  },
+  {
+    "value": "Horizon Air",
+    "synonyms": [
+      "Horizon Air"
+    ]
+  },
+  {
+    "value": "Dagestan Airlines",
+    "synonyms": [
+      "Dagestan Airlines"
+    ]
+  },
+  {
+    "value": "Iberworld",
+    "synonyms": [
+      "Iberworld"
+    ]
+  },
+  {
+    "value": "Air Pacific",
+    "synonyms": [
+      "Air Pacific"
+    ]
+  },
+  {
+    "value": "AVCOM",
+    "synonyms": [
+      "AVCOM"
+    ]
+  },
+  {
+    "value": "Air Chathams",
+    "synonyms": [
+      "Air Chathams"
+    ]
+  },
+  {
+    "value": "Air Srpska",
+    "synonyms": [
+      "Air Srpska"
+    ]
+  },
+  {
+    "value": "Alaska Central Express",
+    "synonyms": [
+      "Alaska Central Express"
+    ]
+  },
+  {
+    "value": "Air Hong Kong",
+    "synonyms": [
+      "Air Hong Kong"
+    ]
+  },
+  {
+    "value": "Air Tindi",
+    "synonyms": [
+      "Air Tindi"
+    ]
+  },
+  {
+    "value": "Air Uganda",
+    "synonyms": [
+      "Air Uganda"
+    ]
+  },
+  {
+    "value": "Binter Canarias",
+    "synonyms": [
+      "Binter Canarias"
+    ]
+  },
+  {
+    "value": "Condor Flugdienst",
+    "synonyms": [
+      "Condor Flugdienst"
+    ]
+  },
+  {
+    "value": "Air Exel",
+    "synonyms": [
+      "Air Exel"
+    ]
+  },
+  {
+    "value": "Cargo Plus Aviation",
+    "synonyms": [
+      "Cargo Plus Aviation"
+    ]
+  },
+  {
+    "value": "Heli France",
+    "synonyms": [
+      "Heli France"
+    ]
+  },
+  {
+    "value": "Lebanese Air Transport",
+    "synonyms": [
+      "Lebanese Air Transport"
+    ]
+  },
+  {
+    "value": "Monarch Airlines",
+    "synonyms": [
+      "Monarch Airlines"
+    ]
+  },
+  {
+    "value": "Big Sky Airlines",
+    "synonyms": [
+      "Big Sky Airlines"
+    ]
+  },
+  {
+    "value": "Airbus France",
+    "synonyms": [
+      "Airbus France"
+    ]
+  },
+  {
+    "value": "Chang an Airlines",
+    "synonyms": [
+      "Chang an Airlines"
+    ]
+  },
+  {
+    "value": "Maxjet Airways",
+    "synonyms": [
+      "Maxjet Airways"
+    ]
+  },
+  {
+    "value": "Air Seychelles",
+    "synonyms": [
+      "Air Seychelles"
+    ]
+  },
+  {
+    "value": "Air Armenia",
+    "synonyms": [
+      "Air Armenia"
+    ]
+  },
+  {
+    "value": "Air Caraibes",
+    "synonyms": [
+      "Air Caraibes"
+    ]
+  },
+  {
+    "value": "Air Kiribati",
+    "synonyms": [
+      "Air Kiribati"
+    ]
+  },
+  {
+    "value": "Eagle Express Air Charter",
+    "synonyms": [
+      "Eagle Express Air Charter"
+    ]
+  },
+  {
+    "value": "Airnorth",
+    "synonyms": [
+      "Airnorth"
+    ]
+  },
+  {
+    "value": "Livingston",
+    "synonyms": [
+      "Livingston"
+    ]
+  },
+  {
+    "value": "Aero Lanka",
+    "synonyms": [
+      "Aero Lanka"
+    ]
+  },
+  {
+    "value": "Estafeta Carga Aerea",
+    "synonyms": [
+      "Estafeta Carga Aerea"
+    ]
+  },
+  {
+    "value": "China Postal Airlines",
+    "synonyms": [
+      "China Postal Airlines"
+    ]
+  },
+  {
+    "value": "Hemus Air",
+    "synonyms": [
+      "Hemus Air"
+    ]
+  },
+  {
+    "value": "Mokulele Airlines",
+    "synonyms": [
+      "Mokulele Airlines"
+    ]
+  },
+  {
+    "value": "Abelag Aviation",
+    "synonyms": [
+      "Abelag Aviation"
+    ]
+  },
+  {
+    "value": "Cape Air",
+    "synonyms": [
+      "Cape Air"
+    ]
+  },
+  {
+    "value": "Centre-Avia",
+    "synonyms": [
+      "Centre-Avia"
+    ]
+  },
+  {
+    "value": "Merpati Nusantara Airlines",
+    "synonyms": [
+      "Merpati Nusantara Airlines"
+    ]
+  },
+  {
+    "value": "Atlasjet",
+    "synonyms": [
+      "Atlasjet"
+    ]
+  },
+  {
+    "value": "Airlinair",
+    "synonyms": [
+      "Airlinair"
+    ]
+  },
+  {
+    "value": "BRA-Transportes Aereos",
+    "synonyms": [
+      "BRA-Transportes Aereos"
+    ]
+  },
+  {
+    "value": "Buffalo Airways",
+    "synonyms": [
+      "Buffalo Airways"
+    ]
+  },
+  {
+    "value": "Jetclub",
+    "synonyms": [
+      "Jetclub"
+    ]
+  },
+  {
+    "value": "Independence Air",
+    "synonyms": [
+      "Independence Air"
+    ]
+  },
+  {
+    "value": "LOT Polish Airlines",
+    "synonyms": [
+      "LOT Polish Airlines"
+    ]
+  },
+  {
+    "value": "Finncomm Airlines",
+    "synonyms": [
+      "Finncomm Airlines"
+    ]
+  },
+  {
+    "value": "Cargolux",
+    "synonyms": [
+      "Cargolux"
+    ]
+  },
+  {
+    "value": "Dragonair",
+    "synonyms": [
+      "Dragonair"
+    ]
+  },
+  {
+    "value": "Kalitta Air",
+    "synonyms": [
+      "Kalitta Air"
+    ]
+  },
+  {
+    "value": "Air Midwest",
+    "synonyms": [
+      "Air Midwest"
+    ]
+  },
+  {
+    "value": "KY",
+    "synonyms": [
+      "KY"
+    ]
+  },
+  {
+    "value": "Rio Sul Serviços Aereos Regionais",
+    "synonyms": [
+      "Rio Sul Serviços Aereos Regionais"
+    ]
+  },
+  {
+    "value": "Airbus Industrie",
+    "synonyms": [
+      "Airbus Industrie"
+    ]
+  },
+  {
+    "value": "Air Alma",
+    "synonyms": [
+      "Air Alma"
+    ]
+  },
+  {
+    "value": "Air Georgian",
+    "synonyms": [
+      "Air Georgian"
+    ]
+  },
+  {
+    "value": "Alpine Air Express",
+    "synonyms": [
+      "Alpine Air Express"
+    ]
+  },
+  {
+    "value": "Georgian Airways",
+    "synonyms": [
+      "Georgian Airways"
+    ]
+  },
+  {
+    "value": "Sierra National Airlines",
+    "synonyms": [
+      "Sierra National Airlines"
+    ]
+  },
+  {
+    "value": "Skybus Airlines",
+    "synonyms": [
+      "Skybus Airlines"
+    ]
+  },
+  {
+    "value": "BAX Global",
+    "synonyms": [
+      "BAX Global"
+    ]
+  },
+  {
+    "value": "City Connexion Airlines",
+    "synonyms": [
+      "City Connexion Airlines"
+    ]
+  },
+  {
+    "value": "Falcon Aviation",
+    "synonyms": [
+      "Falcon Aviation"
+    ]
+  },
+  {
+    "value": "Keystone Air Service",
+    "synonyms": [
+      "Keystone Air Service"
+    ]
+  },
+  {
+    "value": "Japan Airlines",
+    "synonyms": [
+      "Japan Airlines",
+      "JAL"
+    ]
+  },
+  {
+    "value": "Republic Express Airlines",
+    "synonyms": [
+      "Republic Express Airlines"
+    ]
+  },
+  {
+    "value": "Air Mobility Command",
+    "synonyms": [
+      "Air Mobility Command"
+    ]
+  },
+  {
+    "value": "Aloha Air Cargo",
+    "synonyms": [
+      "Aloha Air Cargo"
+    ]
+  },
+  {
+    "value": "EVA Air",
+    "synonyms": [
+      "EVA Air"
+    ]
+  },
+  {
+    "value": "Blue Air",
+    "synonyms": [
+      "Blue Air"
+    ]
+  },
+  {
+    "value": "Canadian Western Airlines",
+    "synonyms": [
+      "Canadian Western Airlines"
+    ]
+  },
+  {
+    "value": "FlyAsianXpress",
+    "synonyms": [
+      "FlyAsianXpress"
+    ]
+  },
+  {
+    "value": "Omni Air International",
+    "synonyms": [
+      "Omni Air International"
+    ]
+  },
+  {
+    "value": "Ariana Afghan Airlines",
+    "synonyms": [
+      "Ariana Afghan Airlines"
+    ]
+  },
+  {
+    "value": "Four Star Cargo",
+    "synonyms": [
+      "Four Star Cargo"
+    ]
+  },
+  {
+    "value": "Mistral Air",
+    "synonyms": [
+      "Mistral Air"
+    ]
+  },
+  {
+    "value": "Asian Express Airlines",
+    "synonyms": [
+      "Asian Express Airlines"
+    ]
+  },
+  {
+    "value": "Avirex",
+    "synonyms": [
+      "Avirex"
+    ]
+  },
+  {
+    "value": "Airstars",
+    "synonyms": [
+      "Airstars"
+    ]
+  },
+  {
+    "value": "Coyne Aviation",
+    "synonyms": [
+      "Coyne Aviation"
+    ]
+  },
+  {
+    "value": "Islands Nationair",
+    "synonyms": [
+      "Islands Nationair"
+    ]
+  },
+  {
+    "value": "Mexicana de Aviacion",
+    "synonyms": [
+      "Mexicana de Aviacion"
+    ]
+  },
+  {
+    "value": "Chalks International Airlines",
+    "synonyms": [
+      "Chalks International Airlines"
+    ]
+  },
+  {
+    "value": "TAM Brazilian Airlines",
+    "synonyms": [
+      "TAM Brazilian Airlines"
+    ]
+  },
+  {
+    "value": "Air Volga",
+    "synonyms": [
+      "Air Volga"
+    ]
+  },
+  {
+    "value": "Aviogenex",
+    "synonyms": [
+      "Aviogenex"
+    ]
+  },
+  {
+    "value": "Amtrak",
+    "synonyms": [
+      "Amtrak"
+    ]
+  },
+  {
+    "value": "Middle East Airlines",
+    "synonyms": [
+      "Middle East Airlines"
+    ]
+  },
+  {
+    "value": "National Airlines",
+    "synonyms": [
+      "National Airlines"
+    ]
+  },
+  {
+    "value": "Air Foyle",
+    "synonyms": [
+      "Air Foyle"
+    ]
+  },
+  {
+    "value": "Air North Charter Canada",
+    "synonyms": [
+      "Air North Charter Canada"
+    ]
+  },
+  {
+    "value": "Empire Airlines",
+    "synonyms": [
+      "Empire Airlines"
+    ]
+  },
+  {
+    "value": "Harmony Airways",
+    "synonyms": [
+      "Harmony Airways"
+    ]
+  },
+  {
+    "value": "Jatayu Airlines",
+    "synonyms": [
+      "Jatayu Airlines"
+    ]
+  },
+  {
+    "value": "SATA International",
+    "synonyms": [
+      "SATA International"
+    ]
+  },
+  {
+    "value": "AccessAir",
+    "synonyms": [
+      "AccessAir"
+    ]
+  },
+  {
+    "value": "Azzurra Air",
+    "synonyms": [
+      "Azzurra Air"
+    ]
+  },
+  {
+    "value": "Air Philippines",
+    "synonyms": [
+      "Air Philippines"
+    ]
+  },
+  {
+    "value": "BMI",
+    "synonyms": [
+      "BMI"
+    ]
+  },
+  {
+    "value": "Aviaexpress",
+    "synonyms": [
+      "Aviaexpress"
+    ]
+  },
+  {
+    "value": "Our Airline",
+    "synonyms": [
+      "Our Airline"
+    ]
+  },
+  {
+    "value": "Baker Aviation",
+    "synonyms": [
+      "Baker Aviation"
+    ]
+  },
+  {
+    "value": "Eurowings",
+    "synonyms": [
+      "Eurowings"
+    ]
+  },
+  {
+    "value": "Gazpromavia",
+    "synonyms": [
+      "Gazpromavia"
+    ]
+  },
+  {
+    "value": "Royal Brunei Airlines",
+    "synonyms": [
+      "Royal Brunei Airlines"
+    ]
+  },
+  {
+    "value": "Air Mediterranee",
+    "synonyms": [
+      "Air Mediterranee"
+    ]
+  },
+  {
+    "value": "AIRDO",
+    "synonyms": [
+      "AIRDO"
+    ]
+  },
+  {
+    "value": "Brussels International Airlines",
+    "synonyms": [
+      "Brussels International Airlines"
+    ]
+  },
+  {
+    "value": "Cirrus Airlines",
+    "synonyms": [
+      "Cirrus Airlines"
+    ]
+  },
+  {
+    "value": "Cinnamon Air",
+    "synonyms": [
+      "Cinnamon Air"
+    ]
+  },
+  {
+    "value": "Air Vegas",
+    "synonyms": [
+      "Air Vegas"
+    ]
+  },
+  {
+    "value": "Air Vanuatu",
+    "synonyms": [
+      "Air Vanuatu"
+    ]
+  },
+  {
+    "value": "Bismillah Airlines",
+    "synonyms": [
+      "Bismillah Airlines"
+    ]
+  },
+  {
+    "value": "Jat Airways",
+    "synonyms": [
+      "Jat Airways"
+    ]
+  },
+  {
+    "value": "Bringer Air Cargo Taxi Aereo",
+    "synonyms": [
+      "Bringer Air Cargo Taxi Aereo"
+    ]
+  },
+  {
+    "value": "Air India Express",
+    "synonyms": [
+      "Air India Express"
+    ]
+  },
+  {
+    "value": "Lineas Aereas Azteca",
+    "synonyms": [
+      "Lineas Aereas Azteca"
+    ]
+  },
+  {
+    "value": "PMTair",
+    "synonyms": [
+      "PMTair"
+    ]
+  },
+  {
+    "value": "Mihin Lanka",
+    "synonyms": [
+      "Mihin Lanka"
+    ]
+  },
+  {
+    "value": "Bulgarian Air Charter",
+    "synonyms": [
+      "Bulgarian Air Charter"
+    ]
+  },
+  {
+    "value": "Four Star Aviation",
+    "synonyms": [
+      "Four Star Aviation"
+    ]
+  },
+  {
+    "value": "Kiwi International Air Lines",
+    "synonyms": [
+      "Kiwi International Air Lines"
+    ]
+  },
+  {
+    "value": "Aerosvit Airlines",
+    "synonyms": [
+      "Aerosvit Airlines"
+    ]
+  },
+  {
+    "value": "Air Burundi",
+    "synonyms": [
+      "Air Burundi"
+    ]
+  },
+  {
+    "value": "Avensa",
+    "synonyms": [
+      "Avensa"
+    ]
+  },
+  {
+    "value": "Air Liberte",
+    "synonyms": [
+      "Air Liberte"
+    ]
+  },
+  {
+    "value": "DHL International",
+    "synonyms": [
+      "DHL International"
+    ]
+  },
+  {
+    "value": "ExpressJet",
+    "synonyms": [
+      "ExpressJet"
+    ]
+  },
+  {
+    "value": "Aerolane",
+    "synonyms": [
+      "Aerolane"
+    ]
+  },
+  {
+    "value": "Africa World Airlines",
+    "synonyms": [
+      "Africa World Airlines"
+    ]
+  },
+  {
+    "value": "Air Bourbon",
+    "synonyms": [
+      "Air Bourbon"
+    ]
+  },
+  {
+    "value": "Airfreight Express",
+    "synonyms": [
+      "Airfreight Express"
+    ]
+  },
+  {
+    "value": "easy Jet",
+    "synonyms": [
+      "easy Jet"
+    ]
+  },
+  {
+    "value": "Air Saint Pierre",
+    "synonyms": [
+      "Air Saint Pierre"
+    ]
+  },
+  {
+    "value": "Air Namibia",
+    "synonyms": [
+      "Air Namibia"
+    ]
+  },
+  {
+    "value": "Air Wisconsin",
+    "synonyms": [
+      "Air Wisconsin"
+    ]
+  },
+  {
+    "value": "Golden Air",
+    "synonyms": [
+      "Golden Air"
+    ]
+  },
+  {
+    "value": "Interlink Airlines",
+    "synonyms": [
+      "Interlink Airlines"
+    ]
+  },
+  {
+    "value": "Air Urga",
+    "synonyms": [
+      "Air Urga"
+    ]
+  },
+  {
+    "value": "Samara Airlines",
+    "synonyms": [
+      "Samara Airlines"
+    ]
+  },
+  {
+    "value": "Air Arabia Maroc",
+    "synonyms": [
+      "Air Arabia Maroc"
+    ]
+  },
+  {
+    "value": "Avies",
+    "synonyms": [
+      "Avies"
+    ]
+  },
+  {
+    "value": "Antinea Airlines",
+    "synonyms": [
+      "Antinea Airlines"
+    ]
+  },
+  {
+    "value": "CanJet",
+    "synonyms": [
+      "CanJet"
+    ]
+  },
+  {
+    "value": "Dominicana de Aviacion",
+    "synonyms": [
+      "Dominicana de Aviacion"
+    ]
+  },
+  {
+    "value": "Air Madagascar",
+    "synonyms": [
+      "Air Madagascar"
+    ]
+  },
+  {
+    "value": "Austral Lineas Aereas",
+    "synonyms": [
+      "Austral Lineas Aereas"
+    ]
+  },
+  {
+    "value": "Nouvel Air Tunisie",
+    "synonyms": [
+      "Nouvel Air Tunisie"
+    ]
+  },
+  {
+    "value": "Scoot",
+    "synonyms": [
+      "Scoot"
+    ]
+  },
+  {
+    "value": "SkyKing Turks and Caicos Airways",
+    "synonyms": [
+      "SkyKing Turks and Caicos Airways"
+    ]
+  },
+  {
+    "value": "Aegean Airlines",
+    "synonyms": [
+      "Aegean Airlines"
+    ]
+  },
+  {
+    "value": "Aeroland Airways",
+    "synonyms": [
+      "Aeroland Airways"
+    ]
+  },
+  {
+    "value": "Amerijet International",
+    "synonyms": [
+      "Amerijet International"
+    ]
+  },
+  {
+    "value": "Euro Exec Express",
+    "synonyms": [
+      "Euro Exec Express"
+    ]
+  },
+  {
+    "value": "Lufttaxi Fluggesellschaft",
+    "synonyms": [
+      "Lufttaxi Fluggesellschaft"
+    ]
+  },
+  {
+    "value": "Avianca Aerovias Nacionales de Colombia",
+    "synonyms": [
+      "Avianca Aerovias Nacionales de Colombia"
+    ]
+  },
+  {
+    "value": "Eos Airlines",
+    "synonyms": [
+      "Eos Airlines"
+    ]
+  },
+  {
+    "value": "Indigo",
+    "synonyms": [
+      "Indigo"
+    ]
+  },
+  {
+    "value": "Indonesia AirAsia",
+    "synonyms": [
+      "Indonesia AirAsia"
+    ]
+  },
+  {
+    "value": "IBL Aviation",
+    "synonyms": [
+      "IBL Aviation"
+    ]
+  },
+  {
+    "value": "Lankair",
+    "synonyms": [
+      "Lankair"
+    ]
+  },
+  {
+    "value": "Mango",
+    "synonyms": [
+      "Mango"
+    ]
+  },
+  {
+    "value": "Star 1 Airlines",
+    "synonyms": [
+      "Star 1 Airlines"
+    ]
+  },
+  {
+    "value": "Airshop",
+    "synonyms": [
+      "Airshop"
+    ]
+  },
+  {
+    "value": "Azul Linhas Aereas Brasileiras",
+    "synonyms": [
+      "Azul Linhas Aereas Brasileiras"
+    ]
+  },
+  {
+    "value": "Bahamasair",
+    "synonyms": [
+      "Bahamasair"
+    ]
+  },
+  {
+    "value": "DAS Air Cargo",
+    "synonyms": [
+      "DAS Air Cargo"
+    ]
+  },
+  {
+    "value": "Proflight Zambia",
+    "synonyms": [
+      "Proflight Zambia"
+    ]
+  },
+  {
+    "value": "Aerolineas Argentinas",
+    "synonyms": [
+      "Aerolineas Argentinas"
+    ]
+  },
+  {
+    "value": "Aero Benin",
+    "synonyms": [
+      "Aero Benin"
+    ]
+  },
+  {
+    "value": "Camai Air",
+    "synonyms": [
+      "Camai Air"
+    ]
+  },
+  {
+    "value": "J-Air",
+    "synonyms": [
+      "J-Air"
+    ]
+  },
+  {
+    "value": "Lufthansa CityLine",
+    "synonyms": [
+      "Lufthansa CityLine"
+    ]
+  },
+  {
+    "value": "Meridiana",
+    "synonyms": [
+      "Meridiana"
+    ]
+  },
+  {
+    "value": "Alliance Air",
+    "synonyms": [
+      "Alliance Air"
+    ]
+  },
+  {
+    "value": "China Northwest Airlines",
+    "synonyms": [
+      "China Northwest Airlines"
+    ]
+  },
+  {
+    "value": "Cargoitalia",
+    "synonyms": [
+      "Cargoitalia"
+    ]
+  },
+  {
+    "value": "EuroAtlantic Airways",
+    "synonyms": [
+      "EuroAtlantic Airways"
+    ]
+  },
+  {
+    "value": "Corsairfly",
+    "synonyms": [
+      "Corsairfly"
+    ]
+  },
+  {
+    "value": "Kunpeng Airlines",
+    "synonyms": [
+      "Kunpeng Airlines"
+    ]
+  },
+  {
+    "value": "Lynx Aviation",
+    "synonyms": [
+      "Lynx Aviation"
+    ]
+  },
+  {
+    "value": "Canadian North",
+    "synonyms": [
+      "Canadian North"
+    ]
+  },
+  {
+    "value": "European Air Express",
+    "synonyms": [
+      "European Air Express"
+    ]
+  },
+  {
+    "value": "Lynden Air Cargo",
+    "synonyms": [
+      "Lynden Air Cargo"
+    ]
+  },
+  {
+    "value": "Ozark Air Lines",
+    "synonyms": [
+      "Ozark Air Lines"
+    ]
+  },
+  {
+    "value": "Eagle Air",
+    "synonyms": [
+      "Eagle Air"
+    ]
+  },
+  {
+    "value": "Heavylift Cargo Airlines",
+    "synonyms": [
+      "Heavylift Cargo Airlines"
+    ]
+  },
+  {
+    "value": "Reno Air",
+    "synonyms": [
+      "Reno Air"
+    ]
+  },
+  {
+    "value": "Fly Georgia",
+    "synonyms": [
+      "Fly Georgia"
+    ]
+  },
+  {
+    "value": "PB Air",
+    "synonyms": [
+      "PB Air"
+    ]
+  },
+  {
+    "value": "National Jet Systems",
+    "synonyms": [
+      "National Jet Systems"
+    ]
+  },
+  {
+    "value": "Kyrgyzstan",
+    "synonyms": [
+      "Kyrgyzstan"
+    ]
+  },
+  {
+    "value": "SwedJet Airways",
+    "synonyms": [
+      "SwedJet Airways"
+    ]
+  },
+  {
+    "value": "Volaris",
+    "synonyms": [
+      "Volaris"
+    ]
+  },
+  {
+    "value": "Advance Leasing Company",
+    "synonyms": [
+      "Advance Leasing Company"
+    ]
+  },
+  {
+    "value": "Nippon Cargo Airlines",
+    "synonyms": [
+      "Nippon Cargo Airlines"
+    ]
+  },
+  {
+    "value": "Royal Air Maroc",
+    "synonyms": [
+      "Royal Air Maroc"
+    ]
+  },
+  {
+    "value": "Royal Jordanian",
+    "synonyms": [
+      "Royal Jordanian"
+    ]
+  },
+  {
+    "value": "UTair-Ukraine",
+    "synonyms": [
+      "UTair-Ukraine"
+    ]
+  },
+  {
+    "value": "Coast Air",
+    "synonyms": [
+      "Coast Air"
+    ]
+  },
+  {
+    "value": "Norfolk Air",
+    "synonyms": [
+      "Norfolk Air"
+    ]
+  },
+  {
+    "value": "Lloyd Aereo Boliviano",
+    "synonyms": [
+      "Lloyd Aereo Boliviano"
+    ]
+  },
+  {
+    "value": "TUIfly Nordic",
+    "synonyms": [
+      "TUIfly Nordic"
+    ]
+  },
+  {
+    "value": "Atlant-Soyuz Airlines",
+    "synonyms": [
+      "Atlant-Soyuz Airlines"
+    ]
+  },
+  {
+    "value": "Chautauqua Airlines",
+    "synonyms": [
+      "Chautauqua Airlines"
+    ]
+  },
+  {
+    "value": "US Airways",
+    "synonyms": [
+      "US Airways"
+    ]
+  },
+  {
+    "value": "Xtra Airways",
+    "synonyms": [
+      "Xtra Airways"
+    ]
+  },
+  {
+    "value": "Cathay Pacific",
+    "synonyms": [
+      "Cathay Pacific"
+    ]
+  },
+  {
+    "value": "Cyprus Airways",
+    "synonyms": [
+      "Cyprus Airways"
+    ]
+  },
+  {
+    "value": "Seaborne Airlines",
+    "synonyms": [
+      "Seaborne Airlines"
+    ]
+  },
+  {
+    "value": "Air Arabia",
+    "synonyms": [
+      "Air Arabia"
+    ]
+  },
+  {
+    "value": "Eastern Airways",
+    "synonyms": [
+      "Eastern Airways"
+    ]
+  },
+  {
+    "value": "Hop",
+    "synonyms": [
+      "Hop"
+    ]
+  },
+  {
+    "value": "Interair South Africa",
+    "synonyms": [
+      "Interair South Africa"
+    ]
+  },
+  {
+    "value": "Air Class Lineas Aereas",
+    "synonyms": [
+      "Air Class Lineas Aereas"
+    ]
+  },
+  {
+    "value": "Avient Aviation",
+    "synonyms": [
+      "Avient Aviation"
+    ]
+  },
+  {
+    "value": "Avialeasing Aviation Company",
+    "synonyms": [
+      "Avialeasing Aviation Company"
+    ]
+  },
+  {
+    "value": "Canadian Airlines",
+    "synonyms": [
+      "Canadian Airlines"
+    ]
+  },
+  {
+    "value": "Bluebird Cargo",
+    "synonyms": [
+      "Bluebird Cargo"
+    ]
+  },
+  {
+    "value": "Empresa Ecuatoriana De Aviacion",
+    "synonyms": [
+      "Empresa Ecuatoriana De Aviacion"
+    ]
+  },
+  {
+    "value": "Saudia",
+    "synonyms": [
+      "Saudia"
+    ]
+  },
+  {
+    "value": "Thai Air Cargo",
+    "synonyms": [
+      "Thai Air Cargo"
+    ]
+  },
+  {
+    "value": "Air Plus Comet",
+    "synonyms": [
+      "Air Plus Comet"
+    ]
+  },
+  {
+    "value": "Air DAyiti",
+    "synonyms": [
+      "Air DAyiti"
+    ]
+  },
+  {
+    "value": "GoJet Airlines",
+    "synonyms": [
+      "GoJet Airlines"
+    ]
+  },
+  {
+    "value": "Sun Air International",
+    "synonyms": [
+      "Sun Air International"
+    ]
+  },
+  {
+    "value": "Transportes Aereos Nacionales",
+    "synonyms": [
+      "Transportes Aereos Nacionales"
+    ]
+  },
+  {
+    "value": "Air Luxor",
+    "synonyms": [
+      "Air Luxor"
+    ]
+  },
+  {
+    "value": "Izair",
+    "synonyms": [
+      "Izair"
+    ]
+  },
+  {
+    "value": "Porter Airlines",
+    "synonyms": [
+      "Porter Airlines"
+    ]
+  },
+  {
+    "value": "Safair",
+    "synonyms": [
+      "Safair"
+    ]
+  },
+  {
+    "value": "Southwest Airlines",
+    "synonyms": [
+      "Southwest Airlines"
+    ]
+  },
+  {
+    "value": "Australian Airlines",
+    "synonyms": [
+      "Australian Airlines",
+      "OS",
+      "AUA"
+    ]
+  },
+  {
+    "value": "Continental Airlines",
+    "synonyms": [
+      "Continental Airlines"
+    ]
+  },
+  {
+    "value": "Singapore Airlines Cargo",
+    "synonyms": [
+      "Singapore Airlines Cargo"
+    ]
+  },
+  {
+    "value": "China Southern Airlines",
+    "synonyms": [
+      "China Southern Airlines"
+    ]
+  },
+  {
+    "value": "Hex Air",
+    "synonyms": [
+      "Hex Air"
+    ]
+  },
+  {
+    "value": "Far Eastern Air Transport",
+    "synonyms": [
+      "Far Eastern Air Transport"
+    ]
+  },
+  {
+    "value": "Volare Airlines",
+    "synonyms": [
+      "Volare Airlines"
+    ]
+  },
+  {
+    "value": "Berjaya Air",
+    "synonyms": [
+      "Berjaya Air"
+    ]
+  },
+  {
+    "value": "British International Helicopters",
+    "synonyms": [
+      "British International Helicopters"
+    ]
+  },
+  {
+    "value": "Dalavia",
+    "synonyms": [
+      "Dalavia"
+    ]
+  },
+  {
+    "value": "Jet Airways",
+    "synonyms": [
+      "Jet Airways"
+    ]
+  },
+  {
+    "value": "Sylt Air GmbH",
+    "synonyms": [
+      "Sylt Air GmbH"
+    ]
+  },
+  {
+    "value": "Aero VIP",
+    "synonyms": [
+      "Aero VIP"
+    ]
+  },
+  {
+    "value": "Aryan Cargo Express",
+    "synonyms": [
+      "Aryan Cargo Express"
+    ]
+  },
+  {
+    "value": "Execair Aviation",
+    "synonyms": [
+      "Execair Aviation"
+    ]
+  },
+  {
+    "value": "United Airways",
+    "synonyms": [
+      "United Airways"
+    ]
+  },
+  {
+    "value": "Aero-Charter Ukraine",
+    "synonyms": [
+      "Aero-Charter Ukraine"
+    ]
+  },
+  {
+    "value": "Air Salone",
+    "synonyms": [
+      "Air Salone"
+    ]
+  },
+  {
+    "value": "Air Caledonie International",
+    "synonyms": [
+      "Air Caledonie International"
+    ]
+  },
+  {
+    "value": "Druk Air",
+    "synonyms": [
+      "Druk Air"
+    ]
+  },
+  {
+    "value": "Discovery Airways",
+    "synonyms": [
+      "Discovery Airways"
+    ]
+  },
+  {
+    "value": "Haiti Ambassador Airlines",
+    "synonyms": [
+      "Haiti Ambassador Airlines"
+    ]
+  },
+  {
+    "value": "Sabre Pacific",
+    "synonyms": [
+      "Sabre Pacific"
+    ]
+  },
+  {
+    "value": "Amsterdam Airlines",
+    "synonyms": [
+      "Amsterdam Airlines"
+    ]
+  },
+  {
+    "value": "Compass Airlines",
+    "synonyms": [
+      "Compass Airlines"
+    ]
+  },
+  {
+    "value": "Braniff International Airways",
+    "synonyms": [
+      "Braniff International Airways"
+    ]
+  },
+  {
+    "value": "BAL Bashkirian Airlines",
+    "synonyms": [
+      "BAL Bashkirian Airlines"
+    ]
+  },
+  {
+    "value": "National Airways Cameroon",
+    "synonyms": [
+      "National Airways Cameroon"
+    ]
+  },
+  {
+    "value": "CityJet",
+    "synonyms": [
+      "CityJet"
+    ]
+  },
+  {
+    "value": "Pacific Airlines",
+    "synonyms": [
+      "Pacific Airlines"
+    ]
+  },
+  {
+    "value": "Angkor Air",
+    "synonyms": [
+      "Angkor Air"
+    ]
+  },
+  {
+    "value": "Champion Air",
+    "synonyms": [
+      "Champion Air"
+    ]
+  },
+  {
+    "value": "Hi Fly",
+    "synonyms": [
+      "Hi Fly"
+    ]
+  },
+  {
+    "value": "LTU International",
+    "synonyms": [
+      "LTU International"
+    ]
+  },
+  {
+    "value": "Malmo Aviation",
+    "synonyms": [
+      "Malmo Aviation"
+    ]
+  },
+  {
+    "value": "Thomson Airways",
+    "synonyms": [
+      "Thomson Airways"
+    ]
+  },
+  {
+    "value": "Aerogal",
+    "synonyms": [
+      "Aerogal"
+    ]
+  },
+  {
+    "value": "Air VIA",
+    "synonyms": [
+      "Air VIA"
+    ]
+  },
+  {
+    "value": "American Airlines",
+    "synonyms": [
+      "American Airlines",
+      "AA"
+    ]
+  },
+  {
+    "value": "Excel Airways",
+    "synonyms": [
+      "Excel Airways"
+    ]
+  },
+  {
+    "value": "Copa Airlines",
+    "synonyms": [
+      "Copa Airlines"
+    ]
+  },
+  {
+    "value": "LAN Airlines",
+    "synonyms": [
+      "LAN Airlines"
+    ]
+  },
+  {
+    "value": "Moskovia Airlines",
+    "synonyms": [
+      "Moskovia Airlines"
+    ]
+  },
+  {
+    "value": "Omskavia Airline",
+    "synonyms": [
+      "Omskavia Airline"
+    ]
+  },
+  {
+    "value": "Adam Air",
+    "synonyms": [
+      "Adam Air"
+    ]
+  },
+  {
+    "value": "Air Wales",
+    "synonyms": [
+      "Air Wales"
+    ]
+  },
+  {
+    "value": "Air Horizon",
+    "synonyms": [
+      "Air Horizon"
+    ]
+  },
+  {
+    "value": "Aztec Worldwide Airlines",
+    "synonyms": [
+      "Aztec Worldwide Airlines"
+    ]
+  },
+  {
+    "value": "Airblue",
+    "synonyms": [
+      "Airblue"
+    ]
+  },
+  {
+    "value": "Axis Airways",
+    "synonyms": [
+      "Axis Airways"
+    ]
+  },
+  {
+    "value": "Star Flyer",
+    "synonyms": [
+      "Star Flyer"
+    ]
+  },
+  {
+    "value": "Linhas Aуreas de Moсambique",
+    "synonyms": [
+      "Linhas Aуreas de Moсambique"
+    ]
+  },
+  {
+    "value": "Indonesian Airlines",
+    "synonyms": [
+      "Indonesian Airlines"
+    ]
+  },
+  {
+    "value": "Rio Sul Servicos Aereos Regionais",
+    "synonyms": [
+      "Rio Sul Servicos Aereos Regionais"
+    ]
+  },
+  {
+    "value": "40-Mile Air",
+    "synonyms": [
+      "40-Mile Air"
+    ]
+  },
+  {
+    "value": "AirBridge Cargo",
+    "synonyms": [
+      "AirBridge Cargo"
+    ]
+  },
+  {
+    "value": "Canadian Pacific Airlines",
+    "synonyms": [
+      "Canadian Pacific Airlines"
+    ]
+  },
+  {
+    "value": "Luftfahrtgesellschaft Walter",
+    "synonyms": [
+      "Luftfahrtgesellschaft Walter"
+    ]
+  },
+  {
+    "value": "Regional Air Lines",
+    "synonyms": [
+      "Regional Air Lines"
+    ]
+  },
+  {
+    "value": "Alrosa Air Company",
+    "synonyms": [
+      "Alrosa Air Company"
+    ]
+  },
+  {
+    "value": "Cayman Airways",
+    "synonyms": [
+      "Cayman Airways"
+    ]
+  },
+  {
+    "value": "Passaredo Transportes Aereos",
+    "synonyms": [
+      "Passaredo Transportes Aereos"
+    ]
+  },
+  {
+    "value": "Shovkoviy Shlyah",
+    "synonyms": [
+      "Shovkoviy Shlyah"
+    ]
+  },
+  {
+    "value": "American Eagle Airlines",
+    "synonyms": [
+      "American Eagle Airlines"
+    ]
+  },
+  {
+    "value": "Tri-MG Intra Asia Airlines",
+    "synonyms": [
+      "Tri-MG Intra Asia Airlines"
+    ]
+  },
+  {
+    "value": "WOW air",
+    "synonyms": [
+      "WOW air"
+    ]
+  },
+  {
+    "value": "Olympic Airlines",
+    "synonyms": [
+      "Olympic Airlines"
+    ]
+  },
+  {
+    "value": "Carpatair",
+    "synonyms": [
+      "Carpatair"
+    ]
+  },
+  {
+    "value": "Caribbean Star Airlines",
+    "synonyms": [
+      "Caribbean Star Airlines"
+    ]
+  },
+  {
+    "value": "ATRAN Cargo Airlines",
+    "synonyms": [
+      "ATRAN Cargo Airlines"
+    ]
+  },
+  {
+    "value": "Austrian Airlines",
+    "synonyms": [
+      "Austrian Airlines"
+    ]
+  },
+  {
+    "value": "Itek Air",
+    "synonyms": [
+      "Itek Air"
+    ]
+  },
+  {
+    "value": "Polynesian Blue",
+    "synonyms": [
+      "Polynesian Blue"
+    ]
+  },
+  {
+    "value": "Nordwind Airlines",
+    "synonyms": [
+      "Nordwind Airlines"
+    ]
+  },
+  {
+    "value": "Shandong Airlines",
+    "synonyms": [
+      "Shandong Airlines"
+    ]
+  },
+  {
+    "value": "LACSA",
+    "synonyms": [
+      "LACSA"
+    ]
+  },
+  {
+    "value": "Pacificair",
+    "synonyms": [
+      "Pacificair"
+    ]
+  },
+  {
+    "value": "Lauda Air",
+    "synonyms": [
+      "Lauda Air"
+    ]
+  },
+  {
+    "value": "Malta Air Charter",
+    "synonyms": [
+      "Malta Air Charter"
+    ]
+  },
+  {
+    "value": "Pakistan International Airlines",
+    "synonyms": [
+      "Pakistan International Airlines"
+    ]
+  },
+  {
+    "value": "GMG Airlines",
+    "synonyms": [
+      "GMG Airlines"
+    ]
+  },
+  {
+    "value": "Polyot Sirena",
+    "synonyms": [
+      "Polyot Sirena"
+    ]
+  },
+  {
+    "value": "Montenegro Airlines",
+    "synonyms": [
+      "Montenegro Airlines"
+    ]
+  },
+  {
+    "value": "Hawaiian Airlines",
+    "synonyms": [
+      "Hawaiian Airlines"
+    ]
+  },
+  {
+    "value": "Sun DOr",
+    "synonyms": [
+      "Sun DOr"
+    ]
+  },
+  {
+    "value": "Komiinteravia",
+    "synonyms": [
+      "Komiinteravia"
+    ]
+  },
+  {
+    "value": "MasAir",
+    "synonyms": [
+      "MasAir"
+    ]
+  },
+  {
+    "value": "President Airlines",
+    "synonyms": [
+      "President Airlines"
+    ]
+  },
+  {
+    "value": "JetBlue Airways",
+    "synonyms": [
+      "JetBlue Airways"
+    ]
+  },
+  {
+    "value": "Civil Air Transport",
+    "synonyms": [
+      "Civil Air Transport"
+    ]
+  },
+  {
+    "value": "China Yunnan Airlines",
+    "synonyms": [
+      "China Yunnan Airlines"
+    ]
+  },
+  {
+    "value": "Helvetic Airways",
+    "synonyms": [
+      "Helvetic Airways"
+    ]
+  },
+  {
+    "value": "Finalair Congo",
+    "synonyms": [
+      "Finalair Congo"
+    ]
+  },
+  {
+    "value": "Redhill Aviation",
+    "synonyms": [
+      "Redhill Aviation"
+    ]
+  },
+  {
+    "value": "SATA Air Acores",
+    "synonyms": [
+      "SATA Air Acores"
+    ]
+  },
+  {
+    "value": "Sky Work Airlines",
+    "synonyms": [
+      "Sky Work Airlines"
+    ]
+  },
+  {
+    "value": "Ghana International Airlines",
+    "synonyms": [
+      "Ghana International Airlines"
+    ]
+  },
+  {
+    "value": "Futura International Airways",
+    "synonyms": [
+      "Futura International Airways"
+    ]
+  },
+  {
+    "value": "Sky Trek International Airlines",
+    "synonyms": [
+      "Sky Trek International Airlines"
+    ]
+  },
+  {
+    "value": "Oceanair",
+    "synonyms": [
+      "Oceanair"
+    ]
+  },
+  {
+    "value": "Peruvian Airlines",
+    "synonyms": [
+      "Peruvian Airlines"
+    ]
+  },
+  {
+    "value": "Gambia International Airlines",
+    "synonyms": [
+      "Gambia International Airlines"
+    ]
+  },
+  {
+    "value": "Mesaba Airlines",
+    "synonyms": [
+      "Mesaba Airlines"
+    ]
+  },
+  {
+    "value": "Island Express",
+    "synonyms": [
+      "Island Express"
+    ]
+  },
+  {
+    "value": "City Airline",
+    "synonyms": [
+      "City Airline"
+    ]
+  },
+  {
+    "value": "Karat",
+    "synonyms": [
+      "Karat"
+    ]
+  },
+  {
+    "value": "Linhas Aereas de Moçambique",
+    "synonyms": [
+      "Linhas Aereas de Moçambique"
+    ]
+  },
+  {
+    "value": "Loganair",
+    "synonyms": [
+      "Loganair"
+    ]
+  },
+  {
+    "value": "Rio Linhas Aereas",
+    "synonyms": [
+      "Rio Linhas Aereas"
+    ]
+  },
+  {
+    "value": "Oceanic Airlines",
+    "synonyms": [
+      "Oceanic Airlines"
+    ]
+  },
+  {
+    "value": "Freedom Air",
+    "synonyms": [
+      "Freedom Air"
+    ]
+  },
+  {
+    "value": "Siren-Travel",
+    "synonyms": [
+      "Siren-Travel"
+    ]
+  },
+  {
+    "value": "Sibaviatrans",
+    "synonyms": [
+      "Sibaviatrans"
+    ]
+  },
+  {
+    "value": "TransAVIAexport Airlines",
+    "synonyms": [
+      "TransAVIAexport Airlines"
+    ]
+  },
+  {
+    "value": "West Caribbean Airways",
+    "synonyms": [
+      "West Caribbean Airways"
+    ]
+  },
+  {
+    "value": "Volga-Dnepr Airlines",
+    "synonyms": [
+      "Volga-Dnepr Airlines"
+    ]
+  },
+  {
+    "value": "Sat Airlines",
+    "synonyms": [
+      "Sat Airlines"
+    ]
+  },
+  {
+    "value": "St Barth Commuter",
+    "synonyms": [
+      "St Barth Commuter"
+    ]
+  },
+  {
+    "value": "United Parcel Service",
+    "synonyms": [
+      "United Parcel Service"
+    ]
+  },
+  {
+    "value": "South African Airways",
+    "synonyms": [
+      "South African Airways"
+    ]
+  },
+  {
+    "value": "Spring Airlines",
+    "synonyms": [
+      "Spring Airlines"
+    ]
+  },
+  {
+    "value": "Vipair Airlines",
+    "synonyms": [
+      "Vipair Airlines"
+    ]
+  },
+  {
+    "value": "Pulkovo Aviation Enterprise",
+    "synonyms": [
+      "Pulkovo Aviation Enterprise"
+    ]
+  },
+  {
+    "value": "Servant Air",
+    "synonyms": [
+      "Servant Air"
+    ]
+  },
+  {
+    "value": "Star Air",
+    "synonyms": [
+      "Star Air"
+    ]
+  },
+  {
+    "value": "Skywalk Airlines",
+    "synonyms": [
+      "Skywalk Airlines"
+    ]
+  },
+  {
+    "value": "SAETA",
+    "synonyms": [
+      "SAETA"
+    ]
+  },
+  {
+    "value": "Silk Way Airlines",
+    "synonyms": [
+      "Silk Way Airlines"
+    ]
+  },
+  {
+    "value": "Virgin Nigeria Airways",
+    "synonyms": [
+      "Virgin Nigeria Airways"
+    ]
+  },
+  {
+    "value": "SNCF",
+    "synonyms": [
+      "SNCF"
+    ]
+  },
+  {
+    "value": "Sichuan Airlines",
+    "synonyms": [
+      "Sichuan Airlines"
+    ]
+  },
+  {
+    "value": "United Feeder Service",
+    "synonyms": [
+      "United Feeder Service"
+    ]
+  },
+  {
+    "value": "Saratov Airlines Joint Stock Company",
+    "synonyms": [
+      "Saratov Airlines Joint Stock Company"
+    ]
+  },
+  {
+    "value": "VIM Airlines",
+    "synonyms": [
+      "VIM Airlines"
+    ]
+  },
+  {
+    "value": "Trast Aero",
+    "synonyms": [
+      "Trast Aero"
+    ]
+  },
+  {
+    "value": "XL Airways France",
+    "synonyms": [
+      "XL Airways France"
+    ]
+  },
+  {
+    "value": "AA",
+    "synonyms": [
+      "AA"
+    ]
+  },
+  {
+    "value": "Tol-Air Services",
+    "synonyms": [
+      "Tol-Air Services"
+    ]
+  },
+  {
+    "value": "Wayraperu",
+    "synonyms": [
+      "Wayraperu"
+    ]
+  },
+  {
+    "value": "Thalys",
+    "synonyms": [
+      "Thalys"
+    ]
+  },
+  {
+    "value": "Wizz Air Bulgaria",
+    "synonyms": [
+      "Wizz Air Bulgaria"
+    ]
+  },
+  {
+    "value": "Singapore Airlines",
+    "synonyms": [
+      "Singapore Airlines"
+    ]
+  },
+  {
+    "value": "Viaggio Air",
+    "synonyms": [
+      "Viaggio Air"
+    ]
+  },
+  {
+    "value": "Transbrasil",
+    "synonyms": [
+      "Transbrasil"
+    ]
+  },
+  {
+    "value": "Vladivostok Air",
+    "synonyms": [
+      "Vladivostok Air"
+    ]
+  },
+  {
+    "value": "SunExpress",
+    "synonyms": [
+      "SunExpress"
+    ]
+  },
+  {
+    "value": "TACV",
+    "synonyms": [
+      "TACV"
+    ]
+  },
+  {
+    "value": "Wizz Air",
+    "synonyms": [
+      "Wizz Air"
+    ]
+  },
+  {
+    "value": "Transavia Holland",
+    "synonyms": [
+      "Transavia Holland"
+    ]
+  },
+  {
+    "value": "Wasaya Airways",
+    "synonyms": [
+      "Wasaya Airways"
+    ]
+  },
+  {
+    "value": "Shanghai Airlines",
+    "synonyms": [
+      "Shanghai Airlines"
+    ]
+  },
+  {
+    "value": "Star Equatorial Airlines",
+    "synonyms": [
+      "Star Equatorial Airlines"
+    ]
+  },
+  {
+    "value": "Pantanal Linhas Aereas",
+    "synonyms": [
+      "Pantanal Linhas Aereas"
+    ]
+  },
+  {
+    "value": "Tandem Aero",
+    "synonyms": [
+      "Tandem Aero"
+    ]
+  },
+  {
+    "value": "Sun D\u0027Or",
+    "synonyms": [
+      "Sun D\u0027Or"
+    ]
+  },
+  {
+    "value": "Thomas Cook Airlines",
+    "synonyms": [
+      "Thomas Cook Airlines"
+    ]
+  },
+  {
+    "value": "Virgin Express",
+    "synonyms": [
+      "Virgin Express"
+    ]
+  },
+  {
+    "value": "Vietnam Airlines",
+    "synonyms": [
+      "Vietnam Airlines"
+    ]
+  },
+  {
+    "value": "Wings of Alaska",
+    "synonyms": [
+      "Wings of Alaska"
+    ]
+  },
+  {
+    "value": "Spicejet",
+    "synonyms": [
+      "Spicejet"
+    ]
+  },
+  {
+    "value": "Transmile Air Services",
+    "synonyms": [
+      "Transmile Air Services"
+    ]
+  },
+  {
+    "value": "Sky Airline",
+    "synonyms": [
+      "Sky Airline"
+    ]
+  },
+  {
+    "value": "Uganda Airlines",
+    "synonyms": [
+      "Uganda Airlines"
+    ]
+  },
+  {
+    "value": "Skynet Airlines",
+    "synonyms": [
+      "Skynet Airlines"
+    ]
+  },
+  {
+    "value": "Western Airlines",
+    "synonyms": [
+      "Western Airlines"
+    ]
+  },
+  {
+    "value": "Tbilaviamsheni",
+    "synonyms": [
+      "Tbilaviamsheni"
+    ]
+  },
+  {
+    "value": "Skytaxi",
+    "synonyms": [
+      "Skytaxi"
+    ]
+  },
+  {
+    "value": "Virgin Australia Airlines",
+    "synonyms": [
+      "Virgin Australia Airlines"
+    ]
+  },
+  {
+    "value": "US Helicopter",
+    "synonyms": [
+      "US Helicopter"
+    ]
+  },
+  {
+    "value": "Sun Air of Scandinavia",
+    "synonyms": [
+      "Sun Air of Scandinavia"
+    ]
+  },
+  {
+    "value": "TAAG Angola Airlines",
+    "synonyms": [
+      "TAAG Angola Airlines"
+    ]
+  },
+  {
+    "value": "VRG Linhas Aereas",
+    "synonyms": [
+      "VRG Linhas Aereas"
+    ]
+  },
+  {
+    "value": "Solomon Airlines",
+    "synonyms": [
+      "Solomon Airlines"
+    ]
+  },
+  {
+    "value": "Tiger Airways Philippines",
+    "synonyms": [
+      "Tiger Airways Philippines"
+    ]
+  },
+  {
+    "value": "Welcome Air",
+    "synonyms": [
+      "Welcome Air"
+    ]
+  },
+  {
+    "value": "Yemenia",
+    "synonyms": [
+      "Yemenia"
+    ]
+  },
+  {
+    "value": "Turkish Airlines",
+    "synonyms": [
+      "Turkish Airlines"
+    ]
+  },
+  {
+    "value": "Sky Airlines",
+    "synonyms": [
+      "Sky Airlines"
+    ]
+  },
+  {
+    "value": "Slok Air Gambia",
+    "synonyms": [
+      "Slok Air Gambia"
+    ]
+  },
+  {
+    "value": "Sirena",
+    "synonyms": [
+      "Sirena"
+    ]
+  },
+  {
+    "value": "Widerøe",
+    "synonyms": [
+      "Widerøe"
+    ]
+  },
+  {
+    "value": "Thai Airways International",
+    "synonyms": [
+      "Thai Airways International"
+    ]
+  },
+  {
+    "value": "TAM Mercosur",
+    "synonyms": [
+      "TAM Mercosur"
+    ]
+  },
+  {
+    "value": "Sunshine Airlines",
+    "synonyms": [
+      "Sunshine Airlines"
+    ]
+  },
+  {
+    "value": "Zip",
+    "synonyms": [
+      "Zip"
+    ]
+  },
+  {
+    "value": "Sun Air",
+    "synonyms": [
+      "Sun Air"
+    ]
+  },
+  {
+    "value": "Trans Mediterranean Airlines",
+    "synonyms": [
+      "Trans Mediterranean Airlines"
+    ]
+  },
+  {
+    "value": "Tulip Air",
+    "synonyms": [
+      "Tulip Air"
+    ]
+  },
+  {
+    "value": "Tiger Airways Singapore",
+    "synonyms": [
+      "Tiger Airways Singapore"
+    ]
+  },
+  {
+    "value": "Virgin America",
+    "synonyms": [
+      "Virgin America"
+    ]
+  },
+  {
+    "value": "Transaero Airlines",
+    "synonyms": [
+      "Transaero Airlines"
+    ]
+  },
+  {
+    "value": "Tassili Airlines",
+    "synonyms": [
+      "Tassili Airlines"
+    ]
+  },
+  {
+    "value": "Ural Airlines",
+    "synonyms": [
+      "Ural Airlines"
+    ]
+  },
+  {
+    "value": "SkyEurope",
+    "synonyms": [
+      "SkyEurope"
+    ]
+  },
+  {
+    "value": "Zambian Airways",
+    "synonyms": [
+      "Zambian Airways"
+    ]
+  },
+  {
+    "value": "Sun Country Airlines",
+    "synonyms": [
+      "Sun Country Airlines"
+    ]
+  },
+  {
+    "value": "SAS Braathens",
+    "synonyms": [
+      "SAS Braathens"
+    ]
+  },
+  {
+    "value": "Tobruk Air",
+    "synonyms": [
+      "Tobruk Air"
+    ]
+  },
+  {
+    "value": "Tyrolean Airways",
+    "synonyms": [
+      "Tyrolean Airways"
+    ]
+  },
+  {
+    "value": "Tarom",
+    "synonyms": [
+      "Tarom"
+    ]
+  },
+  {
+    "value": "Sosoliso Airlines",
+    "synonyms": [
+      "Sosoliso Airlines"
+    ]
+  },
+  {
+    "value": "WestJet Encore",
+    "synonyms": [
+      "WestJet Encore"
+    ]
+  },
+  {
+    "value": "Vueling Airlines",
+    "synonyms": [
+      "Vueling Airlines"
+    ]
+  },
+  {
+    "value": "Ukraine International Airlines",
+    "synonyms": [
+      "Ukraine International Airlines"
+    ]
+  },
+  {
+    "value": "Sky Regional Airlines",
+    "synonyms": [
+      "Sky Regional Airlines"
+    ]
+  },
+  {
+    "value": "Southern Winds Airlines",
+    "synonyms": [
+      "Southern Winds Airlines"
+    ]
+  },
+  {
+    "value": "Sirin",
+    "synonyms": [
+      "Sirin"
+    ]
+  },
+  {
+    "value": "TAMPA",
+    "synonyms": [
+      "TAMPA"
+    ]
+  },
+  {
+    "value": "Sunshine Express Airlines",
+    "synonyms": [
+      "Sunshine Express Airlines"
+    ]
+  },
+  {
+    "value": "West Coast Air",
+    "synonyms": [
+      "West Coast Air"
+    ]
+  },
+  {
+    "value": "SkyWest Airlines",
+    "synonyms": [
+      "SkyWest Airlines"
+    ]
+  },
+  {
+    "value": "Spirit Airlines",
+    "synonyms": [
+      "Spirit Airlines"
+    ]
+  },
+  {
+    "value": "Sudan Airways",
+    "synonyms": [
+      "Sudan Airways"
+    ]
+  },
+  {
+    "value": "Wan Air",
+    "synonyms": [
+      "Wan Air"
+    ]
+  },
+  {
+    "value": "Travelsky Technology",
+    "synonyms": [
+      "Travelsky Technology"
+    ]
+  },
+  {
+    "value": "Wideroe",
+    "synonyms": [
+      "Wideroe"
+    ]
+  },
+  {
+    "value": "Yuzhmashavia",
+    "synonyms": [
+      "Yuzhmashavia"
+    ]
+  },
+  {
+    "value": "Tradewind Aviation",
+    "synonyms": [
+      "Tradewind Aviation"
+    ]
+  },
+  {
+    "value": "Via Rail Canada",
+    "synonyms": [
+      "Via Rail Canada"
+    ]
+  },
+  {
+    "value": "Syrian Arab Airlines",
+    "synonyms": [
+      "Syrian Arab Airlines"
+    ]
+  },
+  {
+    "value": "Ukrainian Cargo Airways",
+    "synonyms": [
+      "Ukrainian Cargo Airways"
+    ]
+  },
+  {
+    "value": "vn",
+    "synonyms": [
+      "vn"
+    ]
+  },
+  {
+    "value": "VivaColombia",
+    "synonyms": [
+      "VivaColombia"
+    ]
+  },
+  {
+    "value": "Nuevo Continente",
+    "synonyms": [
+      "Nuevo Continente"
+    ]
+  },
+  {
+    "value": "SITA",
+    "synonyms": [
+      "SITA"
+    ]
+  },
+  {
+    "value": "tz",
+    "synonyms": [
+      "tz"
+    ]
+  },
+  {
+    "value": "Transeuropean Airlines",
+    "synonyms": [
+      "Transeuropean Airlines"
+    ]
+  },
+  {
+    "value": "US Airlines",
+    "synonyms": [
+      "US Airlines"
+    ]
+  },
+  {
+    "value": "Tropic Air",
+    "synonyms": [
+      "Tropic Air"
+    ]
+  },
+  {
+    "value": "Turan Air",
+    "synonyms": [
+      "Turan Air"
+    ]
+  },
+  {
+    "value": "Wings Air",
+    "synonyms": [
+      "Wings Air"
+    ]
+  },
+  {
+    "value": "Republic Airlines",
+    "synonyms": [
+      "Republic Airlines"
+    ]
+  },
+  {
+    "value": "VLM Airlines",
+    "synonyms": [
+      "VLM Airlines"
+    ]
+  },
+  {
+    "value": "Sutra",
+    "synonyms": [
+      "Sutra"
+    ]
+  },
+  {
+    "value": "Zoom Airlines",
+    "synonyms": [
+      "Zoom Airlines"
+    ]
+  },
+  {
+    "value": "TAME",
+    "synonyms": [
+      "TAME"
+    ]
+  },
+  {
+    "value": "Yute Air Alaska",
+    "synonyms": [
+      "Yute Air Alaska"
+    ]
+  },
+  {
+    "value": "Sunstate Airlines",
+    "synonyms": [
+      "Sunstate Airlines"
+    ]
+  },
+  {
+    "value": "WebJet Linhas Aereas",
+    "synonyms": [
+      "WebJet Linhas Aereas"
+    ]
+  },
+  {
+    "value": "Wright Air Service",
+    "synonyms": [
+      "Wright Air Service"
+    ]
+  },
+  {
+    "value": "Twin Jet",
+    "synonyms": [
+      "Twin Jet"
+    ]
+  },
+  {
+    "value": "TAP Portugal",
+    "synonyms": [
+      "TAP Portugal"
+    ]
+  },
+  {
+    "value": "Transports et Travaux Aeriens de Madagascar",
+    "synonyms": [
+      "Transports et Travaux Aeriens de Madagascar"
+    ]
+  },
+  {
+    "value": "US Helicopter Corporation",
+    "synonyms": [
+      "US Helicopter Corporation"
+    ]
+  },
+  {
+    "value": "Vision Airlines",
+    "synonyms": [
+      "Vision Airlines"
+    ]
+  },
+  {
+    "value": "SAM Colombia",
+    "synonyms": [
+      "SAM Colombia"
+    ]
+  },
+  {
+    "value": "TransAsia Airways",
+    "synonyms": [
+      "TransAsia Airways"
+    ]
+  },
+  {
+    "value": "West African Airlines",
+    "synonyms": [
+      "West African Airlines"
+    ]
+  },
+  {
+    "value": "Skagway Air Service",
+    "synonyms": [
+      "Skagway Air Service"
+    ]
+  },
+  {
+    "value": "Thai Star Airlines",
+    "synonyms": [
+      "Thai Star Airlines"
+    ]
+  },
+  {
+    "value": "Niki",
+    "synonyms": [
+      "Niki"
+    ]
+  },
+  {
+    "value": "Yamal Airlines",
+    "synonyms": [
+      "Yamal Airlines"
+    ]
+  },
+  {
+    "value": "USA Jet Airlines",
+    "synonyms": [
+      "USA Jet Airlines"
+    ]
+  },
+  {
+    "value": "West Air Sweden",
+    "synonyms": [
+      "West Air Sweden"
+    ]
+  },
+  {
+    "value": "Pacific Wings",
+    "synonyms": [
+      "Pacific Wings"
+    ]
+  },
+  {
+    "value": "O\u0027Connor Airlines",
+    "synonyms": [
+      "O\u0027Connor Airlines"
+    ]
+  },
+  {
+    "value": "Sakhalinskie Aviatrassy",
+    "synonyms": [
+      "Sakhalinskie Aviatrassy"
+    ]
+  },
+  {
+    "value": "Thai Sky Airlines",
+    "synonyms": [
+      "Thai Sky Airlines"
+    ]
+  },
+  {
+    "value": "Yangtze River Express",
+    "synonyms": [
+      "Yangtze River Express"
+    ]
+  },
+  {
+    "value": "TRIP Linhas Aereas",
+    "synonyms": [
+      "TRIP Linhas Aereas"
+    ]
+  },
+  {
+    "value": "SkyStar Airways",
+    "synonyms": [
+      "SkyStar Airways"
+    ]
+  },
+  {
+    "value": "Zimex Aviation",
+    "synonyms": [
+      "Zimex Aviation"
+    ]
+  },
+  {
+    "value": "Pinnacle Airlines",
+    "synonyms": [
+      "Pinnacle Airlines"
+    ]
+  },
+  {
+    "value": "Pegasus Hava Tasimaciligi",
+    "synonyms": [
+      "Pegasus Hava Tasimaciligi"
+    ]
+  },
+  {
+    "value": "Novo Air",
+    "synonyms": [
+      "Novo Air"
+    ]
+  },
+  {
+    "value": "Siem Reap Airways",
+    "synonyms": [
+      "Siem Reap Airways"
+    ]
+  },
+  {
+    "value": "Worldspan",
+    "synonyms": [
+      "Worldspan"
+    ]
+  },
+  {
+    "value": "People\u0027s Viennaline",
+    "synonyms": [
+      "People\u0027s Viennaline"
+    ]
+  },
+  {
+    "value": "Swiss European Air Lines",
+    "synonyms": [
+      "Swiss European Air Lines"
+    ]
+  },
+  {
+    "value": "World Airways",
+    "synonyms": [
+      "World Airways"
+    ]
+  },
+  {
+    "value": "Viasa",
+    "synonyms": [
+      "Viasa"
+    ]
+  },
+  {
+    "value": "Primaris Airlines",
+    "synonyms": [
+      "Primaris Airlines"
+    ]
+  },
+  {
+    "value": "Uzbekistan Airways",
+    "synonyms": [
+      "Uzbekistan Airways"
+    ]
+  },
+  {
+    "value": "Northwest Regional Airlines",
+    "synonyms": [
+      "Northwest Regional Airlines"
+    ]
+  },
+  {
+    "value": "Teamline Air",
+    "synonyms": [
+      "Teamline Air"
+    ]
+  },
+  {
+    "value": "TransMeridian Airlines",
+    "synonyms": [
+      "TransMeridian Airlines"
+    ]
+  },
+  {
+    "value": "Skynet Asia Airways",
+    "synonyms": [
+      "Skynet Asia Airways"
+    ]
+  },
+  {
+    "value": "Tavrey Airlines",
+    "synonyms": [
+      "Tavrey Airlines"
+    ]
+  },
+  {
+    "value": "Virgin Blue Holdings",
+    "synonyms": [
+      "Virgin Blue Holdings"
+    ]
+  },
+  {
+    "value": "SriLankan Airlines",
+    "synonyms": [
+      "SriLankan Airlines"
+    ]
+  },
+  {
+    "value": "Unavia Suisse",
+    "synonyms": [
+      "Unavia Suisse"
+    ]
+  },
+  {
+    "value": "Voyageur Airways",
+    "synonyms": [
+      "Voyageur Airways"
+    ]
+  },
+  {
+    "value": "Tiger Airways Australia",
+    "synonyms": [
+      "Tiger Airways Australia"
+    ]
+  },
+  {
+    "value": "TNT Airways",
+    "synonyms": [
+      "TNT Airways"
+    ]
+  },
+  {
+    "value": "Royal Air Force of Oman",
+    "synonyms": [
+      "Royal Air Force of Oman"
+    ]
+  },
+  {
+    "value": "United Airlines",
+    "synonyms": [
+      "United Airlines",
+      "United"
+    ]
+  },
+  {
+    "value": "Thai AirAsia",
+    "synonyms": [
+      "Thai AirAsia"
+    ]
+  },
+  {
+    "value": "Viva Macau",
+    "synonyms": [
+      "Viva Macau"
+    ]
+  },
+  {
+    "value": "S7 Airlines",
+    "synonyms": [
+      "S7 Airlines"
+    ]
+  },
+  {
+    "value": "Westward Airways",
+    "synonyms": [
+      "Westward Airways"
+    ]
+  },
+  {
+    "value": "RegionsAir",
+    "synonyms": [
+      "RegionsAir"
+    ]
+  },
+  {
+    "value": "Xiamen Airlines",
+    "synonyms": [
+      "Xiamen Airlines"
+    ]
+  },
+  {
+    "value": "Trans World Airlines",
+    "synonyms": [
+      "Trans World Airlines"
+    ]
+  },
+  {
+    "value": "Severstal Air Company",
+    "synonyms": [
+      "Severstal Air Company"
+    ]
+  },
+  {
+    "value": "Valuair",
+    "synonyms": [
+      "Valuair"
+    ]
+  },
+  {
+    "value": "Virgin Atlantic Airways",
+    "synonyms": [
+      "Virgin Atlantic Airways"
+    ]
+  },
+  {
+    "value": "UM Airlines",
+    "synonyms": [
+      "UM Airlines"
+    ]
+  },
+  {
+    "value": "Northwest Airlines",
+    "synonyms": [
+      "Northwest Airlines"
+    ]
+  },
+  {
+    "value": "Volotea",
+    "synonyms": [
+      "Volotea"
+    ]
+  },
+  {
+    "value": "Tuninter",
+    "synonyms": [
+      "Tuninter"
+    ]
+  },
+  {
+    "value": "Virgin Australia",
+    "synonyms": [
+      "Virgin Australia"
+    ]
+  },
+  {
+    "value": "VASP",
+    "synonyms": [
+      "VASP"
+    ]
+  },
+  {
+    "value": "Pacific East Asia Cargo Airlines",
+    "synonyms": [
+      "Pacific East Asia Cargo Airlines"
+    ]
+  },
+  {
+    "value": "Travel Service",
+    "synonyms": [
+      "Travel Service"
+    ]
+  },
+  {
+    "value": "USA3000 Airlines",
+    "synonyms": [
+      "USA3000 Airlines"
+    ]
+  },
+  {
+    "value": "Venezuelan International Airways",
+    "synonyms": [
+      "Venezuelan International Airways"
+    ]
+  },
+  {
+    "value": "SevenAir",
+    "synonyms": [
+      "SevenAir"
+    ]
+  },
+  {
+    "value": "Tiara Air",
+    "synonyms": [
+      "Tiara Air"
+    ]
+  },
+  {
+    "value": "Tropical Airways",
+    "synonyms": [
+      "Tropical Airways"
+    ]
+  },
+  {
+    "value": "Swedline Express",
+    "synonyms": [
+      "Swedline Express"
+    ]
+  },
+  {
+    "value": "Tunisair",
+    "synonyms": [
+      "Tunisair"
+    ]
+  },
+  {
+    "value": "Sunwing Airlines",
+    "synonyms": [
+      "Sunwing Airlines"
+    ]
+  },
+  {
+    "value": "Superior Aviation",
+    "synonyms": [
+      "Superior Aviation"
+    ]
+  },
+  {
+    "value": "ValuJet Airlines",
+    "synonyms": [
+      "ValuJet Airlines"
+    ]
+  },
+  {
+    "value": "USA 3000 Airlines",
+    "synonyms": [
+      "USA 3000 Airlines"
+    ]
+  },
+  {
+    "value": "Wind Jet",
+    "synonyms": [
+      "Wind Jet"
+    ]
+  },
+  {
+    "value": "Sky Eyes",
+    "synonyms": [
+      "Sky Eyes"
+    ]
+  },
+  {
+    "value": "Overland Airways",
+    "synonyms": [
+      "Overland Airways"
+    ]
+  },
+  {
+    "value": "Starlink Aviation",
+    "synonyms": [
+      "Starlink Aviation"
+    ]
+  },
+  {
+    "value": "WDL Aviation",
+    "synonyms": [
+      "WDL Aviation"
+    ]
+  },
+  {
+    "value": "Royal Phnom Penh Airways",
+    "synonyms": [
+      "Royal Phnom Penh Airways"
+    ]
+  },
+  {
+    "value": "Wataniya Airways",
+    "synonyms": [
+      "Wataniya Airways"
+    ]
+  },
+  {
+    "value": "Shanxi Airlines",
+    "synonyms": [
+      "Shanxi Airlines"
+    ]
+  },
+  {
+    "value": "Perm Airlines",
+    "synonyms": [
+      "Perm Airlines"
+    ]
+  },
+  {
+    "value": "Southern Cross Distribution",
+    "synonyms": [
+      "Southern Cross Distribution"
+    ]
+  },
+  {
+    "value": "Trans States Airlines",
+    "synonyms": [
+      "Trans States Airlines"
+    ]
+  },
+  {
+    "value": "UTair Aviation",
+    "synonyms": [
+      "UTair Aviation"
+    ]
+  },
+  {
+    "value": "Palau Trans Pacific Airlines",
+    "synonyms": [
+      "Palau Trans Pacific Airlines"
+    ]
+  },
+  {
+    "value": "WestJet",
+    "synonyms": [
+      "WestJet"
+    ]
+  },
+  {
+    "value": "Scorpio Aviation",
+    "synonyms": [
+      "Scorpio Aviation"
+    ]
+  },
+  {
+    "value": "Yellow Air Taxi",
+    "synonyms": [
+      "Yellow Air Taxi"
+    ]
+  },
+  {
+    "value": "Varig Logistica",
+    "synonyms": [
+      "Varig Logistica"
+    ]
+  }
+]

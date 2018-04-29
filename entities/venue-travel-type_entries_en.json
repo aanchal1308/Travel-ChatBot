@@ -1,0 +1,68 @@
+[
+  {
+    "value": "airport",
+    "synonyms": [
+      "airport",
+      "airports"
+    ]
+  },
+  {
+    "value": "bus station",
+    "synonyms": [
+      "bus station",
+      "bus stations"
+    ]
+  },
+  {
+    "value": "car rental",
+    "synonyms": [
+      "car rental"
+    ]
+  },
+  {
+    "value": "train station",
+    "synonyms": [
+      "train station",
+      "railway station"
+    ]
+  },
+  {
+    "value": "tour operator",
+    "synonyms": [
+      "tour operator",
+      "tour service",
+      "tour operators",
+      "tour services"
+    ]
+  },
+  {
+    "value": "rental service",
+    "synonyms": [
+      "rental service",
+      "rental services"
+    ]
+  },
+  {
+    "value": "tourist information",
+    "synonyms": [
+      "tourist information"
+    ]
+  },
+  {
+    "value": "bike rental",
+    "synonyms": [
+      "bike rental"
+    ]
+  },
+  {
+    "value": "metro station",
+    "synonyms": [
+      "metro station",
+      "metro stations",
+      "subway station",
+      "subway stations",
+      "metro",
+      "subway"
+    ]
+  }
+]

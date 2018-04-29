@@ -1,0 +1,117 @@
+[
+  {
+    "value": "spa",
+    "synonyms": [
+      "spa"
+    ]
+  },
+  {
+    "value": "outdoor seating",
+    "synonyms": [
+      "outdoor seating",
+      "outdoor seats"
+    ]
+  },
+  {
+    "value": "quick serve",
+    "synonyms": [
+      "quick serve",
+      "quick serving",
+      "quick service"
+    ]
+  },
+  {
+    "value": "sea view",
+    "synonyms": [
+      "sea view",
+      "ocean view"
+    ]
+  },
+  {
+    "value": "delivery",
+    "synonyms": [
+      "delivery",
+      "deliver"
+    ]
+  },
+  {
+    "value": "smoking room",
+    "synonyms": [
+      "smoking room"
+    ]
+  },
+  {
+    "value": "transfer",
+    "synonyms": [
+      "transfer",
+      "transfer service",
+      "transportation"
+    ]
+  },
+  {
+    "value": "beauty salon",
+    "synonyms": [
+      "beauty salon",
+      "hair and nail salon"
+    ]
+  },
+  {
+    "value": "wifi",
+    "synonyms": [
+      "wifi",
+      "free wifi",
+      "wifi connection",
+      "access to wifi",
+      "wi-fi",
+      "free wi-fi",
+      "wi-fi connection",
+      "access to wi-fi"
+    ]
+  },
+  {
+    "value": "internet",
+    "synonyms": [
+      "internet",
+      "free internet",
+      "acceess to internet"
+    ]
+  },
+  {
+    "value": "pet friendly",
+    "synonyms": [
+      "pet friendly",
+      "dog friendly",
+      "cat friendly"
+    ]
+  },
+  {
+    "value": "indoor",
+    "synonyms": [
+      "indoor"
+    ]
+  },
+  {
+    "value": "parking",
+    "synonyms": [
+      "parking",
+      "available parking",
+      "free parking",
+      "parking lot"
+    ]
+  },
+  {
+    "value": "non-smoking room",
+    "synonyms": [
+      "non-smoking room",
+      "nonsmoking room",
+      "non smoking room"
+    ]
+  },
+  {
+    "value": "pool",
+    "synonyms": [
+      "pool",
+      "swimming pool"
+    ]
+  }
+]
