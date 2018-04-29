@@ -1,0 +1,85 @@
+{
+  "id": "a627d0f0-2bfa-46df-83f2-b22c6ddadce1",
+  "name": "udaipur-rp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "64978074-0945-404e-a166-ae9286e93aca",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "4bb41a2e-7c82-453f-b4bd-54470a05caa3",
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Jagdish Temple",
+          "subtitle": "Udaipur",
+          "imageUrl": "https://www.templesofindia.net/sites/default/files/2016-10/Jagdish-Temple04.jpg",
+          "buttons": [
+            {
+              "text": "Jagdish Temple",
+              "postback": "https://en.wikipedia.org/wiki/Jagdish_Temple,_Udaipur"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Karni Mata",
+          "subtitle": "Udaipur",
+          "imageUrl": "http://www.bitwindow.com/udaipur-kumbhalgarh/img/karni-mata-temple-udaipur/night-city-palace.jpg",
+          "buttons": [
+            {
+              "text": "Karni Mata",
+              "postback": "https://en.wikipedia.org/wiki/Karni_Mata,_Udaipur"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Meera Bai Temple",
+          "subtitle": "Udaipur",
+          "imageUrl": "http://www.holidayiq.com/images/attractions/Meera_Temple_Chittorgarh_18260.jpg",
+          "buttons": [
+            {
+              "text": "Meera Bai Temple",
+              "postback": "https://www.rajasthandirect.com/tourism/temples/meerabai-temple-chittorgar"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521484897,
+  "fallbackIntent": false,
+  "events": []
+}

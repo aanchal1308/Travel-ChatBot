@@ -1,0 +1,87 @@
+[
+  {
+    "id": "2e810fa4-9745-434b-8393-f8c3c460e2d9",
+    "data": [
+      {
+        "text": "best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487558
+  },
+  {
+    "id": "438f31ea-0067-4690-9784-d6c92021b3c5",
+    "data": [
+      {
+        "text": "Museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487558
+  },
+  {
+    "id": "3e87fcc1-8076-4d4a-9fc6-c716766671e3",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521487558
+  }
+]

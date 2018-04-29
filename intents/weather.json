@@ -1,0 +1,46 @@
+{
+  "id": "8008154c-e5d3-470c-82fa-dca1069a1c4a",
+  "name": "weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "get-current-weather",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9e41cd90-c096-4f6a-b575-4810e3550bce",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which city are you located?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The current weather report shows:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521468634,
+  "fallbackIntent": false,
+  "events": []
+}

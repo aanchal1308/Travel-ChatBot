@@ -1,0 +1,49 @@
+{
+  "id": "3169d2b8-f671-4efc-b83b-024559f20f3e",
+  "name": "cultural-events",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cultural-event",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2316d009-3ece-46b1-ad1d-8c9eb7fe00b7",
+          "required": true,
+          "dataType": "@cultural-event",
+          "name": "cultural-event",
+          "value": "$cultural-event",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "there are a lot of cultural activities going on, you\u0027ll surely love them!",
+          "replies": [
+            "Events in Jaipur",
+            "Events in Udaipur",
+            "Events in Jodhpur"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521578294,
+  "fallbackIntent": false,
+  "events": []
+}

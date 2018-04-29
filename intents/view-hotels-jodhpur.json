@@ -1,0 +1,85 @@
+{
+  "id": "a106dd67-9eb3-4419-aacc-2c09267009ae",
+  "name": "view-hotels-jodhpur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jodhpur-hotels",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b911df8e-d0b3-45d3-ac39-9e0aa19bc88b",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Indana Palace",
+          "subtitle": "Jodhpur",
+          "imageUrl": "http://www.indanahotels.com/admin/images_bank/bank1_Facade_CCF2F_SH.jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwiYnfeAn_rZAhVHRo8KHTyRCekQ_BcwAHoECAAQCQ\u0026url\u003dhttp%3A%2F%2Fwww.indanahotels.com%2F\u0026usg\u003dAOvVaw2wRQ3LJYdzPD4AfyJtn4VO"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x39418cbf67783603:0x6c86b0b587f8b800?sa\u003dX\u0026ved\u003d2ahUKEwiYnfeAn_rZAhVHRo8KHTyRCekQ9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Umaid Bhawan Palace",
+          "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1280x900/568/56873738.jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwifspi-n_rZAhWMuo8KHaqBAb8Q_BcwAHoECAAQCQ\u0026url\u003dhttps%3A%2F%2Ftaj.tajhotels.com%2Fen-in%2Fumaid-bhawan-palace-jodhpur%2F%3Futm_source%3DGoogle%26utm_campaign%3DUmaid-Bhawan-Palace-Jodhpur%26utm_medium%3DLocal\u0026usg\u003dAOvVaw0gegW0jDJf5l7gDDhJht92"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x39418cfa2d57b3f7:0xccd024507880be71?sa\u003dX\u0026ved\u003d2ahUKEwifspi-n_rZAhWMuo8KHaqBAb8Q9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://www.hotelsinjodhpur.co.in/logos/the_kothi_heritage_hotel.jpg",
+          "buttons": [
+            {
+              "text": "More Hotels in Jodhpur",
+              "postback": "https://www.google.co.in/search?client\u003dubuntu\u0026sa\u003dX\u0026channel\u003dfs\u0026dcr\u003d0\u0026rlla\u003d0\u0026hotel_dates\u003d2018-03-26,2018-03-27\u0026hotel_occupancy\u003d2\u0026sz\u003d12\u0026biw\u003d1600\u0026bih\u003d793\u0026q\u003dhotels+in+jodhpur\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d1\u0026rlhsc\u003dCh8IwOPBjoTA9q4ICMfCk8KFo4D7RAilla_D6rDTnbkB\u0026rllag\u003d26273203,73050703,1839\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwiHvpPnnvrZAhXKNo8KHVM8BCIQjGoIlwE\u0026tbs\u003dlf_hd:-1,lf_ho:2,lrf:!1m4!1u13!2m2!13m1!1b1!1m4!1u10!2m2!11m1!1e5!1m4!1u10!2m2!11m1!1e10!1m4!1u10!2m2!11m1!1e2!1m4!1u10!2m2!11m1!1e3!2m1!1e13!2m7!1e17!4m2!17m1!1e3!4m2!17m1!1e8!2m1!1e2!2m1!1e4!2m13!1e10!4m2!11m1!1e5!4m2!11m1!1e10!4m2!11m1!1e2!4m2!11m1!1e3!2m21!1e7!4m4!7m3!1m1!1u2000!3sINR!4m4!7m3!1m1!1u3000!3sINR!4m4!7m3!1m1!1u4000!3sINR!4m4!7m3!1m1!1u13000!3sINR!3sIAE,lf:1,lf_ui:6\u0026rldoc\u003d1#rlfi\u003dhd:2018-03-26,2018-03-27;si:;mv:!1m3!1d35026.315676380844!2d73.0301415!3d26.2890505!2m3!1f0!2f0!3f0!3m2!1i575!2i235!4f13.1;tbs:lf_hd:-1,lf_ho:2,lrf:!1m4!1u13!2m2!13m1!1b1!1m4!1u10!2m2!11m1!1e5!1m4!1u10!2m2!11m1!1e10!1m4!1u10!2m2!11m1!1e2!1m4!1u10!2m2!11m1!1e3!2m21!1e7!4m4!7m3!1m1!1u2000!3sINR!4m4!7m3!1m1!1u3000!3sINR!4m4!7m3!1m1!1u4000!3sINR!4m4!7m3!1m1!1u13000!3sINR!2m1!1e2!2m1!1e13!2m13!1e10!4m2!11m1!1e5!4m2!11m1!1e10!4m2!11m1!1e2!4m2!11m1!1e3!2m7!1e17!4m2!17m1!1e3!4m2!17m1!1e8!2m4!1e4!5m2!4m1!1u24!3sIAE,lf:1,lf_ui:6"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521551984,
+  "fallbackIntent": false,
+  "events": []
+}

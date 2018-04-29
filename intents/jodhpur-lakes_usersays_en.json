@@ -1,0 +1,87 @@
+[
+  {
+    "id": "4de49919-b586-429e-ab7a-630cac84b29f",
+    "data": [
+      {
+        "text": "best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521486834
+  },
+  {
+    "id": "ea9ac02e-9c03-40b3-a021-b0a59a83c26a",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521486834
+  },
+  {
+    "id": "6a31e143-5e11-4a2c-b81b-be8e23a1cea2",
+    "data": [
+      {
+        "text": "lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521486834
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "id": "9abc35db-c22b-405b-aa8e-acbe046a30a9",
+  "name": "view-hotels-udaipur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "udaipur-hotels",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6da9292-d881-4d4f-8d41-9d0dd3bceb09",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Swaroop Vilas Hotel Udaipur",
+          "imageUrl": "https://ui.cltpstatic.com/places/hotels/5142/51425/images/DSC_7367_w.jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwii1MGLqvrZAhUX2o8KHXsTBNwQ_BcwAHoECAAQCQ\u0026url\u003dhttp%3A%2F%2Fwww.hotelswaroopvilas.com%2F\u0026usg\u003dAOvVaw2YSb-uDnoI8PKRo9XWlF0a"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x3967e56bed54457d:0x929895e7a92aa610?sa\u003dX\u0026ved\u003d2ahUKEwii1MGLqvrZAhUX2o8KHXsTBNwQ9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Hotel Udaigarh",
+          "imageUrl": "http://www.udaigarhudaipur.in/images/slider/Udaigarh.jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwirwPSyrPrZAhVCqo8KHRAkBWQQ_BcwAHoECAAQCQ\u0026url\u003dhttp%3A%2F%2Fwww.udaigarhudaipur.in%2F\u0026usg\u003dAOvVaw1OWxvZeYadanIC6v8qRFHD"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x3967e566817941db:0xfcf14c5baf25cc4d?sa\u003dX\u0026ved\u003d2ahUKEwirwPSyrPrZAhVCqo8KHRAkBWQQ9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "The Oberoi Udaivilas",
+          "imageUrl": "http://www.indovacation.net/images/Udai-vilas-palace-hotel-udaipur1.jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwjvton9rfrZAhXEpI8KHQmlAJ4Q_BcwAHoECAAQCQ\u0026url\u003dhttps%3A%2F%2Fwww.oberoihotels.com%2Fhotels-in-udaipur-udaivilas-resort%2F%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic\u0026usg\u003dAOvVaw1NQH206TM77zHqwUyMjNFj"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x396ccf804ea9e2f3:0x21eb806bf9fc7e9a?sa\u003dX\u0026ved\u003d2ahUKEwjvton9rfrZAhXEpI8KHQmlAJ4Q9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://www.hotelminerwaudaipur.com/images/welcome_img02.jpg",
+          "buttons": [
+            {
+              "text": "More Hotels in Udaipur",
+              "postback": "https://www.google.co.in/search?client\u003dubuntu\u0026channel\u003dfs\u0026dcr\u003d0\u0026q\u003dhotels+in+udaipur\u0026npsic\u003d0\u0026rflfq\u003d1\u0026rlha\u003d1\u0026rlla\u003d0\u0026rlhsc\u003dCh8Iq8uZi_err6svCPvs8dXOzPbEzAEI9K60m52Kj8NF\u0026rllag\u003d24590957,73701148,3157\u0026tbm\u003dlcl\u0026ved\u003d0ahUKEwjW5PjopfrZAhUKLo8KHdcnAa8QjGoIgwE\u0026hotel_dates\u003d2018-03-26,2018-03-27\u0026tbs\u003dlf_hd:-1,lf_ho:2,lrf:!1m4!1u13!2m2!13m1!1b1!1m4!1u10!2m2!11m1!1e10!1m4!1u10!2m2!11m1!1e2!1m4!1u10!2m2!11m1!1e3!2m1!1e13!2m7!1e17!4m2!17m1!1e3!4m2!17m1!1e8!2m1!1e2!2m1!1e4!2m10!1e10!4m2!11m1!1e10!4m2!11m1!1e2!4m2!11m1!1e3!2m21!1e7!4m4!7m3!1m1!1u2000!3sINR!4m4!7m3!1m1!1u3000!3sINR!4m4!7m3!1m1!1u4000!3sINR!4m4!7m3!1m1!1u16000!3sINR!3sIAE,lf:1,lf_ui:6\u0026rldoc\u003d1#rlfi\u003dhd:2018-03-26,2018-03-27;si:18226433123609332813;mv:!1m3!1d28570.935815984336!2d73.68500540000001!3d24.58728255!2m3!1f0!2f0!3f0!3m2!1i480!2i378!4f13.1"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521552933,
+  "fallbackIntent": false,
+  "events": []
+}

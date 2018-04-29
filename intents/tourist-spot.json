@@ -1,0 +1,66 @@
+{
+  "id": "7189f3f8-1dbc-4f1d-9ef0-059574ef7f19",
+  "name": "tourist-spot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "enterCity",
+      "affectedContexts": [
+        {
+          "name": "tourist-spot",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9f11cae9-36ce-4da4-9178-fe542abd3761",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "ffe72a32-d25a-4929-bbb3-ec01c1e4e28c",
+          "required": false,
+          "dataType": "@place",
+          "name": "place",
+          "value": "$place",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "In which city are you located?",
+          "replies": [
+            "Jaipur",
+            "Udaipur",
+            "Jodhpur"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521579423,
+  "fallbackIntent": false,
+  "events": []
+}

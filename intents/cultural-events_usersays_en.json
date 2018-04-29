@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1d5590cc-54bb-4513-914e-27324d3addae",
+    "data": [
+      {
+        "text": "cultural events",
+        "alias": "cultural-event",
+        "meta": "@cultural-event",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521567878
+  },
+  {
+    "id": "310d10a4-fc56-44d0-a7f6-a89127586d32",
+    "data": [
+      {
+        "text": "cultural activities",
+        "alias": "cultural-event",
+        "meta": "@cultural-event",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521567878
+  },
+  {
+    "id": "b1dc9b46-c89a-4642-b38d-8099b966890e",
+    "data": [
+      {
+        "text": "Any ",
+        "userDefined": false
+      },
+      {
+        "text": "cultural event",
+        "alias": "cultural-event",
+        "meta": "@cultural-event",
+        "userDefined": true
+      },
+      {
+        "text": " nearby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521567878
+  },
+  {
+    "id": "68f29ca7-e7f9-4912-8675-c74488ebf4c8",
+    "data": [
+      {
+        "text": "cultural activities",
+        "alias": "cultural-event",
+        "meta": "@cultural-event",
+        "userDefined": true
+      },
+      {
+        "text": " nearby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521567878
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "efde9e3f-0686-48f3-9ab1-be86ad1026e7",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "greeting",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b67056ab-376a-46b5-bdff-621a9f9a868b",
+          "required": false,
+          "dataType": "@greeting",
+          "name": "greeting",
+          "value": "$greeting",
+          "isList": false
+        },
+        {
+          "id": "9ca80978-bcbb-49df-863f-ddca78ae54b3",
+          "required": false,
+          "dataType": "@airline",
+          "name": "airline",
+          "value": "$airline",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://tourism.rajasthan.gov.in/etc/designs/rajasthan-tourism/clientlib-site/img/header/orange-logo.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Namaste! I am Travis, your travel buddy for Rajasthan"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521580839,
+  "fallbackIntent": false,
+  "events": []
+}

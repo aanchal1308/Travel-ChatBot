@@ -1,0 +1,99 @@
+{
+  "id": "367adb60-c776-4b03-9b25-1e8c059dcd5c",
+  "name": "jaipur-lakes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jaipur-lakes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bcdb4b9e-b48a-4ead-bf9b-5d85474a6779",
+          "required": false,
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please select the spot!"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "2bd05587-ea9a-44ad-8805-7339b8d5d4ca",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your geo-city!"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Man Sagar Lake",
+          "subtitle": "https://en.wikipedia.org/wiki/Man_Sagar_Lake",
+          "imageUrl": "http://i.dailymail.co.uk/i/pix/2015/05/04/10/284C3CE900000578-0-image-a-11_1430733019951.jpg",
+          "buttons": [
+            {
+              "text": "Man Sagar Lake"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Sambhar Salt Lake",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://i2.wp.com/vagabondimages.in/wp-content/uploads/2017/02/dsc0486.jpg?ssl\u003d1",
+          "buttons": [
+            {
+              "text": "Sambhar Salt Lake",
+              "postback": "https://en.wikipedia.org/wiki/Sambhar_Salt_Lake"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Ramgarh Lake",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://cdn-az.allevents.in/banners/b3f21db0c6b4c7f3d572de87fdffa165",
+          "buttons": [
+            {
+              "text": "Ramgarh Lake",
+              "postback": "https://en.wikipedia.org/wiki/Ramgarh_Lake"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521577137,
+  "fallbackIntent": false,
+  "events": []
+}

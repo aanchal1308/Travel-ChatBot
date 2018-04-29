@@ -1,0 +1,120 @@
+[
+  {
+    "id": "5c48fe81-f941-4066-aee5-2e3865b5050e",
+    "data": [
+      {
+        "text": "palaces",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577094
+  },
+  {
+    "id": "50aae533-dfae-49cb-9328-9a93bfd06ac6",
+    "data": [
+      {
+        "text": "Palaces",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577094
+  },
+  {
+    "id": "0d68c34c-9cb0-4300-96ce-b90775d100e0",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "palaces",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521577094
+  },
+  {
+    "id": "01e0ece3-4e4d-4459-848f-aaea270dfe0a",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "palaces",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577094
+  },
+  {
+    "id": "1b08665b-aac5-4868-a384-6f53fbf4c88b",
+    "data": [
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "palace",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577094
+  }
+]

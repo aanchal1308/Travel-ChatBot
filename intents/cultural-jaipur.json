@@ -1,0 +1,74 @@
+{
+  "id": "33830e98-ca0f-46cb-8c0c-35ccb815ff6d",
+  "name": "cultural-jaipur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "cultural-jaipur",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cf9fbaec-0b62-4ecd-894b-51c249b8e19a",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "b576fb0c-32a3-4996-a9bb-5eb0db405fef",
+          "required": false,
+          "dataType": "@cultural-event",
+          "name": "cultural-event",
+          "value": "$cultural-event",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Gangaur Festival",
+          "subtitle": "2 March- 20 March",
+          "imageUrl": "https://www.hlimg.com/images/events/738X538/Jaipur-fair-festival_1482575044e.jpg",
+          "buttons": [
+            {
+              "text": "Jaipur",
+              "postback": "https://en.wikipedia.org/wiki/Gangaur"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Elephant Festival",
+          "subtitle": "2 March",
+          "imageUrl": "https://www.absolutviajes.com/wp-content/uploads/2013/08/Festival-del-Elefante-en-Jaipur.jpg",
+          "buttons": [
+            {
+              "text": "Jaipur",
+              "postback": "https://en.wikipedia.org/wiki/Elephant_Festival"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521578231,
+  "fallbackIntent": false,
+  "events": []
+}

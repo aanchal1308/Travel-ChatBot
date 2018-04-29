@@ -1,0 +1,82 @@
+[
+  {
+    "id": "05e3c6d6-6c43-44fd-a65f-d289ce5b6c5d",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521481773
+  },
+  {
+    "id": "76f86364-7ab1-4072-bc7a-761afd7c74c3",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521481773
+  },
+  {
+    "id": "4cc11ff4-fa11-405f-b379-7807c0ed6f35",
+    "data": [
+      {
+        "text": "Lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521481773
+  }
+]

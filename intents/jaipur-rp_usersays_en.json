@@ -1,0 +1,101 @@
+[
+  {
+    "id": "87468a1d-273c-4575-bb91-5ab569279b1d",
+    "data": [
+      {
+        "text": "religious places",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577285
+  },
+  {
+    "id": "9da40ae3-cd4c-44ff-b369-b361dea20d8b",
+    "data": [
+      {
+        "text": "best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "religious places",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577285
+  },
+  {
+    "id": "40ea9280-0d4a-4ecb-af6c-961d4ba22d09",
+    "data": [
+      {
+        "text": "Religious places",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577285
+  },
+  {
+    "id": "c06ac7f3-da02-4292-81c0-d573f81e88db",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "religious places",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577285
+  }
+]

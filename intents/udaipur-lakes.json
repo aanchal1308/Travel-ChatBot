@@ -1,0 +1,88 @@
+{
+  "id": "3ca55048-5d5e-4f2a-bdd6-eb0e47cfea4d",
+  "name": "udaipur-lakes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "udaipur-lakes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6f6f91b3-a165-450a-8c76-6be793f7efa3",
+          "required": false,
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "isList": false
+        },
+        {
+          "id": "fd516ad8-965b-4fed-9642-f58ee95551e4",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Fateh Sagar Lake",
+          "subtitle": "Udaipur",
+          "imageUrl": "http://mewarblog.com/wp-content/uploads/2017/12/amazing-fs-8-722x480.jpg",
+          "buttons": [
+            {
+              "text": "Fateh Sagar Lake",
+              "postback": "https://en.wikipedia.org/wiki/Fateh_Sagar_Lake"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Doodh Talai Lake",
+          "subtitle": "Udaipur",
+          "imageUrl": "https://www.tourmyindia.com/images/doodh-talai-lake4.jpg",
+          "buttons": [
+            {
+              "text": "Doodh Talai Lake",
+              "postback": "https://en.wikipedia.org/wiki/Doodh_Talai_Lake"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Lake Pichola",
+          "subtitle": "Udaipur",
+          "imageUrl": "http://welcome2rajasthan.in/wp-content/uploads/2016/03/Lake-Pichola_c2wbr6-730x410.png",
+          "buttons": [
+            {
+              "text": "Lake Pichola",
+              "postback": "https://en.wikipedia.org/wiki/Lake_Pichola"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521481773,
+  "fallbackIntent": false,
+  "events": []
+}

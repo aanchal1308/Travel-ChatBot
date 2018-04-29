@@ -1,0 +1,853 @@
+[
+  {
+    "id": "0a83496f-eeeb-4649-bcc7-40feb7a67cdc",
+    "data": [
+      {
+        "text": "show me departures to ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45ab5993-a0ca-4088-a387-de0c19512a79",
+    "data": [
+      {
+        "text": "show status of the ",
+        "userDefined": false
+      },
+      {
+        "text": "yesterday",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Tartu",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eb02166d-532f-4220-8db3-9670fc8660f9",
+    "data": [
+      {
+        "text": "has ",
+        "userDefined": false
+      },
+      {
+        "text": "lh 210",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      },
+      {
+        "text": " landed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "f2187d41-0bb4-4743-b34c-7fe2bef82846",
+    "data": [
+      {
+        "text": "when ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73d25c31-c799-4825-aea6-5e6702a27593",
+    "data": [
+      {
+        "text": "what is the status of ",
+        "userDefined": false
+      },
+      {
+        "text": "Lufthansa",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": true
+      },
+      {
+        "text": " flight ",
+        "userDefined": false
+      },
+      {
+        "text": "130",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "075c2e7e-273b-40fc-b248-a03362cf63d0",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "ba 112",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      },
+      {
+        "text": " delayed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1e5fc709-0ef4-4377-b0ed-a8fc02fb2d95",
+    "data": [
+      {
+        "text": "is ",
+        "userDefined": false
+      },
+      {
+        "text": "British Airways",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Gatwick",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " arriving on time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f002f7f-8d9c-4fdf-be73-e6d606e35b62",
+    "data": [
+      {
+        "text": "show me departures from ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9eb8dfd0-16a5-4f16-8f59-e7e79d3fe889",
+    "data": [
+      {
+        "text": "flight status of ",
+        "userDefined": false
+      },
+      {
+        "text": "125",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25dd8a24-902f-4089-91e0-26fdfde8d078",
+    "data": [
+      {
+        "text": "check ",
+        "userDefined": false
+      },
+      {
+        "text": "lh 0457",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1964f7c-02fd-434c-91b6-07cd2ceb0757",
+    "data": [
+      {
+        "text": "check flights",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1aad478f-e77c-41e5-9773-dccc28734da1",
+    "data": [
+      {
+        "text": "325",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      },
+      {
+        "text": " flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1fcba5b-5312-499d-941f-3e61028ff0da",
+    "data": [
+      {
+        "text": "what\u0027s the status of flight ",
+        "userDefined": false
+      },
+      {
+        "text": "ba767",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7010059-446a-4319-adfd-74a6e81fb355",
+    "data": [
+      {
+        "text": "status for flight number ",
+        "userDefined": false
+      },
+      {
+        "text": "130",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f15ccc30-74ad-4915-a710-54dad159e3ac",
+    "data": [
+      {
+        "text": "check ",
+        "userDefined": false
+      },
+      {
+        "text": "Lufthansa",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": true
+      },
+      {
+        "text": " flights",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3873eb5b-b794-452c-8ba5-9bc6c2fcb709",
+    "data": [
+      {
+        "text": "when will the flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " depart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "329aa380-20d5-4bbe-80c8-18bb850099ab",
+    "data": [
+      {
+        "text": "show me the flight status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d961346e-e06d-4e2f-91d9-325f7060386a",
+    "data": [
+      {
+        "text": "check flight status for ",
+        "userDefined": false
+      },
+      {
+        "text": "su 21",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c8a7436e-f750-4123-9e7f-5e1665e70aba",
+    "data": [
+      {
+        "text": "Japan airlines",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": true
+      },
+      {
+        "text": " flights to ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b4ebc18-5459-4f39-b147-c3db3f38bb3d",
+    "data": [
+      {
+        "text": "what is the flight status of ",
+        "userDefined": false
+      },
+      {
+        "text": "American Airlines",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": true
+      },
+      {
+        "text": " flight ",
+        "userDefined": false
+      },
+      {
+        "text": "273",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a858d5d5-29da-4b62-9361-0866fb6bc7f8",
+    "data": [
+      {
+        "text": "flight number ",
+        "userDefined": false
+      },
+      {
+        "text": "413",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Tokyo",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c985c9e0-fdba-489c-a60a-5f77a49a2692",
+    "data": [
+      {
+        "text": "flight number ",
+        "userDefined": false
+      },
+      {
+        "text": "413",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55166f94-bca2-420a-8cb3-d1438a9798ec",
+    "data": [
+      {
+        "text": "Lufthansa",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": true
+      },
+      {
+        "text": " flight to ",
+        "userDefined": false
+      },
+      {
+        "text": "Berlin",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f73a5e2-aaac-4b55-b815-1714069a2be6",
+    "data": [
+      {
+        "text": "flight status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "86751572-18be-4d58-9f79-faeb42c65ea9",
+    "data": [
+      {
+        "text": "what\u0027s the status of flight ",
+        "userDefined": false
+      },
+      {
+        "text": "ba279",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35c206da-db63-4f3f-a4aa-972ddc434cb5",
+    "data": [
+      {
+        "text": "check flight ",
+        "userDefined": false
+      },
+      {
+        "text": "BA413",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75256b6f-54b4-4dd5-99dc-511afdf925bf",
+    "data": [
+      {
+        "text": "check flight status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9ac953f-1cc8-4a39-a6ca-310fc734aac2",
+    "data": [
+      {
+        "text": "I want to check schedule for flight ",
+        "userDefined": false
+      },
+      {
+        "text": "aa222",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "38b595fa-c9ac-4edd-8429-06182bde7ebe",
+    "data": [
+      {
+        "text": "when ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " the flight to ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " arrive",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de7b580d-6bff-44b7-9317-cf35f96fb280",
+    "data": [
+      {
+        "text": "when ",
+        "userDefined": false
+      },
+      {
+        "text": "will",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "aa 120",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      },
+      {
+        "text": " land or depart",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b5404f0-8c3c-42ec-af27-dfec17fc6ec0",
+    "data": [
+      {
+        "text": "check status of ",
+        "userDefined": false
+      },
+      {
+        "text": "aa flight 100",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09855fc3-411f-4e67-843b-0318e1cdd42c",
+    "data": [
+      {
+        "text": "when is",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " the plane from ",
+        "userDefined": false
+      },
+      {
+        "text": "Rome",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": false
+      },
+      {
+        "text": " arriving",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5877ef4c-cec4-4f25-a4ee-a41924fc2b49",
+    "data": [
+      {
+        "text": "has flight to ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " landed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3fb41f71-233c-4cf1-9f11-b7b8ca0406df",
+    "data": [
+      {
+        "text": "has flight from ",
+        "userDefined": false
+      },
+      {
+        "text": "New York",
+        "alias": "from",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " landed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "768a3707-8b3d-4765-beba-3f5c599ea941",
+    "data": [
+      {
+        "text": "check ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": "\u0027s flight to ",
+        "userDefined": false
+      },
+      {
+        "text": "Delhi",
+        "alias": "to",
+        "meta": "@sys.location",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "76fb06c4-e981-4b1c-b341-e861b2ecb463",
+    "data": [
+      {
+        "text": "did flight ",
+        "userDefined": false
+      },
+      {
+        "text": "US airlines",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "700",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": true
+      },
+      {
+        "text": " arrive ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c257c3a-127b-45a3-a78a-0c966b1756c7",
+    "data": [
+      {
+        "text": "check ",
+        "userDefined": false
+      },
+      {
+        "text": "Lufthansa",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": false
+      },
+      {
+        "text": " flight number ",
+        "userDefined": false
+      },
+      {
+        "text": "130",
+        "alias": "flight-number",
+        "meta": "@sys.flight-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a6b93cf-1281-4157-a524-23d580a351dc",
+    "data": [
+      {
+        "text": "my flight status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

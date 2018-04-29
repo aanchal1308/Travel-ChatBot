@@ -1,0 +1,109 @@
+[
+  {
+    "id": "e9b6ba87-fb97-4998-bef5-f182ff0ea039",
+    "data": [
+      {
+        "text": "Tell me about the ",
+        "userDefined": false
+      },
+      {
+        "text": "hotels",
+        "alias": "hotel",
+        "meta": "@hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521544254
+  },
+  {
+    "id": "76229220-3290-4028-b11d-04e1013e1f85",
+    "data": [
+      {
+        "text": "Show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "hotels",
+        "alias": "hotel",
+        "meta": "@hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521544254
+  },
+  {
+    "id": "ea983d04-8c45-45be-8ec0-fe7208be09a6",
+    "data": [
+      {
+        "text": "hotels",
+        "alias": "hotel",
+        "meta": "@hotel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521544254
+  },
+  {
+    "id": "871fa9cc-fc59-41cf-893a-7ef04967cca6",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "good",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "hotels",
+        "alias": "hotel",
+        "meta": "@hotel",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "here",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521544254
+  },
+  {
+    "id": "5baf7146-2bc7-43b1-b393-64fac787646c",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "place",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " to stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521544254
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1f850c25-fcc8-48e1-b3be-2f5006b933b6",
+    "data": [
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580038
+  },
+  {
+    "id": "9e087e8d-f5ab-4d83-9a66-e499c6c04fd6",
+    "data": [
+      {
+        "text": "I\u0027m present in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521580038
+  },
+  {
+    "id": "def41209-27a4-4c2b-8e12-601d2b2affcd",
+    "data": [
+      {
+        "text": "I\u0027m in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580038
+  },
+  {
+    "id": "0a559ae2-694c-418a-86b0-62515ec4cd58",
+    "data": [
+      {
+        "text": "My location is ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580038
+  }
+]

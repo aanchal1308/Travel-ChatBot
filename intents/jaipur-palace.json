@@ -1,0 +1,79 @@
+{
+  "id": "f77885e3-4e1b-4ad9-be25-eaa0c00f8f74",
+  "name": "jaipur-palace",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a6474a49-20a8-4b9b-a925-a9f78dbfd1d7",
+          "required": true,
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter a spot!"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "799d0b16-e5cd-4702-9d27-2d189f200876",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Rambagh Palace",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://taj.tajhotels.com/content/dam/luxury/rambagh-palace/16x7/TRPJ_Exterior1B_AM_4568-16x7.jpg",
+          "buttons": [
+            {
+              "text": "Rambagh Palace",
+              "postback": "https://en.wikipedia.org/wiki/Rambagh_Palace"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Amer Fort",
+          "subtitle": "Jaipur",
+          "imageUrl": "http://kdcab.com/wp-content/uploads/2017/11/amber-fort-open-at-night.jpg",
+          "buttons": [
+            {
+              "text": "Amer Fort",
+              "postback": "https://en.wikipedia.org/wiki/Amer_Fort"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521577668,
+  "fallbackIntent": false,
+  "events": []
+}

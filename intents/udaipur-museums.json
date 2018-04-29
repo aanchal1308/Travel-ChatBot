@@ -1,0 +1,88 @@
+{
+  "id": "793c2e66-5ba8-4fc3-a534-467c9d56f760",
+  "name": "udaipur-museums",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "udaipur-museums",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6d99d2dc-2251-427a-b85c-e73d02afddda",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        },
+        {
+          "id": "a1610948-baff-4507-b3c8-7964954ef258",
+          "required": false,
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Wax Museum",
+          "subtitle": "Udaipur",
+          "imageUrl": "https://www.rajasthandirect.com/wp-content/uploads/2017/09/Jaipur-Wax-Museum.jpg",
+          "buttons": [
+            {
+              "text": "Wax Museum Udaipur",
+              "postback": "www.waxmuseumudaipur.com/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Ahar Cenotaphs",
+          "subtitle": "Udaipur",
+          "imageUrl": "http://l7.alamy.com/zooms/0f88389d93fb4a5b8b9b2e8b6c13575b/ahar-cenotaphs-tombs-of-the-royal-mewar-family-udaipur-rajasthan-india-creadx.jpg",
+          "buttons": [
+            {
+              "text": "Ahar Cenotaphs",
+              "postback": "https://en.wikipedia.org/wiki/Ahar_Cenotaphs"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Bharatiya Lok Kala Mandal",
+          "subtitle": "Udaipur",
+          "imageUrl": "http://www.miniindian.com/img/bhartiya-lok-miniindia.jpg",
+          "buttons": [
+            {
+              "text": "Bharatiya Lok Kala Mandal",
+              "postback": "https://en.wikipedia.org/wiki/Bharatiya_Lok_Kala_Mandal"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521485027,
+  "fallbackIntent": false,
+  "events": []
+}

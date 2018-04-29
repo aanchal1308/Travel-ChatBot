@@ -1,0 +1,71 @@
+[
+  {
+    "id": "80eb3022-1bea-4265-8129-8159228d1a5a",
+    "data": [
+      {
+        "text": "restaurants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521573312
+  },
+  {
+    "id": "fdf7c08b-9bcc-4698-ac4f-20e265a7b760",
+    "data": [
+      {
+        "text": "food joints",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521573312
+  },
+  {
+    "id": "df65feec-6096-42c4-9e4e-fbd521e7f108",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521573312
+  },
+  {
+    "id": "ae149b19-7242-429f-b35a-9b9b2ff5421f",
+    "data": [
+      {
+        "text": "show me the restaurants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521573312
+  },
+  {
+    "id": "08319f7f-b7ee-4046-ab4d-5a635a131c9a",
+    "data": [
+      {
+        "text": "tell me the restaurants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521573312
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "id": "14e29274-90d0-4bd4-b554-6b0889352bdf",
+  "name": "view-hotels-jaipur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "adb109db-9003-4814-84e0-b6ede3191c9a",
+          "required": false,
+          "dataType": "@Jaipur",
+          "name": "Jaipur",
+          "value": "$Jaipur",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "ITC Rajputana",
+          "subtitle": "A Luxury Collection Hotel",
+          "imageUrl": "https://www.itchotels.in/content/dam/projects/hotelswebsite/itc-hotels/luxury-collection/destination/jaipur/ITC%20Rajputana/Website/Overview/Luxury%20Inspired%20by%20History/06%20exterior%20night_1.jpg.transform/transform-width-height-473-355/image.jpeg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwiLk9LMxPnZAhXDNY8KHVALA0sQ_BcwAHoECAAQCQ\u0026url\u003dhttps%3A%2F%2Fwww.itchotels.in%2Fhotels%2Fjaipur%2Fitcrajputana.html%3Futm_source%3Dgoogle%26utm_medium%3Dorganic%2520Search%26utm_term%3DITC-rajputana%26utm_campaign%3Dlisting\u0026usg\u003dAOvVaw2uTrPrNf_rO2Pa8ywbLIa3"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x396db3f63be351e3:0x288f3f3579fdbcc6?sa\u003dX\u0026ved\u003d2ahUKEwiLk9LMxPnZAhXDNY8KHVALA0sQ9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Jaipur Marriott Hotel",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://s-ec.bstatic.com/images/hotel/max1024x768/732/7329651.jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwjHkfmpj_rZAhVMOY8KHeJ2A_4Q_BcwAHoECAAQCQ\u0026url\u003dhttp%3A%2F%2Fwww.marriott.com%2Fhotels%2Ftravel%2Fjaimc-jaipur-marriott-hotel%2F%3Fscid%3Dbb1a189a-fec3-4d19-a255-54ba596febe2\u0026usg\u003dAOvVaw2xk_ojj4qT3MhYfwPUvsp4"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x396db5e591a66633:0xef403de8e5c9ad89?sa\u003dX\u0026ved\u003d2ahUKEwjHkfmpj_rZAhVMOY8KHeJ2A_4Q9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "More",
+          "subtitle": "Hotels",
+          "imageUrl": "http://www.citrushotels.com/public/images/properties/jaipur/hotel14/gallery/jaipur-room-2.jpg",
+          "buttons": [
+            {
+              "text": "Jaipur",
+              "postback": "https://www.google.co.in/search?client\u003dubuntu\u0026hs\u003dDlz\u0026channel\u003dfs\u0026dcr\u003d0\u0026rlla\u003d0\u0026hotel_dates\u003d2018-03-26,2018-03-27\u0026hotel_occupancy\u003d2\u0026tbm\u003dlcl\u0026ei\u003dItuvWveVDcjxvASgxYLQAw\u0026q\u003dhotels%20in%20jaipur\u0026oq\u003dhotels+in+jaipur\u0026gs_l\u003dpsy-ab.3...0.0.0.14268986.0.0.0.0.0.0.0.0..0.0....0...1c..64.psy-ab..0.0.0....0.lnFEr0OY2qI\u0026fll\u003d26.8943085,75.79115755000001\u0026fspn\u003d0.11727760579537971,0.12360347174157482\u0026fz\u003d12\u0026sll\u003d26.8943085,75.79115755000001\u0026sspn\u003d0.11727760579537971,0.12360347174157482\u0026sz\u003d12\u0026tbs\u003dlf_hd:-1,lf_ho:2,lrf:!1m4!1u13!2m2!13m1!1b1!1m4!1u10!2m2!11m1!1e4!1m4!1u10!2m2!11m1!1e10!1m4!1u10!2m2!11m1!1e2!1m4!1u10!2m2!11m1!1e3!2m21!1e7!4m4!7m3!1m1!1u2000!3sINR!4m4!7m3!1m1!1u3000!3sINR!4m4!7m3!1m1!1u4000!3sINR!4m4!7m3!1m1!1u10000!3sINR!2m1!1e4!2m1!1e13!2m13!1e10!4m2!11m1!1e4!4m2!11m1!1e10!4m2!11m1!1e2!4m2!11m1!1e3!2m7!1e17!4m2!17m1!1e3!4m2!17m1!1e8!2m4!1e2!5m2!2m1!2e9!3sIAE,lf:1,lf_ui:6\u0026rlha\u003d1\u0026rlfi\u003dhd:2018-03-26,2018-03-27;si:2922624182099229894\u0026qop\u003d0#qop\u003d0\u0026rlfi\u003dhd:2018-03-26,2018-03-27;si:17239847444071165321;mv:!1m3!1d56784.36695552003!2d75.81492015!3d26.8943085!2m3!1f0!2f0!3f0!3m2!1i450!2i383!4f13.1;tbs:lf_hd:-1,lf_ho:2,lrf:!1m4!1u13!2m2!13m1!1b1!1m4!1u10!2m2!11m1!1e4!1m4!1u10!2m2!11m1!1e10!1m4!1u10!2m2!11m1!1e2!1m4!1u10!2m2!11m1!1e3!2m21!1e7!4m4!7m3!1m1!1u2000!3sINR!4m4!7m3!1m1!1u3000!3sINR!4m4!7m3!1m1!1u4000!3sINR!4m4!7m3!1m1!1u10000!3sINR!2m1!1e4!2m1!1e13!2m13!1e10!4m2!11m1!1e4!4m2!11m1!1e10!4m2!11m1!1e2!4m2!11m1!1e3!2m7!1e17!4m2!17m1!1e3!4m2!17m1!1e8!2m4!1e2!5m2!2m1!2e9!3sIAE,lf:1,lf_ui:6"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521579923,
+  "fallbackIntent": false,
+  "events": []
+}

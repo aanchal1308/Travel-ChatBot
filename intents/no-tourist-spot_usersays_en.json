@@ -1,0 +1,38 @@
+[
+  {
+    "id": "06533ced-3245-4e2d-9cae-85a5d582856e",
+    "data": [
+      {
+        "text": "I don\u0027t want to go anywhere",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521302542
+  },
+  {
+    "id": "0084e085-097e-4d0a-8f32-34f6b7f182b6",
+    "data": [
+      {
+        "text": "No where",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521302542
+  },
+  {
+    "id": "b574329e-4b65-4568-9564-c39134e5bdb6",
+    "data": [
+      {
+        "text": "none",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521302542
+  }
+]

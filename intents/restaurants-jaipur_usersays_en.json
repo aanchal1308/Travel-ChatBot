@@ -1,0 +1,92 @@
+[
+  {
+    "id": "80eb97a0-f45a-4903-8edd-4a629ecfad4d",
+    "data": [
+      {
+        "text": "restaurants ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580642
+  },
+  {
+    "id": "f3522825-3c48-430c-af11-073f1d40bf8e",
+    "data": [
+      {
+        "text": "restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580642
+  },
+  {
+    "id": "9e894a7d-e32b-45b5-8749-14c9aaf864cb",
+    "data": [
+      {
+        "text": "Food Joints in ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580642
+  },
+  {
+    "id": "00f260dd-9b6b-49c3-94fc-2acecf2af431",
+    "data": [
+      {
+        "text": "where can i go to eat in ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580642
+  },
+  {
+    "id": "9a3fc4e4-ce95-4c97-a55c-71d5e2323096",
+    "data": [
+      {
+        "text": "tell me the restaurants in ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521580642
+  }
+]

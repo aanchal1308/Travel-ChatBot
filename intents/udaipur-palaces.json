@@ -1,0 +1,73 @@
+{
+  "id": "70b24883-ee7f-4f96-8863-5810719ee55a",
+  "name": "udaipur-palaces",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c581976e-c1f2-4d61-bbe2-8230c97fe15e",
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "isList": false
+        },
+        {
+          "id": "3950bb29-30ab-4f94-b5d9-01f5f6e59eee",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Taj Lake Palace",
+          "subtitle": "Udaipur",
+          "imageUrl": "https://images.oyster.com/photos/pool--v16657538-w902.jpg",
+          "buttons": [
+            {
+              "text": "Taj Lake Palace",
+              "postback": "https://en.wikipedia.org/wiki/Lake_Palace"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Monsoon Palace",
+          "subtitle": "Udaipur",
+          "imageUrl": "https://pbs.twimg.com/media/DDpoXnfU0AElCJh.jpg",
+          "buttons": [
+            {
+              "text": "Monsoon Palace",
+              "postback": "https://en.wikipedia.org/wiki/Monsoon_Palace"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521481160,
+  "fallbackIntent": false,
+  "events": []
+}

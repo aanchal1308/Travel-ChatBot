@@ -1,0 +1,84 @@
+{
+  "id": "510a2830-1083-4819-8277-f08eb7e2d686",
+  "name": "restaurants-jaipur",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6e194a47-410c-4412-a809-7db5c0c15956",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Monarch Restaurant",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://www.loofre.com/wp-content/themes/loofre/media/buffet_banner/1_1983_BLUE%20CORIANDER-Jaipur%20(1).jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwiTr_nwwPvZAhVFvo8KHdd0CxsQ_BcwAHoECAAQCQ\u0026url\u003dhttp%3A%2F%2Fwww.liveinstyle.com%2Fnightlife%2FJaipur%2Foutlet%2FMonarch-Restaurant-Holiday-Inn\u0026usg\u003dAOvVaw0Ql3icd5viJsXmWQwwSDCu"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x396db410e1d9ebe7:0x933139a3f0e72658?sa\u003dX\u0026ved\u003d2ahUKEwiTr_nwwPvZAhVFvo8KHdd0CxsQ9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Kanha Restaurant",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://d3f85kxh5sxy27.cloudfront.net/56b873a60b04512cde6f1e9a.jpg",
+          "buttons": [
+            {
+              "text": "Website",
+              "postback": "https://www.google.co.in/url?sa\u003dt\u0026rct\u003dj\u0026q\u003d\u0026esrc\u003ds\u0026source\u003dweb\u0026cd\u003d1\u0026cad\u003drja\u0026uact\u003d8\u0026ved\u003d2ahUKEwj_96-SwvvZAhUjSo8KHTS6BEYQ_BcwAHoECAAQCQ\u0026url\u003dhttp%3A%2F%2Fwww.kanha.co%2F\u0026usg\u003dAOvVaw0SGidi0VRdT79z1TAeFpYn"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x396db4040eac19d3:0x2f301541cbe55cd3?sa\u003dX\u0026ved\u003d2ahUKEwj_96-SwvvZAhUjSo8KHTS6BEYQ9RcwAHoECAAQCg"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "SKY FALL RESTAURANT",
+          "imageUrl": "https://b.zmtcdn.com/data/pictures/6/100306/0b03ab672cb309f363bdfd0b444d803f_featured_v2.jpg",
+          "buttons": [
+            {
+              "text": "Website"
+            },
+            {
+              "text": "Directions",
+              "postback": "https://www.google.co.in/maps/dir/\u0027\u0027/\u0027\u0027/data\u003d!4m5!4m4!1m0!1m2!1m1!1s0x396db5df54e46e97:0x1d5507741cb0c9d2?sa\u003dX\u0026ved\u003d2ahUKEwjAgsaFw_vZAhXEmZQKHT5ZAAQQ9RcwAHoECAAQCQ"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521580642,
+  "fallbackIntent": false,
+  "events": []
+}

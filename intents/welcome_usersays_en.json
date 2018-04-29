@@ -1,0 +1,94 @@
+[
+  {
+    "id": "89899d80-68b3-49e8-a493-7469cb8472e8",
+    "data": [
+      {
+        "text": "Hello",
+        "alias": "airline",
+        "meta": "@airline",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579246
+  },
+  {
+    "id": "122165db-eb4c-41e2-bc99-d88c2f31cd3c",
+    "data": [
+      {
+        "text": "Hey",
+        "alias": "greeting",
+        "meta": "@greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579246
+  },
+  {
+    "id": "f2844747-73df-4286-a613-ed78783fb3d8",
+    "data": [
+      {
+        "text": "tourism",
+        "alias": "greeting",
+        "meta": "@greeting",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579246
+  },
+  {
+    "id": "6cb2c670-96bd-4628-b270-cd8e17dee3b3",
+    "data": [
+      {
+        "text": "Hey",
+        "alias": "greeting",
+        "meta": "@greeting",
+        "userDefined": true
+      },
+      {
+        "text": " there!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579246
+  },
+  {
+    "id": "ddd1f98b-34eb-44bc-ae71-fa966a80c500",
+    "data": [
+      {
+        "text": "Hi",
+        "alias": "greeting",
+        "meta": "@greeting",
+        "userDefined": true
+      },
+      {
+        "text": " there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579246
+  },
+  {
+    "id": "55e70ac8-f759-491c-b570-8a2f1101a88f",
+    "data": [
+      {
+        "text": "Hi",
+        "alias": "greeting",
+        "meta": "@greeting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579246
+  }
+]

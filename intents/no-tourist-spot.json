@@ -1,0 +1,30 @@
+{
+  "id": "b1f05497-b5f9-4acc-a46f-741920f92b1f",
+  "name": "no-tourist-spot",
+  "auto": true,
+  "contexts": [
+    "tourist-spot"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thanks for using Travis! We hope you have a safe and happy journey! Do text us if you need any help!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521302542,
+  "fallbackIntent": false,
+  "events": []
+}

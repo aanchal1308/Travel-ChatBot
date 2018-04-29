@@ -1,0 +1,87 @@
+[
+  {
+    "id": "0c9ecd00-d920-4d14-b31d-5917ac039d3d",
+    "data": [
+      {
+        "text": "best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "palaces",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521481160
+  },
+  {
+    "id": "2264c3e6-ef6e-4670-a19a-699ad760fdf6",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "palaces",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521481160
+  },
+  {
+    "id": "afd8bb84-e789-4765-9c12-11a009d02782",
+    "data": [
+      {
+        "text": "palaces",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521481160
+  }
+]

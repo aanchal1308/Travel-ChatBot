@@ -1,0 +1,59 @@
+{
+  "id": "848ed254-9669-47a9-8539-0ad0dd2faa0a",
+  "name": "view-hotels",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Hotels-in-Jaipur",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Hotels-in-Udaipur",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "Hotels-in-Jodhpur",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "abe2b0e2-0a59-4629-b3f7-cf2ca46de344",
+          "required": false,
+          "dataType": "@hotel",
+          "name": "hotel",
+          "value": "$hotel",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "In which city do you want to book the hotels?",
+          "replies": [
+            "Hotels in Jaipur",
+            "Hotels in Udaipur",
+            "Hotels in Jodhpur"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521544254,
+  "fallbackIntent": false,
+  "events": []
+}

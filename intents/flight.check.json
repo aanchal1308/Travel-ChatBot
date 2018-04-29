@@ -1,0 +1,76 @@
+{
+  "id": "054bc1fe-4445-4245-8e3f-1323202ef7cf",
+  "name": "flight.check",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.check",
+      "affectedContexts": [
+        {
+          "name": "check-flight",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "55dfbcd8-3dd1-4ad4-bd5b-23a6372ebc3f",
+          "required": false,
+          "dataType": "@sys.flight-number",
+          "name": "flight-number",
+          "value": "$flight-number",
+          "isList": false
+        },
+        {
+          "id": "754c11d6-a168-41dd-af5a-19c58b1c351d",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "from",
+          "value": "$from",
+          "isList": false
+        },
+        {
+          "id": "b8fecba5-519b-47a0-8644-4f9ecb93ca42",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "to",
+          "value": "$to",
+          "isList": false
+        },
+        {
+          "id": "c09af4e0-a8a4-4ecc-ba24-41a517a40254",
+          "required": false,
+          "dataType": "@airline",
+          "name": "airline",
+          "value": "$airline",
+          "isList": false
+        },
+        {
+          "id": "bebd4235-38cd-48c9-9ad8-717a97db0326",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1496995062147,
+  "fallbackIntent": false,
+  "events": []
+}

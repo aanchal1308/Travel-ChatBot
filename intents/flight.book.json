@@ -1,0 +1,182 @@
+{
+  "id": "6449ae12-9f57-4c60-9a64-33c638e8edb8",
+  "name": "flight.book",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "flight.book",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f2a81b2e-0abe-49eb-aca7-ca98154bae24",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "from",
+          "value": "$from",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell me the Origin location of the flight you want to book."
+            },
+            {
+              "lang": "en",
+              "value": "What should be the source place of the flight?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "b65921ee-11da-40ec-be3c-3a2b060a2abf",
+          "required": true,
+          "dataType": "@sys.location",
+          "name": "to",
+          "value": "$to",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What should be the destination place?"
+            },
+            {
+              "lang": "en",
+              "value": "Where do you want to fly to?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "c8bdb3ca-315a-46c5-b2ad-993bbe611eab",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "departure",
+          "value": "$departure",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please mention the departure time."
+            },
+            {
+              "lang": "en",
+              "value": "What should be the departure time?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "9ec9daf0-2885-40be-8159-3234cc3f6c13",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "name": "return",
+          "value": "$return",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "And the return time?"
+            },
+            {
+              "lang": "en",
+              "value": "Ok, what should be the return time?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "9e76e5a2-aa18-4940-a6ea-1a739998b919",
+          "required": false,
+          "dataType": "@ticket-type",
+          "name": "ticket-type",
+          "value": "$ticket-type",
+          "isList": false
+        },
+        {
+          "id": "c3e82668-0986-4e1c-a474-97f76def1db9",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "adult",
+          "value": "$adult",
+          "isList": false
+        },
+        {
+          "id": "29fca9b1-9f92-48be-9bde-1dbf500ae689",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "child",
+          "value": "$child",
+          "isList": false
+        },
+        {
+          "id": "2e6ace92-f4d4-47f9-a4a8-5e775b3ee4fd",
+          "required": false,
+          "dataType": "@class",
+          "name": "class",
+          "value": "$class",
+          "isList": false
+        },
+        {
+          "id": "7b45bd14-9f82-405a-8c9a-0a253e11b888",
+          "required": false,
+          "dataType": "@nonstop",
+          "name": "nonstop",
+          "value": "$nonstop",
+          "isList": false
+        },
+        {
+          "id": "16acd33f-db6f-44fc-9222-2e1b33968ae3",
+          "required": false,
+          "dataType": "@refundable",
+          "name": "refundable",
+          "value": "$refundable",
+          "isList": false
+        },
+        {
+          "id": "41800505-9ee8-4e91-a366-6d69202f3d61",
+          "required": false,
+          "dataType": "@airline",
+          "name": "airline",
+          "value": "$airline",
+          "isList": false
+        },
+        {
+          "id": "2c04bb67-e0bb-436e-a7b9-dcdd6d9c2b20",
+          "required": false,
+          "dataType": "@map-sort",
+          "name": "sort",
+          "value": "$sort",
+          "isList": false
+        },
+        {
+          "id": "fb2483d4-fdcb-4a01-bcdb-88ea48f661b7",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "price",
+          "value": "$price",
+          "isList": false
+        },
+        {
+          "id": "497a834b-5b12-48d7-b238-3239ff4cec5a",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "stops",
+          "value": "$stops",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521350063,
+  "fallbackIntent": false,
+  "events": []
+}

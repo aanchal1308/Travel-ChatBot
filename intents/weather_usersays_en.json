@@ -1,0 +1,116 @@
+[
+  {
+    "id": "ffc1412a-6ce6-46bf-a276-521b192cdd12",
+    "data": [
+      {
+        "text": "what\u0027s the weather like in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521369815
+  },
+  {
+    "id": "c4749f15-276a-4203-94cd-78f18f964c8e",
+    "data": [
+      {
+        "text": "weather",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1521369815
+  },
+  {
+    "id": "d25a2777-cd31-43a9-b133-3e03e7974dcc",
+    "data": [
+      {
+        "text": "My location is ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521369815
+  },
+  {
+    "id": "fb6763a2-4bb6-45a0-828c-310184537448",
+    "data": [
+      {
+        "text": "Weather in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1521369815
+  },
+  {
+    "id": "c06ab090-8bb7-48a1-9821-370534af7146",
+    "data": [
+      {
+        "text": "What\u0027s the weather like",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521369815
+  },
+  {
+    "id": "f36c513b-b8ba-4823-97ac-2fe9e0cf9c28",
+    "data": [
+      {
+        "text": "I\u0027m located in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521369815
+  },
+  {
+    "id": "6b774499-b257-4576-b61c-5ff8154404af",
+    "data": [
+      {
+        "text": "I\u0027m at ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521369815
+  }
+]

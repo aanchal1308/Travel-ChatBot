@@ -1,0 +1,79 @@
+[
+  {
+    "id": "4ec3b325-fd00-4966-a874-072c1de9eff3",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "hotels",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "Jaipur",
+        "meta": "@Jaipur",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579923
+  },
+  {
+    "id": "731e60b3-2de5-4604-b950-727805ff98d3",
+    "data": [
+      {
+        "text": "hotels",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "Jaipur",
+        "meta": "@Jaipur",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1521579923
+  },
+  {
+    "id": "18522685-d79a-485a-a085-08909340b809",
+    "data": [
+      {
+        "text": "hotel",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "jaipur",
+        "alias": "Jaipur",
+        "meta": "@Jaipur",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579923
+  }
+]

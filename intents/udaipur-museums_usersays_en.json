@@ -1,0 +1,82 @@
+[
+  {
+    "id": "fcf20fe8-f0d7-46a9-9ce5-3addd527dd51",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521482484
+  },
+  {
+    "id": "c8f9f7d6-1c1e-4fd1-bada-a8865afdb8b2",
+    "data": [
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521482484
+  },
+  {
+    "id": "9cf22681-d886-438c-ace5-6e8342e412f8",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521482484
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "5895f7b6-26e9-4f2f-a453-9fe893716680",
+    "data": [
+      {
+        "text": "religious places",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484897
+  },
+  {
+    "id": "0cb43a5a-8b5d-44a3-938b-ae55974797ae",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "religious places",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521484897
+  }
+]

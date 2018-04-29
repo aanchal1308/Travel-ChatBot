@@ -1,0 +1,77 @@
+{
+  "id": "7c10d6e0-c26d-42b3-a946-8ea4b83da032",
+  "name": "jodhpur-lakes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4ebd92b0-4ae1-433f-9485-3f66fa4c16ed",
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "isList": false
+        },
+        {
+          "id": "ce8e5dcf-a8f7-41c6-934c-f6c8fb82d084",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Balsamand Lake",
+          "subtitle": "Jodhpur",
+          "imageUrl": "https://rajasthantourismbuzz.files.wordpress.com/2014/09/balsamand-lake.jpg?w\u003d652",
+          "buttons": [
+            {
+              "text": "Balsamand Lake",
+              "postback": "https://en.wikipedia.org/wiki/Kaylana_Lake"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Kaylana Lake",
+          "subtitle": "Jodhpur",
+          "imageUrl": "https://gtcholiday.files.wordpress.com/2017/04/jodhpur-kaylana-lake.jpg?w\u003d558",
+          "buttons": [
+            {
+              "text": "Kaylana Lake",
+              "postback": "https://en.wikipedia.org/wiki/Kaylana_Lake"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521486834,
+  "fallbackIntent": false,
+  "events": []
+}

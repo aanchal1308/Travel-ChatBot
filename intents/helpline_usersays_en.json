@@ -1,0 +1,56 @@
+[
+  {
+    "id": "db2c9f48-d0ed-49c9-bfe2-a6544a73edb1",
+    "data": [
+      {
+        "text": "helpline of ",
+        "userDefined": false
+      },
+      {
+        "text": "Fire-Station",
+        "alias": "fire-station",
+        "meta": "@helpline-fire",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578519
+  },
+  {
+    "id": "82b8c661-bfcd-45d1-a73f-09ab4747a5b9",
+    "data": [
+      {
+        "text": "helpline of ",
+        "userDefined": false
+      },
+      {
+        "text": "Ambulance",
+        "alias": "ambulance",
+        "meta": "@helpline-am",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578519
+  },
+  {
+    "id": "9155a4d6-d6fa-45fa-a048-7bed8d63342d",
+    "data": [
+      {
+        "text": "helpline no. of ",
+        "userDefined": false
+      },
+      {
+        "text": "Police",
+        "alias": "police",
+        "meta": "@helpline-police",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578519
+  }
+]

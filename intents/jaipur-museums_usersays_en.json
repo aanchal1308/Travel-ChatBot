@@ -1,0 +1,101 @@
+[
+  {
+    "id": "cd44450b-bb8d-4cc6-96dd-71a05489b6b4",
+    "data": [
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577184
+  },
+  {
+    "id": "f4817b54-34ba-4304-92f0-82b5a34594fd",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521532758
+  },
+  {
+    "id": "93c851c4-0afc-4574-bf1a-86ffc6c44321",
+    "data": [
+      {
+        "text": "best",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521532758
+  },
+  {
+    "id": "351db6c4-7be6-4a7d-8263-4c9856152357",
+    "data": [
+      {
+        "text": "museums",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521532758
+  }
+]

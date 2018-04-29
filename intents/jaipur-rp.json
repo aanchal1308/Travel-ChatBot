@@ -1,0 +1,100 @@
+{
+  "id": "1c60d8b5-bfc4-4c06-8cde-a4807a052465",
+  "name": "jaipur-rp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jaipur-rp",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "691f4dd2-56e7-4b54-b605-04a24dd51948",
+          "required": false,
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter any spot!"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "83c173c4-d6ea-4f34-aac3-c6e60e045156",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which city are you located?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Birla Mandir",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQvRihFTpsMWb4O2wlroWve_mLCnVPE1TpVCS8zByygUNv5a0uJcg",
+          "buttons": [
+            {
+              "text": "Birla Mandir",
+              "postback": "https://en.wikipedia.org/wiki/Birla_Mandir,_Jaipur"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Moti Dungri Ganesh Mandir",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://www.rajasthandirect.com/wp-content/uploads/2013/05/Moti-Doongri-Jaipur.jpg",
+          "buttons": [
+            {
+              "text": "Moti Dungri Ganesh Mandir",
+              "postback": "https://en.wikipedia.org/wiki/Moti_Dungri"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Kalki Temple",
+          "subtitle": "Jaipur",
+          "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/51/0f/e3/kalki-temple-view.jpg",
+          "buttons": [
+            {
+              "text": "Kalki Temple",
+              "postback": "http://www.indiaprofile.com/monuments-temples/kalkitemple.htm"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521577285,
+  "fallbackIntent": false,
+  "events": []
+}

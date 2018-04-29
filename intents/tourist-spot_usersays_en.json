@@ -1,0 +1,168 @@
+[
+  {
+    "id": "1fa7285b-e4df-4aa0-9dfd-d28f697aad55",
+    "data": [
+      {
+        "text": "Hey Travis, can you help me find some ",
+        "userDefined": false
+      },
+      {
+        "text": "good places",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      },
+      {
+        "text": " to visit in Rajasthan?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521579423
+  },
+  {
+    "id": "cbebdd97-27a9-4abf-a0f1-e85110c93b68",
+    "data": [
+      {
+        "text": "Is there any ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist place",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Rajasthan",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578703
+  },
+  {
+    "id": "ccbbeb55-bfe7-4dec-b9bf-319852e287e2",
+    "data": [
+      {
+        "text": "Give me some ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist places",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578703
+  },
+  {
+    "id": "50e8ae87-e30d-41b2-91f9-76eb0927171f",
+    "data": [
+      {
+        "text": "name some nearby ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist places",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578703
+  },
+  {
+    "id": "32707fb0-aaa9-4b15-a751-b009a97fdca5",
+    "data": [
+      {
+        "text": "what are the ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist places",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      },
+      {
+        "text": " here",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578703
+  },
+  {
+    "id": "69638684-90e8-48da-91eb-7abd29ac9aa4",
+    "data": [
+      {
+        "text": "tourist places",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578703
+  },
+  {
+    "id": "86611245-b021-4cf7-acd4-b599581eea10",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist places",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      },
+      {
+        "text": " nearby?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578703
+  },
+  {
+    "id": "a641023d-c85e-46d3-8f71-e13c3ed10a75",
+    "data": [
+      {
+        "text": "nearby ",
+        "userDefined": false
+      },
+      {
+        "text": "tourist places",
+        "alias": "place",
+        "meta": "@place",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578703
+  }
+]

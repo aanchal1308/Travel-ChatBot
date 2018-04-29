@@ -1,0 +1,56 @@
+{
+  "id": "6545dd17-0ee7-474e-ba60-f4f626d0f2e6",
+  "name": "restaurants",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Restaurants-jaipur",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "restaurants-udaipur",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "restaurants-jodhpur",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "In which city do u want to find the restaurants?",
+          "replies": [
+            "restaurants Jaipur",
+            "restaurants Udaipur",
+            "restaurants Jodhpur",
+            "restaurants  Bikaner"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521573312,
+  "fallbackIntent": false,
+  "events": []
+}

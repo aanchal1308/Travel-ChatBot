@@ -1,0 +1,72 @@
+[
+  {
+    "id": "86ab1990-e49a-453c-a84a-7dedac82ec39",
+    "data": [
+      {
+        "text": "Lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577137
+  },
+  {
+    "id": "b7a83a92-c0d8-4db0-b871-08ccc355c279",
+    "data": [
+      {
+        "text": "Lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521577137
+  },
+  {
+    "id": "f36acc04-57ae-467a-9292-abfd83fe0bc7",
+    "data": [
+      {
+        "text": "What are the ",
+        "userDefined": false
+      },
+      {
+        "text": "lakes",
+        "alias": "spots",
+        "meta": "@spots",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521577137
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "id": "1d4a308a-d61d-4ebf-b401-256847401b2e",
+  "name": "jodhpur-palaces",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jodhpur-palaces",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "10ff43f4-ca96-4a78-b837-2bfb29bc3bbf",
+          "required": true,
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "prompts": [],
+          "isList": true
+        },
+        {
+          "id": "34577350-d31b-48b1-9a34-2935451129f4",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which city are you located?"
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Umaid Bhawan Palace",
+          "subtitle": "Jodhpur",
+          "imageUrl": "https://www.ohmyrajasthan.com/uploads/4/1511863805UBP-by-Sam.jpg",
+          "buttons": [
+            {
+              "text": "Umaid Bhawan Palace",
+              "postback": "https://en.wikipedia.org/wiki/Umaid_Bhawan_Palace"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Indana Palace",
+          "subtitle": "Jodhpur",
+          "imageUrl": "https://t-ec.bstatic.com/images/hotel/max1024x768/205/20516074.jpg",
+          "buttons": [
+            {
+              "text": "Indana Palace",
+              "postback": "www.indanahotels.com/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mehrangarh Fort",
+          "subtitle": "Jodhpur",
+          "imageUrl": "http://ste.india.com/sites/default/files/2015/04/03/342133-mehrangarh-fort-jodhpur.jpg",
+          "buttons": [
+            {
+              "text": "Mehrangarh Fort",
+              "postback": "https://en.wikipedia.org/wiki/Mehrangarh"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521521720,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,86 @@
+{
+  "id": "ec8bdea3-9264-4727-97ed-75941c99e43a",
+  "name": "dest",
+  "auto": true,
+  "contexts": [
+    "tourist-spot"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Findcity",
+      "affectedContexts": [
+        {
+          "name": "dest",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "tourist-spot",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "palaces",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "lakes",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "museums",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0f9c0d8e-2002-456a-89f9-79536bb5abe8",
+          "required": true,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide your city!"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "There are quite attractive tourist attractions in Rajasthan",
+          "replies": [
+            "Palaces",
+            "Lakes",
+            "Museums",
+            "Religious Places"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521580038,
+  "fallbackIntent": false,
+  "events": []
+}

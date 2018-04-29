@@ -1,0 +1,50 @@
+{
+  "id": "41af07e9-59ef-4f63-ade5-9d0504f50aad",
+  "name": "jodhpur-museums",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jodhpur-museums",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0789cf34-8a48-4de8-99c2-805535fbbbb5",
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": true
+        },
+        {
+          "id": "67131487-187a-4b48-9c24-26272f7fe2e4",
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521487558,
+  "fallbackIntent": false,
+  "events": []
+}

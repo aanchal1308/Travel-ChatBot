@@ -1,0 +1,49 @@
+[
+  {
+    "id": "73425756-7251-4592-9d12-78b79f174b1d",
+    "data": [
+      {
+        "text": "events",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521578021
+  },
+  {
+    "id": "2420d3a1-2d69-422e-855f-83760817b584",
+    "data": [
+      {
+        "text": "cultural events",
+        "alias": "cultural-event",
+        "meta": "@cultural-event",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521578021
+  }
+]

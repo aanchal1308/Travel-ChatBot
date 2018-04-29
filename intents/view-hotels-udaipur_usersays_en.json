@@ -1,0 +1,50 @@
+[
+  {
+    "id": "47a676ca-1b0c-4a1e-8e88-e01ebcff2d30",
+    "data": [
+      {
+        "text": "hotels in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521552933
+  },
+  {
+    "id": "c9c7b920-4334-4f1b-b693-65a32ccc64e7",
+    "data": [
+      {
+        "text": "where ",
+        "userDefined": false
+      },
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " i stay in ",
+        "userDefined": false
+      },
+      {
+        "text": "Udaipur",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521552933
+  }
+]

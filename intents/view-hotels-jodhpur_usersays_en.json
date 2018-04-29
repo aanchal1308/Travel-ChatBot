@@ -1,0 +1,61 @@
+[
+  {
+    "id": "ee30f6e9-71bd-4df1-a6e8-5d337c4831fe",
+    "data": [
+      {
+        "text": "hotels",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521551984
+  },
+  {
+    "id": "e0d8779e-adb0-4a99-9e76-e463f2489601",
+    "data": [
+      {
+        "text": "hotel in ",
+        "userDefined": false
+      },
+      {
+        "text": "jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521551984
+  },
+  {
+    "id": "38200725-263d-4e89-83e0-46f174dc7161",
+    "data": [
+      {
+        "text": "what are the hotels in ",
+        "userDefined": false
+      },
+      {
+        "text": "jodhpur",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1521551984
+  }
+]

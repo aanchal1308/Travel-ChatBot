@@ -1,0 +1,58 @@
+{
+  "id": "72befb9f-1512-4d0e-b80e-2bb884719203",
+  "name": "helpline",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6ac8ff3d-4604-4450-8b76-7f9d162c304b",
+          "required": false,
+          "dataType": "@helpline-fire",
+          "name": "fire-station",
+          "value": "$fire-station",
+          "isList": false
+        },
+        {
+          "id": "e1f7bf4c-aada-4738-879a-5786e56ebd31",
+          "required": false,
+          "dataType": "@helpline-am",
+          "name": "ambulance",
+          "value": "$ambulance",
+          "isList": false
+        },
+        {
+          "id": "d4e89272-b868-4780-903c-be2996d445a3",
+          "required": false,
+          "dataType": "@helpline-police",
+          "name": "police",
+          "value": "$police",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Rajasthan Police is always there for you!",
+          "replies": [
+            "Call Now",
+            "No is: 111"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521578519,
+  "fallbackIntent": false,
+  "events": []
+}

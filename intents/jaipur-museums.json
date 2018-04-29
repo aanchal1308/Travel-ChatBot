@@ -1,0 +1,86 @@
+{
+  "id": "72cfba86-b760-4f17-9fbe-e37e2700d316",
+  "name": "jaipur-museums",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jaipur-museums",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "641efa85-fde0-41f4-9ab0-1135cc7f1bce",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "In which city are you located?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "87a8c6cc-def2-4812-8f64-d088a76f627b",
+          "required": false,
+          "dataType": "@spots",
+          "name": "spots",
+          "value": "$spots",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please select a spot!"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Albert Hall Museum",
+          "subtitle": "Jaipur",
+          "imageUrl": "http://jaipurtalks.com/wp-content/uploads/2016/08/Albert-Hall-museum-Jaipur-Jaipurtalks-2.jpg",
+          "buttons": [
+            {
+              "text": "Albert Hall Museum",
+              "postback": "https://en.wikipedia.org/wiki/Albert_Hall_Museum"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dolls Museum",
+          "subtitle": "Jaipur",
+          "imageUrl": "http://www.sightseeings.co/jap/upload/thumbs/Sardar%20Patel%20Museum.jpg",
+          "buttons": [
+            {
+              "text": "Dolls Museum",
+              "postback": "https://www.gocityguides.com/jaipur/adarsh-nagar/shopping/dolls-museum"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521577184,
+  "fallbackIntent": false,
+  "events": []
+}
